@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "downshift"
+version = "0.1.0"
+license = "GPL-3.0-only"
+description = "Downshift is a tool to plan long trips using the cheapest public transportation available"
+authors = ["Michael House <mjhouse@protonmail.com>"]
+readme = "README.md"
+
+[tool.poetry.scripts]
+console = "downshift.console:run"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = "^2.31.0"
+pycryptodome = "^3.18.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
