@@ -1,6 +1,6 @@
-from downshift import amtrak
+from downshift.amtrak.source import Amtrak
 
 def run():
-    source = amtrak.Amtrak("cache/")
+    source = Amtrak("cache/")
     for route in source.routes():
         print(route)

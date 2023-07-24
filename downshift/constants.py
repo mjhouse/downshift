@@ -4,6 +4,19 @@ from enum import Enum
 AMTRAK_STATIONS_URL: str = "https://maps.amtrak.com/services/MapDataService/stations/allStations"
 AMTRAK_ROUTES_URL: str = "https://maps.amtrak.com/services/MapDataService/stations/nationalRoute"
 
+# POST to this url with something like: `{ "RouteOptions": [{"Name": "Crescent","Origin": "BHM","Destination": "ATL" }]}`
+AMTRAK_ROUTE_FIND_URL: str = "https://maps.amtrak.com/services/MapDataService/RoutePointSearch/getRoutePointListCollections"
+
+# GET  to this url with the following headers set:
+#   origin
+#       BHM
+#   destination
+#       ATL
+#   startDate
+#       2023-07-23T01:01:00
+AMTRAK_SCHEDULES_FIND_URL: str = "https://www.amtrak.com/v3/travel-service/schedules"
+
+
 # dictionary paths used to parse fetched data
 AMTRAK_ID_PATH: str = "properties/gx_id"
 AMTRAK_SEGID_PATH: str = "properties/segmentid"
