@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 56351,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.455517,
+        "lon": -109.52875
+    },
+    "name": "Vernal, UT",
+    "search_volume": 600,
+    "slug": "vernal-ut",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "8b3bc6c9-095d-4a37-88c1-8a41be2cdaa7",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Vernal (Quality Inn)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Vernal, UT",
+                "postalCode": "84078",
+                "streetAddress": "1684 US-40"
+            },
+            "latitude": 40.442517,
+            "longitude": -109.563035
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 70033,
+    "language": "en-gl",
+    "location": {
+        "lat": 34.93932,
+        "lon": -79.77395
+    },
+    "name": "Rockingham, NC",
+    "search_volume": 1600,
+    "slug": "rockingham-nc",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "8a65dab5-b670-4918-89fd-547c0b9dbabd",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Rockingham (King Fuel Station)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Rockingham, NC",
+                "postalCode": "28379",
+                "streetAddress": "824 East Broad Ave"
+            },
+            "latitude": 34.927495,
+            "longitude": -79.759047
+        }
+    ]
+}

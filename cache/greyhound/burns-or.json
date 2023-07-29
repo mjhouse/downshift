@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 113873,
+    "language": "en-gl",
+    "location": {
+        "lat": 43.58626,
+        "lon": -119.0541
+    },
+    "name": "Burns, OR",
+    "search_volume": 200,
+    "slug": "burns-or",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "22a91611-8853-472b-b239-d4ce22742759",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Burns",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Burns, OR",
+                "postalCode": "97720",
+                "streetAddress": "230 Hines Blvd"
+            },
+            "latitude": 43.583402,
+            "longitude": -119.064062
+        }
+    ]
+}

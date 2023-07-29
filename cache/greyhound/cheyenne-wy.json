@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 59141,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.13998,
+        "lon": -104.820244
+    },
+    "name": "Cheyenne, WY",
+    "search_volume": 6200,
+    "slug": "cheyenne-wy",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "7385d86d-018e-43b8-82b6-e961f7d595bd",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Cheyenne (Sinclair)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Cheyenne, WY",
+                "postalCode": "82007",
+                "streetAddress": "3306 W College Dr"
+            },
+            "latitude": 41.100166,
+            "longitude": -104.848409
+        }
+    ]
+}

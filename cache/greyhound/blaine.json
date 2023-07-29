@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 112003,
+    "language": "en-gl",
+    "location": {
+        "lat": 45.160637,
+        "lon": -93.23421
+    },
+    "name": "Blaine",
+    "search_volume": 500,
+    "slug": "blaine",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "492342bd-5ed3-4046-98b2-e7a0123519e0",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Blaine",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Blaine",
+                "postalCode": "55449",
+                "streetAddress": "3249 95Th Ave Ne"
+            },
+            "latitude": 45.145473,
+            "longitude": -93.183823
+        }
+    ]
+}

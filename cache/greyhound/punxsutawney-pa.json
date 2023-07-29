@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 111433,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.943676,
+        "lon": -78.97086
+    },
+    "name": "Punxsutawney, PA",
+    "search_volume": 400,
+    "slug": "punxsutawney-pa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "e7c4eba9-8f27-44e7-b64e-0c0765432895",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Punxsutawney",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Punxsutawney, PA",
+                "postalCode": "15767",
+                "streetAddress": "222 North Findley St"
+            },
+            "latitude": 40.095,
+            "longitude": -78.0967
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110373,
+    "language": "en-gl",
+    "location": {
+        "lat": 45.216633,
+        "lon": -112.63892
+    },
+    "name": "Dillon, MT",
+    "search_volume": 500,
+    "slug": "dillon-mt",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "98476239-e5f4-433b-8cec-82286d0d77aa",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Dillon",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Dillon, MT",
+                "postalCode": "59725",
+                "streetAddress": "570 N Montana St"
+            },
+            "latitude": 45.22391,
+            "longitude": -112.62775
+        }
+    ]
+}

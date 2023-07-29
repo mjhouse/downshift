@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 70543,
+    "language": "en-gl",
+    "location": {
+        "lat": 38.76279,
+        "lon": -93.73605
+    },
+    "name": "Warrensburg, MO",
+    "search_volume": 2200,
+    "slug": "warrensburg-mo",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "3a1b5635-fc3d-4b35-a360-9e1f13ab08cb",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Warrensburg (Chamber Of Commerce)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Warrensburg, MO",
+                "postalCode": "64093",
+                "streetAddress": "100 S Holden St"
+            },
+            "latitude": 38.762474,
+            "longitude": -93.740454
+        }
+    ]
+}

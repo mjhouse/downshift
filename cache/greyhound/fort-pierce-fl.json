@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 39901,
+    "language": "en-gl",
+    "location": {
+        "lat": 27.446705,
+        "lon": -80.32561
+    },
+    "name": "Fort Pierce, FL",
+    "search_volume": 12100,
+    "slug": "fort-pierce-fl",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "5b0b1bf3-22e8-4b77-bca8-99508d764c8b",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Fort Pierce",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Fort Pierce, FL",
+                "postalCode": "34947",
+                "streetAddress": "5575 Okeechobee Road"
+            },
+            "latitude": 27.417167,
+            "longitude": -80.381778
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Ft Pierce (Loves Travel Stop)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Fort Pierce, FL",
+                "postalCode": "34945",
+                "streetAddress": "7150 Okeechobee Rd"
+            },
+            "latitude": 27.413925,
+            "longitude": -80.397842
+        }
+    ]
+}

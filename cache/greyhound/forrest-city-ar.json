@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 68813,
+    "language": "en-gl",
+    "location": {
+        "lat": 35.00815,
+        "lon": -90.78983
+    },
+    "name": "Forrest City, AR",
+    "search_volume": 4300,
+    "slug": "forrest-city-ar",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "a14f2d59-61f6-4a07-8962-ed741b6606f3",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Forrest City Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Forrest City, AR",
+                "postalCode": "72335",
+                "streetAddress": "2301 N Washington St"
+            },
+            "latitude": 35.031442,
+            "longitude": -90.790112
+        }
+    ]
+}

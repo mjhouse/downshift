@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 107223,
+    "language": "en-gl",
+    "location": {
+        "lat": 43.813774,
+        "lon": -91.2519
+    },
+    "name": "La Crosse, WI",
+    "search_volume": 3700,
+    "slug": "la-crosse-wi",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "a571597d-b589-4555-93e4-be5d1ef5e05b",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "La Crosse",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "La Crosse, WI",
+                "postalCode": "54601",
+                "streetAddress": "314 Jay St"
+            },
+            "latitude": 43.810516,
+            "longitude": -91.252969
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "La Crosse (U Of Wi - Mitchell Hall)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "La Crosse, WI",
+                "postalCode": "54601",
+                "streetAddress": "521 East Ave N"
+            },
+            "latitude": 43.81717,
+            "longitude": -91.22959
+        }
+    ]
+}

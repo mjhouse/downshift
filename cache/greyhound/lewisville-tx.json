@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 59311,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.046234,
+        "lon": -96.99417
+    },
+    "name": "Lewisville, TX",
+    "search_volume": 2200,
+    "slug": "lewisville-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "9922cc36-c5d4-4a53-94cd-9250c82fcf40",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Lewisville (Highland Lakes Chevron)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Lewisville, TX",
+                "postalCode": "75067",
+                "streetAddress": "877 S Stemmons Frwy"
+            },
+            "latitude": 33.037186,
+            "longitude": -97.002082
+        }
+    ]
+}

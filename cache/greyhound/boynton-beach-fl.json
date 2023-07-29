@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 54041,
+    "language": "en-gl",
+    "location": {
+        "lat": 26.531786,
+        "lon": -80.090546
+    },
+    "name": "Boynton Beach, FL",
+    "search_volume": 1600,
+    "slug": "boynton-beach-fl",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "4407595a-f287-4584-afbf-a6c76c2030b0",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Boynton Beach Trirail Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Boynton Beach, FL",
+                "postalCode": "33426",
+                "streetAddress": "2800 High Ridge Rd"
+            },
+            "latitude": 26.553563,
+            "longitude": -80.070578
+        }
+    ]
+}

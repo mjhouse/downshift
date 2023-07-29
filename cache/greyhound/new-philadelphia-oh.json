@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 109943,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.489788,
+        "lon": -81.44567
+    },
+    "name": "New Philadelphia, OH",
+    "search_volume": 2000,
+    "slug": "new-philadelphia-oh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "dd508936-14b2-420e-9434-e970e4eda697",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "New Philadelphia",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "New Philadelphia, OH",
+                "postalCode": "44663",
+                "streetAddress": "217 County Hwy 21"
+            },
+            "latitude": 40.48632,
+            "longitude": -81.482295
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "country": "US",
+    "id": 51661,
+    "language": "en-gl",
+    "location": {
+        "lat": 46.78667,
+        "lon": -92.10049
+    },
+    "name": "Duluth, MN",
+    "search_volume": 10200,
+    "slug": "duluth-mn",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "7e72def1-6218-4143-bcdf-4c6c07affdec",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Duluth",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Duluth, MN",
+                "postalCode": "55802",
+                "streetAddress": "228 W Michigan St"
+            },
+            "latitude": 46.783897,
+            "longitude": -92.101144
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Duluth (U Of Mn - Kirby Plaza)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Duluth, MN",
+                "postalCode": "55812",
+                "streetAddress": "1120 Kirby Dr"
+            },
+            "latitude": 46.8181991,
+            "longitude": -92.0853725
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Duluth Hobby Lobby",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Duluth, MN",
+                "postalCode": "55811",
+                "streetAddress": "1734 Mall Dr"
+            },
+            "latitude": 46.806393,
+            "longitude": -92.167042
+        }
+    ]
+}

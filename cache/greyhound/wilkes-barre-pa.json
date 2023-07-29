@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 56451,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.245914,
+        "lon": -75.88131
+    },
+    "name": "Wilkes-Barre, PA",
+    "search_volume": 12500,
+    "slug": "wilkes-barre-pa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "d79cec86-0f7f-4e0d-9804-157a2220bd96",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Wilkes-Barre",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Wilkes-Barre, PA",
+                "postalCode": "18701",
+                "streetAddress": "47 S Washington St"
+            },
+            "latitude": 41.242336,
+            "longitude": -75.884925
+        }
+    ]
+}

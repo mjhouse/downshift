@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 68283,
+    "language": "en-gl",
+    "location": {
+        "lat": 27.752249,
+        "lon": -98.069725
+    },
+    "name": "Alice, TX",
+    "search_volume": 2200,
+    "slug": "alice-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "b636d294-e018-4eea-944b-19b1f502aaff",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Alice (Exxon Food Mart)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Alice, TX",
+                "postalCode": "78332",
+                "streetAddress": "620 S Hwy 281"
+            },
+            "latitude": 27.74339,
+            "longitude": -98.084242
+        }
+    ]
+}

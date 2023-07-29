@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110403,
+    "language": "en-gl",
+    "location": {
+        "lat": 44.424362,
+        "lon": -111.37106
+    },
+    "name": "Island Park, ID",
+    "search_volume": 100,
+    "slug": "island-park-id",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "f02c0928-ad95-421b-a7e5-fcd338af1f87",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Island Park (Last Chance)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Island Park, ID",
+                "postalCode": "83429",
+                "streetAddress": "3370 N HIGHWAY 20"
+            },
+            "latitude": 44.363899,
+            "longitude": -111.401703
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 53971,
+    "language": "en-gl",
+    "location": {
+        "lat": 26.684511,
+        "lon": -80.66756
+    },
+    "name": "Belle Glade, FL",
+    "search_volume": 900,
+    "slug": "belle-glade-fl",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "339cb8d0-d390-4a7a-886b-1afd70a71247",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Belle Glade (Twin Brothers Belle)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Belle Glade, FL",
+                "postalCode": "33430",
+                "streetAddress": "521 Sw 16Th St"
+            },
+            "latitude": 26.681941,
+            "longitude": -80.683143
+        }
+    ]
+}

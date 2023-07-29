@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110353,
+    "language": "en-gl",
+    "location": {
+        "lat": 44.1763,
+        "lon": -112.23082
+    },
+    "name": "Dubois, ID",
+    "search_volume": 100,
+    "slug": "dubois-id",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "ff0b0eba-15f5-43b7-a1e0-fda4867573be",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Dubois",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Dubois, ID",
+                "postalCode": "83423",
+                "streetAddress": "625 Main St"
+            },
+            "latitude": 44.1706,
+            "longitude": -112.2297
+        }
+    ]
+}

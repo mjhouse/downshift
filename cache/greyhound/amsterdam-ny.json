@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 68273,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.937744,
+        "lon": -74.19035
+    },
+    "name": "Amsterdam, NY",
+    "search_volume": 5000,
+    "slug": "amsterdam-ny",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "5fea059d-e401-45ab-bb30-1e9642b9cb1a",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Amsterdam Mall Main Entry",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Amsterdam, NY",
+                "postalCode": "12010",
+                "streetAddress": "1172 Riverfront Ctr"
+            },
+            "latitude": 42.936368,
+            "longitude": -74.188905
+        }
+    ]
+}

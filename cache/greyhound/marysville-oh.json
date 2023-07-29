@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 107313,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.23645,
+        "lon": -83.36714
+    },
+    "name": "Marysville, OH",
+    "search_volume": 1100,
+    "slug": "marysville-oh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "ec7bbfcd-bb9c-4d00-adc7-74b30d9a24dd",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Marysville",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Marysville, OH",
+                "postalCode": "43040",
+                "streetAddress": "16350 Allenby Dr"
+            },
+            "latitude": 40.2375,
+            "longitude": -83.3666
+        }
+    ]
+}

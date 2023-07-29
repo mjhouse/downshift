@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 48161,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.75895,
+        "lon": -84.191605
+    },
+    "name": "Dayton, OH",
+    "search_volume": 41700,
+    "slug": "dayton-oh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "f001033c-d35c-4e6f-8c95-cf987922528c",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Dayton",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Dayton, OH",
+                "postalCode": "45424",
+                "streetAddress": "7851 Old Troy Pike"
+            },
+            "latitude": 39.868238,
+            "longitude": -84.138003
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Dayton Trotwood Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Dayton, OH",
+                "postalCode": "45426",
+                "streetAddress": "5136 Salem Ave"
+            },
+            "latitude": 39.817579,
+            "longitude": -84.278319
+        }
+    ]
+}

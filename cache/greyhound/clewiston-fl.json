@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 68543,
+    "language": "en-gl",
+    "location": {
+        "lat": 26.75423,
+        "lon": -80.93368
+    },
+    "name": "Clewiston, FL",
+    "search_volume": 1100,
+    "slug": "clewiston-fl",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "1df75fcb-5522-42fb-9c69-6125193b293a",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Clewiston (Walmart Parking Lot)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Clewiston, FL",
+                "postalCode": "33440",
+                "streetAddress": "1005 W Sugarland Hwy"
+            },
+            "latitude": 26.756001,
+            "longitude": -80.948921
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 55551,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.49182,
+        "lon": -80.855644
+    },
+    "name": "Orangeburg, SC",
+    "search_volume": 6300,
+    "slug": "orangeburg-sc",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "e454eb38-92eb-4a85-95ef-5d5697ed4e10",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Orangeburg (Greyhound Bus Station)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Orangeburg, SC",
+                "postalCode": "29115",
+                "streetAddress": "1935 Old Edisto Dr"
+            },
+            "latitude": 33.481555,
+            "longitude": -80.883477
+        }
+    ]
+}

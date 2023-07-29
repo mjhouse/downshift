@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106903,
+    "language": "en-gl",
+    "location": {
+        "lat": 48.19199,
+        "lon": -114.31681
+    },
+    "name": "Kalispell, MT",
+    "search_volume": 2300,
+    "slug": "kalispell-mt",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "3ebc8821-7589-4582-a889-dc577c1249ff",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Kalispell",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Kalispell, MT",
+                "postalCode": "59901",
+                "streetAddress": "195 3Rd Ave E N"
+            },
+            "latitude": 48.202094,
+            "longitude": -114.309812
+        }
+    ]
+}

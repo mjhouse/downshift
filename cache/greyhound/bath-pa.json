@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 107693,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.72565,
+        "lon": -75.39407
+    },
+    "name": "Bath, PA",
+    "search_volume": 800,
+    "slug": "bath-pa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "03c441db-a6ae-4441-ba1f-30b8d4be3131",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Bath",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Bath, PA",
+                "postalCode": "18014",
+                "streetAddress": "109 W Main St"
+            },
+            "latitude": 40.725322,
+            "longitude": -75.393534
+        }
+    ]
+}

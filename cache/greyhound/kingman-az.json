@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 20708,
+    "language": "en-gl",
+    "location": {
+        "lat": 35.18944,
+        "lon": -114.05301
+    },
+    "name": "Kingman, AZ",
+    "search_volume": 8900,
+    "slug": "kingman-az",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "9dffe0c1-46a1-4598-b973-04f674cb356d",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Kingman (Love's)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Kingman, AZ",
+                "postalCode": "86401",
+                "streetAddress": "6035 Minerva Ln"
+            },
+            "latitude": 35.19875228622649,
+            "longitude": -113.90426784753801
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Kingman (Mc Donalds)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Kingman, AZ",
+                "postalCode": "86401",
+                "streetAddress": "3264 E Andy Devine Ave"
+            },
+            "latitude": 35.21839,
+            "longitude": -114.00732
+        }
+    ]
+}

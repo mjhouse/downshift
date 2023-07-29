@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 51771,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.66113,
+        "lon": -91.53017
+    },
+    "name": "Iowa City, IA",
+    "search_volume": 19300,
+    "slug": "iowa-city-ia",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "0fd5623f-1050-413a-876e-cc1ba3ca6123",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Iowa City",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Iowa City, IA",
+                "postalCode": "52240",
+                "streetAddress": "170 E Court St"
+            },
+            "latitude": 41.656638,
+            "longitude": -91.533685
+        }
+    ]
+}

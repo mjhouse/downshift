@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 111393,
+    "language": "en-gl",
+    "location": {
+        "lat": 44.34831,
+        "lon": -106.69894
+    },
+    "name": "Buffalo, WY",
+    "search_volume": 700,
+    "slug": "buffalo-wy",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "9eaac3e8-a4f6-44d4-a741-853f0fa36b6c",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Buffalo",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Buffalo, WY",
+                "postalCode": "82834",
+                "streetAddress": "187 US Hwy 16 East"
+            },
+            "latitude": 44.35548,
+            "longitude": -106.662081
+        }
+    ]
+}

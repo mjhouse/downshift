@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 117553,
+    "language": "en-gl",
+    "location": {
+        "lat": 43.64238,
+        "lon": -118.62854
+    },
+    "name": "Buchanan, OR",
+    "search_volume": 300,
+    "slug": "buchanan-or",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "49ca9e96-03cd-4ff9-be67-f51ed2ee297f",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Buchanan (E)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Buchanan, OR",
+                "postalCode": "97720",
+                "streetAddress": "42456 Hwy 20 E"
+            },
+            "latitude": 43.64248,
+            "longitude": -118.628414
+        }
+    ]
+}

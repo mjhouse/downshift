@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 51341,
+    "language": "en-gl",
+    "location": {
+        "lat": 38.951706,
+        "lon": -92.334076
+    },
+    "name": "Columbia, MO",
+    "search_volume": 14200,
+    "slug": "columbia-mo",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "002040fc-faf3-4299-81e0-6430347371f1",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Columbia (Midway Truck Plaza)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Columbia, MO",
+                "postalCode": "65202",
+                "streetAddress": "6401 Hwy 40 West"
+            },
+            "latitude": 38.973285,
+            "longitude": -92.446563
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Columbia Wabash Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Columbia, MO",
+                "postalCode": "65201",
+                "streetAddress": "126 N 10Th St"
+            },
+            "latitude": 38.953658,
+            "longitude": -92.32619
+        }
+    ]
+}

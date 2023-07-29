@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 111823,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.423313,
+        "lon": -104.70913
+    },
+    "name": "Greeley, CO",
+    "search_volume": 2600,
+    "slug": "greeley-co",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "782c150e-6023-4b40-8db2-64cc3573eec6",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Greeley",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Greeley, CO",
+                "postalCode": "80631",
+                "streetAddress": "101 11Th Ave"
+            },
+            "latitude": 40.433958,
+            "longitude": -104.696645
+        }
+    ]
+}

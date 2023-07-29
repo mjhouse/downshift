@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69223,
+    "language": "en-gl",
+    "location": {
+        "lat": 32.38626,
+        "lon": -94.87577
+    },
+    "name": "Kilgore, TX",
+    "search_volume": 700,
+    "slug": "kilgore-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "fc89b03d-392e-4100-a5eb-97b05d5ea552",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Kilgore (E-Z Mart)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Kilgore, TX",
+                "postalCode": "75662",
+                "streetAddress": "6420 Tx-135"
+            },
+            "latitude": 32.44083,
+            "longitude": -94.93116
+        }
+    ]
+}

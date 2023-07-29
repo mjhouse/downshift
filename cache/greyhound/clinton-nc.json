@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 113223,
+    "language": "en-gl",
+    "location": {
+        "lat": 34.997944,
+        "lon": -78.32333
+    },
+    "name": "Clinton, NC",
+    "search_volume": 600,
+    "slug": "clinton-nc",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "ed375d02-636e-466d-bce3-8bd380af35ad",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Clinton (E)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Clinton, NC",
+                "postalCode": "28328",
+                "streetAddress": "500 Lisbon St"
+            },
+            "latitude": 34.994257,
+            "longitude": -78.319377
+        }
+    ]
+}

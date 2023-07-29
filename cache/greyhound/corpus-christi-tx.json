@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 51371,
+    "language": "en-gl",
+    "location": {
+        "lat": 27.800583,
+        "lon": -97.39638
+    },
+    "name": "Corpus Christi, TX",
+    "search_volume": 38300,
+    "slug": "corpus-christi-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "fc1c9ac7-a55e-41fe-8393-743543de8f8b",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Corpus Christi Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Corpus Christi, TX",
+                "postalCode": "78401",
+                "streetAddress": "602 N Staples"
+            },
+            "latitude": 27.795611,
+            "longitude": -97.402456
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Corpus Christi West",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Corpus Christi, TX",
+                "postalCode": "78410",
+                "streetAddress": "11201 Ih 37"
+            },
+            "latitude": 27.849487,
+            "longitude": -97.583134
+        }
+    ]
+}

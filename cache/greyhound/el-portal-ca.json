@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 113583,
+    "language": "en-gl",
+    "location": {
+        "lat": 37.674652,
+        "lon": -119.78406
+    },
+    "name": "El Portal, CA",
+    "search_volume": 100,
+    "slug": "el-portal-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "65f69fd3-226c-49ad-8e5a-645528843c15",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "EL PORTAL YOSEMITE LODGE",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "El Portal, CA",
+                "postalCode": "95318",
+                "streetAddress": "11136 CA 140"
+            },
+            "latitude": 37.678317,
+            "longitude": -119.766422
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 36651,
+    "language": "en-gl",
+    "location": {
+        "lat": 26.715342,
+        "lon": -80.053375
+    },
+    "name": "West Palm Beach, FL",
+    "search_volume": 48100,
+    "slug": "west-palm-beach-fl",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "8242f250-1b5b-4262-9943-7852a78abd8b",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "West Palm Beach",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "West Palm Beach, FL",
+                "postalCode": "33401",
+                "streetAddress": "205 S Tamarind Ave"
+            },
+            "latitude": 26.712113,
+            "longitude": -80.062096
+        }
+    ]
+}

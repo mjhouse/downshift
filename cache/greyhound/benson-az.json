@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 68393,
+    "language": "en-gl",
+    "location": {
+        "lat": 31.967861,
+        "lon": -110.29452
+    },
+    "name": "Benson, AZ",
+    "search_volume": 900,
+    "slug": "benson-az",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "7a909c0c-3a86-481b-9385-bd020f3a3407",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Benson Visitors Center",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Benson, AZ",
+                "postalCode": "85602",
+                "streetAddress": "249 E 4Th St"
+            },
+            "latitude": 31.9682,
+            "longitude": -110.295
+        }
+    ]
+}

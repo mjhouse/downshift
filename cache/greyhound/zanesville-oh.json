@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 59521,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.940346,
+        "lon": -82.01319
+    },
+    "name": "Zanesville, OH",
+    "search_volume": 1500,
+    "slug": "zanesville-oh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "1535cad8-c2c5-41a0-8f8e-b70024845728",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Zanesville Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Zanesville, OH",
+                "postalCode": "43701",
+                "streetAddress": "224 Main St"
+            },
+            "latitude": 39.940165,
+            "longitude": -82.009935
+        }
+    ]
+}

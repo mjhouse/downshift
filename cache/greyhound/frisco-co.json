@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 68843,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.574432,
+        "lon": -106.09752
+    },
+    "name": "Frisco, CO",
+    "search_volume": 1400,
+    "slug": "frisco-co",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "f95b6934-9fe5-4b71-9b3c-cb10d8a74e2c",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Frisco (Transit Center)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Frisco, CO",
+                "postalCode": "80443",
+                "streetAddress": "1010 Meadow Dr"
+            },
+            "latitude": 39.588757,
+            "longitude": -106.09731
+        }
+    ]
+}

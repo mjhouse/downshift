@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 70523,
+    "language": "en-gl",
+    "location": {
+        "lat": 35.54655,
+        "lon": -77.05218
+    },
+    "name": "Washington, NC",
+    "search_volume": 2100,
+    "slug": "washington-nc",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "754f8c0c-c807-4c2f-ba9b-6faad28e1b41",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Washington (B & L Properties)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Washington, NC",
+                "postalCode": "27889",
+                "streetAddress": "914 Carolina Ave"
+            },
+            "latitude": 35.554701,
+            "longitude": -77.05931
+        }
+    ]
+}

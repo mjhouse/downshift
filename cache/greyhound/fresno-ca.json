@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 20188,
+    "language": "en-gl",
+    "location": {
+        "lat": 36.737797,
+        "lon": -119.787125
+    },
+    "name": "Fresno, CA",
+    "search_volume": 50300,
+    "slug": "fresno-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "d0180f92-2583-43d1-8049-1e0abaa2aef4",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Fresno State University (Shaw and Cedar)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Fresno, CA",
+                "postalCode": "93710",
+                "streetAddress": "1778 E Shaw Ave"
+            },
+            "latitude": 36.808769,
+            "longitude": -119.755535
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Fresno Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Fresno, CA",
+                "postalCode": "93721",
+                "streetAddress": "2660 Tulare St"
+            },
+            "latitude": 36.738537,
+            "longitude": -119.782743
+        }
+    ]
+}

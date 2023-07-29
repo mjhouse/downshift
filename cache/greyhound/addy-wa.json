@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 113973,
+    "language": "en-gl",
+    "location": {
+        "lat": 48.356148,
+        "lon": -117.83783
+    },
+    "name": "Addy, WA",
+    "search_volume": 100,
+    "slug": "addy-wa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "78e46406-4b2e-4355-9807-6c648bd5de9f",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Addy",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Addy, WA",
+                "postalCode": "99101",
+                "streetAddress": "1372 N St"
+            },
+            "latitude": 48.358927,
+            "longitude": -117.835531
+        }
+    ]
+}

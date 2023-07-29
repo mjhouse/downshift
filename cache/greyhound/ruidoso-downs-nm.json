@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 70063,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.32897,
+        "lon": -105.60443
+    },
+    "name": "Ruidoso Downs, NM",
+    "search_volume": 700,
+    "slug": "ruidoso-downs-nm",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "e0008e0f-aebe-4923-8fde-f833070537b5",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Ruidoso Downs Shamrock",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Ruidoso Downs, NM",
+                "postalCode": "88346",
+                "streetAddress": "2651 US 70 Ruidoso Downs"
+            },
+            "latitude": 33.326493,
+            "longitude": -105.621174
+        }
+    ]
+}

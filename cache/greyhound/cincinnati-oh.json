@@ -1,0 +1,78 @@
+{
+    "country": "US",
+    "id": 51291,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.10312,
+        "lon": -84.51202
+    },
+    "name": "Cincinnati, OH",
+    "search_volume": 93200,
+    "slug": "cincinnati-oh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "3e3d0f67-1dda-4794-bde3-8395c9bc73a8",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Cincinnati (Downtown)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Cincinnati, OH",
+                "postalCode": "45202",
+                "streetAddress": "466-436 E Court St"
+            },
+            "latitude": 39.107228,
+            "longitude": -84.505677
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Cincinnati (University of Cincinnati)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Cincinnati, OH",
+                "postalCode": "45219",
+                "streetAddress": "2985 Short Vine St"
+            },
+            "latitude": 39.133766,
+            "longitude": -84.509125
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Cincinnati Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Cincinnati, OH",
+                "postalCode": "45237",
+                "streetAddress": "398 E Galbraith Rd"
+            },
+            "latitude": 39.21214,
+            "longitude": -84.45903
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "CINCINNATI UNIV OF CIN (E)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Cincinnati, OH",
+                "postalCode": "45219",
+                "streetAddress": "2903 Short Vine St"
+            },
+            "latitude": 39.13386,
+            "longitude": -84.50921
+        }
+    ]
+}

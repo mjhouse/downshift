@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 105933,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.74341,
+        "lon": -92.72324
+    },
+    "name": "Grinnell, IA",
+    "search_volume": 400,
+    "slug": "grinnell-ia",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "866f7d5c-d6a1-44f6-b27c-688c9c973060",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Grinnell",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Grinnell, IA",
+                "postalCode": "50112",
+                "streetAddress": "1115 8Th Ave"
+            },
+            "latitude": 41.7473,
+            "longitude": -92.7222
+        }
+    ]
+}

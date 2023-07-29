@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69413,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.304214,
+        "lon": -73.24819
+    },
+    "name": "Lee, MA",
+    "search_volume": 2300,
+    "slug": "lee-ma",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "9a5a147a-36b9-4b88-80d2-61467e51c47f",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Lee (Mobil Gas Station)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Lee, MA",
+                "postalCode": "01238",
+                "streetAddress": "241 Main St"
+            },
+            "latitude": 42.309617,
+            "longitude": -73.252105
+        }
+    ]
+}

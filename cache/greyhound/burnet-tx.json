@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 113273,
+    "language": "en-gl",
+    "location": {
+        "lat": 30.758238,
+        "lon": -98.228355
+    },
+    "name": "Burnet, TX",
+    "search_volume": 400,
+    "slug": "burnet-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "f58a741c-c148-4e27-9a9a-92ffae48c2fa",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "BURNET",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Burnet, TX",
+                "postalCode": "78611",
+                "streetAddress": "Bluffview Drive, Hays County"
+            },
+            "latitude": 30.757096,
+            "longitude": -98.225119
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 68413,
+    "language": "en-gl",
+    "location": {
+        "lat": 43.13341,
+        "lon": -72.44398
+    },
+    "name": "Bellows Falls, VT",
+    "search_volume": 600,
+    "slug": "bellows-falls-vt",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "28173bca-5425-48ed-8074-8073bb63ddae",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Bellows Falls Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Bellows Falls, VT",
+                "postalCode": "05101",
+                "streetAddress": "54 Depot St"
+            },
+            "latitude": 43.135998,
+            "longitude": -72.444804
+        }
+    ]
+}

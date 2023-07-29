@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69653,
+    "language": "en-gl",
+    "location": {
+        "lat": 30.387985,
+        "lon": -96.08774
+    },
+    "name": "Navasota, TX",
+    "search_volume": 600,
+    "slug": "navasota-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "77643a9a-82de-46dd-a4e8-3e2c36865b4d",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Navasota (Circle T)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Navasota, TX",
+                "postalCode": "77868",
+                "streetAddress": "10200 State Hwy 6"
+            },
+            "latitude": 30.37705,
+            "longitude": -96.06823
+        }
+    ]
+}

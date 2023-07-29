@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106713,
+    "language": "en-gl",
+    "location": {
+        "lat": 43.709427,
+        "lon": -98.0298
+    },
+    "name": "Mitchell, SD",
+    "search_volume": 800,
+    "slug": "mitchell-sd",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "a243eb0b-5358-463e-af91-bb2298515229",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Mitchell",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Mitchell, SD",
+                "postalCode": "57301",
+                "streetAddress": "1000 S Burr St"
+            },
+            "latitude": 43.700906,
+            "longitude": -98.017768
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110183,
+    "language": "en-gl",
+    "location": {
+        "lat": 38.731743,
+        "lon": -82.99767
+    },
+    "name": "Portsmouth, OH",
+    "search_volume": 1000,
+    "slug": "portsmouth-oh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "6ae9d81e-fa49-4b8d-baf2-ffe730544548",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Portsmouth",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Portsmouth, OH",
+                "postalCode": "45662",
+                "streetAddress": "2626 Gallia St"
+            },
+            "latitude": 38.740065,
+            "longitude": -82.964225
+        }
+    ]
+}

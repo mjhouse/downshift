@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 107933,
+    "language": "en-gl",
+    "location": {
+        "lat": 46.048492,
+        "lon": -116.34959
+    },
+    "name": "Cottonwood, ID",
+    "search_volume": 400,
+    "slug": "cottonwood-id",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "45960028-a6a9-4550-93b8-0c816c6cde96",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Cottonwood",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Cottonwood, ID",
+                "postalCode": "83522",
+                "streetAddress": "1306 King St"
+            },
+            "latitude": 46.055513,
+            "longitude": -116.349515
+        }
+    ]
+}

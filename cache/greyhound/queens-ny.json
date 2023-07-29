@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 52201,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.728226,
+        "lon": -73.79485
+    },
+    "name": "Queens, NY",
+    "search_volume": 9300,
+    "slug": "queens-ny",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "f972cfaf-0f9b-4567-90a7-a2e8b4b1f141",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Queens Vil (7-11 - Jd Foods)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Queens, NY",
+                "postalCode": "11427",
+                "streetAddress": "219-17 Hillside Ave"
+            },
+            "latitude": 40.72981,
+            "longitude": -73.745228
+        }
+    ]
+}

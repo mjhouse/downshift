@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110313,
+    "language": "en-gl",
+    "location": {
+        "lat": 47.2709,
+        "lon": -111.7009
+    },
+    "name": "Cascade, MT",
+    "search_volume": 300,
+    "slug": "cascade-mt",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "14deff08-a242-432b-954b-0544b6f1dde6",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Cascade",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Cascade, MT",
+                "postalCode": "59421",
+                "streetAddress": "130 1St Street North"
+            },
+            "latitude": 47.272744,
+            "longitude": -111.699865
+        }
+    ]
+}

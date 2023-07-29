@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 111783,
+    "language": "en-gl",
+    "location": {
+        "lat": 44.016903,
+        "lon": -107.955376
+    },
+    "name": "Worland, WY",
+    "search_volume": 300,
+    "slug": "worland-wy",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "c9cb633e-15d5-4824-beeb-43482d393b3e",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Worland",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Worland, WY",
+                "postalCode": "82401",
+                "streetAddress": "221 N 10Th"
+            },
+            "latitude": 44.018568,
+            "longitude": -107.956523
+        }
+    ]
+}

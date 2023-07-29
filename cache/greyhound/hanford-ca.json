@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 59821,
+    "language": "en-gl",
+    "location": {
+        "lat": 36.32745,
+        "lon": -119.64568
+    },
+    "name": "Hanford, CA",
+    "search_volume": 800,
+    "slug": "hanford-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "f6b3fdca-190f-4f33-9aac-2742011b3488",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Hanford Train Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Hanford, CA",
+                "postalCode": "93230",
+                "streetAddress": "200 Santa Fe Ave"
+            },
+            "latitude": 36.326101,
+            "longitude": -119.651938
+        }
+    ]
+}

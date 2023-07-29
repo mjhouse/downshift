@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 53781,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.659824,
+        "lon": -85.831635
+    },
+    "name": "Anniston, AL",
+    "search_volume": 4800,
+    "slug": "anniston-al",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "728d247e-d9a5-41f7-b996-e0737353613d",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Anniston (Alabama)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Anniston, AL",
+                "postalCode": "36201",
+                "streetAddress": "126 W 4Th St"
+            },
+            "latitude": 33.649247,
+            "longitude": -85.832163
+        }
+    ]
+}

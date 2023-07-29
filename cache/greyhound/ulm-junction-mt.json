@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110283,
+    "language": "en-gl",
+    "location": {
+        "lat": 47.431713,
+        "lon": -111.50891
+    },
+    "name": "Ulm Junction, MT",
+    "search_volume": 200,
+    "slug": "ulm-junction-mt",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "2dda0177-57ea-4a0c-845e-5c483bcea521",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Ulm Junction",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Ulm Junction, MT",
+                "postalCode": "59485",
+                "streetAddress": "2 Millegan Rd 1St Ave"
+            },
+            "latitude": 47.421,
+            "longitude": -111.542
+        }
+    ]
+}

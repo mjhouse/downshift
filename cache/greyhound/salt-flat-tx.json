@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 70133,
+    "language": "en-gl",
+    "location": {
+        "lat": 31.745306,
+        "lon": -105.08095
+    },
+    "name": "Salt Flat, TX",
+    "search_volume": 100,
+    "slug": "salt-flat-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "d0da4c51-3607-4153-89aa-378f7f57dbe6",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Salt Flat",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Salt Flat, TX",
+                "postalCode": "79847",
+                "streetAddress": "10570 US Hwy 62-180"
+            },
+            "latitude": 31.744971,
+            "longitude": -105.08087
+        }
+    ]
+}

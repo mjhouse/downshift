@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69573,
+    "language": "en-gl",
+    "location": {
+        "lat": 31.179941,
+        "lon": -83.78884
+    },
+    "name": "Moultrie, GA",
+    "search_volume": 2700,
+    "slug": "moultrie-ga",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "f26567e1-9393-48e7-875f-eac3c8f59425",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Moultrie Transit Center",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Moultrie, GA",
+                "postalCode": "31768",
+                "streetAddress": "211 1St Ave Se"
+            },
+            "latitude": 31.17913,
+            "longitude": -83.786337
+        }
+    ]
+}

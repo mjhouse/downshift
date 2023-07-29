@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 112923,
+    "language": "en-gl",
+    "location": {
+        "lat": 48.610737,
+        "lon": -118.055824
+    },
+    "name": "Kettle Falls, WA",
+    "search_volume": 600,
+    "slug": "kettle-falls-wa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "34e5fc86-fc0a-4042-96e5-6b771b004ad4",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Kettle Falls",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Kettle Falls, WA",
+                "postalCode": "99141",
+                "streetAddress": "425 W 3Rd Ave"
+            },
+            "latitude": 48.6104,
+            "longitude": -118.0557
+        }
+    ]
+}

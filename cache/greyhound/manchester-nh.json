@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 51981,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.99564,
+        "lon": -71.45479
+    },
+    "name": "Manchester, NH",
+    "search_volume": 12000,
+    "slug": "manchester-nh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "cac34c07-54e8-43b7-8629-433353f9f37a",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Manchester (Boston Express)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Manchester, NH",
+                "postalCode": "03101",
+                "streetAddress": "119 Canal St"
+            },
+            "latitude": 42.987035,
+            "longitude": -71.466144
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Manchester Airport",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Manchester, NH",
+                "postalCode": "03103",
+                "streetAddress": "1 Airport Rd"
+            },
+            "latitude": 42.9278145,
+            "longitude": -71.4375506
+        }
+    ]
+}

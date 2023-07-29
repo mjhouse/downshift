@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 39431,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.886448,
+        "lon": -78.87837
+    },
+    "name": "Buffalo, NY",
+    "search_volume": 144900,
+    "slug": "buffalo-ny",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "946a2820-dc2d-4098-8583-d36f6804f6b7",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Buffalo",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Buffalo, NY",
+                "postalCode": "14203",
+                "streetAddress": "181 Ellicott St"
+            },
+            "latitude": 42.88366,
+            "longitude": -78.872034
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Buffalo Niagara International Airport",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Buffalo, NY",
+                "postalCode": "14225",
+                "streetAddress": "4200 Genesee St"
+            },
+            "latitude": 42.934299,
+            "longitude": -78.730243
+        }
+    ]
+}

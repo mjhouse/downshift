@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 53731,
+    "language": "en-gl",
+    "location": {
+        "lat": 35.084385,
+        "lon": -106.65042
+    },
+    "name": "Albuquerque, NM",
+    "search_volume": 37100,
+    "slug": "albuquerque-nm",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "d6fa19a7-7b96-4fac-9a6c-7d7e16af4d9f",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Albuquerque Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Albuquerque, NM",
+                "postalCode": "87102",
+                "streetAddress": "320 1St Street Sw"
+            },
+            "latitude": 35.081521,
+            "longitude": -106.647855
+        }
+    ]
+}

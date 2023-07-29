@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 59191,
+    "language": "en-gl",
+    "location": {
+        "lat": 38.303185,
+        "lon": -77.46054
+    },
+    "name": "Fredericksburg, VA",
+    "search_volume": 13000,
+    "slug": "fredericksburg-va",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "b27af8cb-62f0-495f-b070-e30294a54815",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Fredericksburg (Plank Rd/Gateway Blvd)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Fredericksburg, VA",
+                "postalCode": "22401",
+                "streetAddress": "2390 Plank Rd"
+            },
+            "latitude": 38.295564,
+            "longitude": -77.500085
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Fredericksburg Bus Stop, VA",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Fredericksburg, VA",
+                "postalCode": "22401",
+                "streetAddress": "1400 Jefferson Davis Hwy"
+            },
+            "latitude": 38.301836,
+            "longitude": -77.481421
+        }
+    ]
+}

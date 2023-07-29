@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106103,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.971695,
+        "lon": -91.548775
+    },
+    "name": "Mount Pleasant, IA",
+    "search_volume": 400,
+    "slug": "mount-pleasant-ia",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "d1b83416-6a28-4c01-9256-4afed83ece9e",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Mt. Pleasant",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Mount Pleasant, IA",
+                "postalCode": "52641",
+                "streetAddress": "2005 E Washington St"
+            },
+            "latitude": 40.9604665,
+            "longitude": -91.5226959
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 113953,
+    "language": "en-gl",
+    "location": {
+        "lat": 48.06171,
+        "lon": -117.63332
+    },
+    "name": "Loon Lake, WA",
+    "search_volume": 200,
+    "slug": "loon-lake-wa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "5d7f7e32-124b-47fc-a07e-db37addccf3c",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Loon Lake Jct",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Loon Lake, WA",
+                "postalCode": "99148",
+                "streetAddress": "3849 3Rd St Lakeside Motel"
+            },
+            "latitude": 48.052,
+            "longitude": -117.615
+        }
+    ]
+}

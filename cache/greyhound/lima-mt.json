@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110363,
+    "language": "en-gl",
+    "location": {
+        "lat": 44.636856,
+        "lon": -112.59195
+    },
+    "name": "Lima, MT",
+    "search_volume": 100,
+    "slug": "lima-mt",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "03ec8674-d15c-404d-8ea9-5a11c0cf1bcb",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Lima",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Lima, MT",
+                "postalCode": "59739",
+                "streetAddress": "108 Bailey St"
+            },
+            "latitude": 44.633322,
+            "longitude": -112.589725
+        }
+    ]
+}

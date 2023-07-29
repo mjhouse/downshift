@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 113773,
+    "language": "en-gl",
+    "location": {
+        "lat": 30.358492,
+        "lon": -103.66101
+    },
+    "name": "Alpine, TX",
+    "search_volume": 1100,
+    "slug": "alpine-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "af335272-6c34-4b8e-b16e-38a01f7d2269",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Alpine",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Alpine, TX",
+                "postalCode": "79830",
+                "streetAddress": "2305 E Hwy 90"
+            },
+            "latitude": 30.3591,
+            "longitude": -103.6603
+        }
+    ]
+}

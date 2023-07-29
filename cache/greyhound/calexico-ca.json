@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 20758,
+    "language": "en-gl",
+    "location": {
+        "lat": 32.678947,
+        "lon": -115.498886
+    },
+    "name": "Calexico, CA",
+    "search_volume": 29700,
+    "slug": "calexico-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "968fd5c5-5dd7-4ba0-a817-16968cc9fd77",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Calexico Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Calexico, CA",
+                "postalCode": "92231",
+                "streetAddress": "123 E 1St Street"
+            },
+            "latitude": 32.665684,
+            "longitude": -115.497015
+        }
+    ]
+}

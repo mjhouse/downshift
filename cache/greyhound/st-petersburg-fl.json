@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 40001,
+    "language": "en-gl",
+    "location": {
+        "lat": 27.767601,
+        "lon": -82.64029
+    },
+    "name": "St. Petersburg, FL",
+    "search_volume": 20000,
+    "slug": "st-petersburg-fl",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "8af1fcf7-f5b3-4209-a343-9a492690eb99",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "St Petersburg (Psta Transit Center)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "St. Petersburg, FL",
+                "postalCode": "33781",
+                "streetAddress": "3801 70Th Ave N"
+            },
+            "latitude": 27.835685,
+            "longitude": -82.685802
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "St. Petersburg (FL)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "St. Petersburg, FL",
+                "postalCode": "33701",
+                "streetAddress": "860 Central Ave"
+            },
+            "latitude": 27.771086,
+            "longitude": -82.64607
+        }
+    ]
+}

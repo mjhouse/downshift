@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 111593,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.490616,
+        "lon": -78.675026
+    },
+    "name": "Johnsonburg, PA",
+    "search_volume": 200,
+    "slug": "johnsonburg-pa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "5ed42d57-feba-401d-84a5-7bb52ee98d34",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Johnsonburg",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Johnsonburg, PA",
+                "postalCode": "15845",
+                "streetAddress": "545 Market St"
+            },
+            "latitude": 41.488771,
+            "longitude": -78.674977
+        }
+    ]
+}

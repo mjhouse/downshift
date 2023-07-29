@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 20318,
+    "language": "en-gl",
+    "location": {
+        "lat": 37.639095,
+        "lon": -120.99688
+    },
+    "name": "Modesto, CA",
+    "search_volume": 12400,
+    "slug": "modesto-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "39be3d5b-279b-4e28-867e-578abadd5efc",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Modesto Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Modesto, CA",
+                "postalCode": "95354",
+                "streetAddress": "1001 9Th St Ste C"
+            },
+            "latitude": 37.63966,
+            "longitude": -121.002083
+        }
+    ]
+}

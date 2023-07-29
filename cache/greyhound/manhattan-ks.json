@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 55141,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.18361,
+        "lon": -96.57167
+    },
+    "name": "Manhattan, KS",
+    "search_volume": 3800,
+    "slug": "manhattan-ks",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "3c43e35a-e2cd-483b-9cb3-b6885fbc306d",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Manhattan (K-State Parking Garage)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Manhattan, KS",
+                "postalCode": "66502",
+                "streetAddress": "706 N. 17Th St"
+            },
+            "latitude": 39.186671,
+            "longitude": -96.583175
+        }
+    ]
+}

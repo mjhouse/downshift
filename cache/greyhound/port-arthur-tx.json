@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69893,
+    "language": "en-gl",
+    "location": {
+        "lat": 29.88495,
+        "lon": -93.93995
+    },
+    "name": "Port Arthur, TX",
+    "search_volume": 4500,
+    "slug": "port-arthur-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "14c18a00-0461-477d-a40c-7fa5aeae81ec",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Port Arthur Transit",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Port Arthur, TX",
+                "postalCode": "77640",
+                "streetAddress": "344 Procter St"
+            },
+            "latitude": 29.869947,
+            "longitude": -93.935884
+        }
+    ]
+}

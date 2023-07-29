@@ -1,0 +1,78 @@
+{
+    "country": "US",
+    "id": 51091,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.65258,
+        "lon": -73.75623
+    },
+    "name": "Albany, NY",
+    "search_volume": 90600,
+    "slug": "albany-ny",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "c9968a8a-e5be-422b-b7f3-32851e4dc823",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Albany (SUNY Albany)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Albany, NY",
+                "postalCode": "12222",
+                "streetAddress": "1400 Washington Ave"
+            },
+            "latitude": 42.68753,
+            "longitude": -73.82206
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Albany Bus Terminal, NY",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Albany, NY",
+                "postalCode": "12207",
+                "streetAddress": "34 Hamilton St"
+            },
+            "latitude": 42.645916,
+            "longitude": -73.75135
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Albany International Airport",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Albany, NY",
+                "postalCode": "12211",
+                "streetAddress": "Airport Terminal Rd"
+            },
+            "latitude": 42.74553,
+            "longitude": -73.8102
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "RENSSELAER TRAIN STATION (E)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Albany, NY",
+                "postalCode": "12144",
+                "streetAddress": "525 E St"
+            },
+            "latitude": 42.640841,
+            "longitude": -73.741343
+        }
+    ]
+}

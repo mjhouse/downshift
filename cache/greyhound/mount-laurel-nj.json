@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69593,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.934002,
+        "lon": -74.891
+    },
+    "name": "Mount Laurel, NJ",
+    "search_volume": 21600,
+    "slug": "mount-laurel-nj",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "14847516-28dd-40a8-a8fa-e956a3b294f0",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Mt Laurel Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Mount Laurel, NJ",
+                "postalCode": "08060",
+                "streetAddress": "9-19 WESTERN DR"
+            },
+            "latitude": 40.03343,
+            "longitude": -74.81897
+        }
+    ]
+}

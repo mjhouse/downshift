@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 48121,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.223,
+        "lon": -111.97383
+    },
+    "name": "Ogden, UT",
+    "search_volume": 4200,
+    "slug": "ogden-ut",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "6fe49837-f071-4573-b196-89d876a258da",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Ogden (Flying J)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Ogden, UT",
+                "postalCode": "84401",
+                "streetAddress": "1172 W 2100 South St"
+            },
+            "latitude": 41.23069,
+            "longitude": -112.007202
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Ogden Intermodal Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Ogden, UT",
+                "postalCode": "84401",
+                "streetAddress": "2393 Wall Ave"
+            },
+            "latitude": 41.223331,
+            "longitude": -111.979425
+        }
+    ]
+}

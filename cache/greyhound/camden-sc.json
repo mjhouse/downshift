@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 109403,
+    "language": "en-gl",
+    "location": {
+        "lat": 34.24654,
+        "lon": -80.607025
+    },
+    "name": "Camden, SC",
+    "search_volume": 1600,
+    "slug": "camden-sc",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "4e47301e-e097-463e-a7af-2fa091257de9",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Camden",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Camden, SC",
+                "postalCode": "29020",
+                "streetAddress": "204 Wall St"
+            },
+            "latitude": 34.2196,
+            "longitude": -80.593333
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106383,
+    "language": "en-gl",
+    "location": {
+        "lat": 46.408337,
+        "lon": -105.84056
+    },
+    "name": "Miles City, MT",
+    "search_volume": 1000,
+    "slug": "miles-city-mt",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "212a50c3-97cb-4392-8ea9-649e171219a4",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Miles City",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Miles City, MT",
+                "postalCode": "59301",
+                "streetAddress": "1120 S Haynes Ave"
+            },
+            "latitude": 46.397784,
+            "longitude": -105.822051
+        }
+    ]
+}

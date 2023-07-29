@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 67883,
+    "language": "en-gl",
+    "location": {
+        "lat": 36.054443,
+        "lon": -112.140114
+    },
+    "name": "Grand Canyon Village, AZ",
+    "search_volume": 700,
+    "slug": "grand-canyon-village-az",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "213bbe3b-687f-4a80-96bc-0767ae384ef8",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Grand Canyon Village (Maswik Lodge)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Grand Canyon Village, AZ",
+                "postalCode": "86023",
+                "streetAddress": "202 Village Loop Drive"
+            },
+            "latitude": 36.05379011673439,
+            "longitude": -112.14410573558212
+        }
+    ]
+}

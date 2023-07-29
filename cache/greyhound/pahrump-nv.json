@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 48071,
+    "language": "en-gl",
+    "location": {
+        "lat": 36.208294,
+        "lon": -115.98392
+    },
+    "name": "Pahrump, NV",
+    "search_volume": 700,
+    "slug": "pahrump-nv",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "dd67b3cb-8766-40b7-8542-ce296bf9c1b7",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Pahrump",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Pahrump, NV",
+                "postalCode": "89048",
+                "streetAddress": "681 Nv-160"
+            },
+            "latitude": 36.21065,
+            "longitude": -115.98462
+        }
+    ]
+}

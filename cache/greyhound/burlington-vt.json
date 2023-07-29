@@ -1,0 +1,63 @@
+{
+    "country": "US",
+    "id": 51231,
+    "language": "en-gl",
+    "location": {
+        "lat": 44.475883,
+        "lon": -73.212074
+    },
+    "name": "Burlington, VT",
+    "search_volume": 29100,
+    "slug": "burlington-vt",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "86400556-9d65-4f4e-8b52-74b3ae7bb3e8",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Burlington (Colchester)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Burlington, VT",
+                "postalCode": "05446",
+                "streetAddress": "400 US-7"
+            },
+            "latitude": 44.595033,
+            "longitude": -73.165275
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Burlington (Downtown Transit Center)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Burlington, VT",
+                "postalCode": "05401",
+                "streetAddress": "45-68 St Paul St"
+            },
+            "latitude": 44.47979279634593,
+            "longitude": -73.21430583933633
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Burlington International Airport",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Burlington, VT",
+                "postalCode": "05403",
+                "streetAddress": "1200 Airport Dr, #1"
+            },
+            "latitude": 44.46953,
+            "longitude": -73.155273
+        }
+    ]
+}

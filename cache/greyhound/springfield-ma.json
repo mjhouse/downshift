@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 52371,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.101482,
+        "lon": -72.58981
+    },
+    "name": "Springfield, MA",
+    "search_volume": 43000,
+    "slug": "springfield-ma",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "04726be9-c17f-413b-a55b-bfff5970cf8b",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Mgm Grand Springfield, MA",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Springfield, MA",
+                "postalCode": "01103",
+                "streetAddress": "One Mgm Way"
+            },
+            "latitude": 42.099035,
+            "longitude": -72.587726
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Springfield Union Station, MA",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Springfield, MA",
+                "postalCode": "01103",
+                "streetAddress": "66 Lyman St"
+            },
+            "latitude": 42.106406,
+            "longitude": -72.594153
+        }
+    ]
+}

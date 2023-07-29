@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69123,
+    "language": "en-gl",
+    "location": {
+        "lat": 29.347456,
+        "lon": -99.141426
+    },
+    "name": "Hondo, TX",
+    "search_volume": 400,
+    "slug": "hondo-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "8cbe725d-f000-4a17-98f0-0c8b60ce7bdd",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Hondo (Shell)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Hondo, TX",
+                "postalCode": "78861",
+                "streetAddress": "1201 19Th Street"
+            },
+            "latitude": 29.347233,
+            "longitude": -99.142021
+        }
+    ]
+}

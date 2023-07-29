@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 111553,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.15784,
+        "lon": -78.715034
+    },
+    "name": "Salamanca, NY",
+    "search_volume": 400,
+    "slug": "salamanca-ny",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "646e2b90-8fc0-402c-b910-172a4966cc61",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Salamanca",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Salamanca, NY",
+                "postalCode": "14779",
+                "streetAddress": "132 Main St"
+            },
+            "latitude": 42.159303,
+            "longitude": -78.714639
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Seneca Allegany Casino",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Salamanca, NY",
+                "postalCode": "14779",
+                "streetAddress": "777 Seneca Allegany Blvd"
+            },
+            "latitude": 42.0678,
+            "longitude": -76.0822
+        }
+    ]
+}

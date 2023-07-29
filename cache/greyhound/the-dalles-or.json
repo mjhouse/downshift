@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 56161,
+    "language": "en-gl",
+    "location": {
+        "lat": 45.594566,
+        "lon": -121.17868
+    },
+    "name": "The Dalles, OR",
+    "search_volume": 1800,
+    "slug": "the-dalles-or",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "f7e6a1fc-a23c-4644-b63e-6cb6b884c368",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "The Dalles (Transit Facility)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "The Dalles, OR",
+                "postalCode": "97058",
+                "streetAddress": "802 Chenowith Loop Rd-Tkt Only"
+            },
+            "latitude": 45.62584,
+            "longitude": -121.21773
+        }
+    ]
+}

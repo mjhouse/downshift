@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110013,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.68145,
+        "lon": -82.02181
+    },
+    "name": "Shreve, OH",
+    "search_volume": 100,
+    "slug": "shreve-oh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "78274862-3b1c-4892-a0d3-03ebe19e9100",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Shreve",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Shreve, OH",
+                "postalCode": "44676",
+                "streetAddress": "405 W South St"
+            },
+            "latitude": 40.679562,
+            "longitude": -82.027687
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 113053,
+    "language": "en-gl",
+    "location": {
+        "lat": 34.142544,
+        "lon": -109.96038
+    },
+    "name": "Lakeside, AZ",
+    "search_volume": 200,
+    "slug": "lakeside-az",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "3ba906a4-996c-41d0-9db5-b8cdd941966e",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Pinetop Lakeside (E)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Lakeside, AZ",
+                "postalCode": "85929",
+                "streetAddress": "20 W White Mt Blvd"
+            },
+            "latitude": 34.141216,
+            "longitude": -109.954276
+        }
+    ]
+}

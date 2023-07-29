@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 111953,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.485085,
+        "lon": -80.14258
+    },
+    "name": "Fairmont, WV",
+    "search_volume": 1400,
+    "slug": "fairmont-wv",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "56021c05-eb21-4169-a2a4-7120f87b57c4",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Fairmont",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Fairmont, WV",
+                "postalCode": "26554",
+                "streetAddress": "398 Tygart St"
+            },
+            "latitude": 39.47499,
+            "longitude": -80.134399
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 68933,
+    "language": "en-gl",
+    "location": {
+        "lat": 30.23853,
+        "lon": -90.9201
+    },
+    "name": "Gonzales, LA",
+    "search_volume": 2200,
+    "slug": "gonzales-la",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "6d7f9cfd-5bc2-4e54-ac0d-9a640496ff52",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Gonzales (Cabelas)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Gonzales, LA",
+                "postalCode": "70737",
+                "streetAddress": "2200 W Cabelas Pkwy"
+            },
+            "latitude": 30.205983,
+            "longitude": -90.946261
+        }
+    ]
+}

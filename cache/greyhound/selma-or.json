@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110763,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.27932,
+        "lon": -123.616104
+    },
+    "name": "Selma, OR",
+    "search_volume": 200,
+    "slug": "selma-or",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "f66aa2b2-ca08-4d24-993f-fce2b8dd91cf",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Selma",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Selma, OR",
+                "postalCode": "97538",
+                "streetAddress": "18398 REDWOOD HWY"
+            },
+            "latitude": 42.279501,
+            "longitude": -123.616483
+        }
+    ]
+}

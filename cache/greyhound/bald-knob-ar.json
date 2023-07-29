@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 68353,
+    "language": "en-gl",
+    "location": {
+        "lat": 35.309807,
+        "lon": -91.56791
+    },
+    "name": "Bald Knob, AR",
+    "search_volume": 1200,
+    "slug": "bald-knob-ar",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "361de9dd-3694-4265-a882-89a2769d526a",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Bald Knob (Marty Mart #12N)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Bald Knob, AR",
+                "postalCode": "72010",
+                "streetAddress": "3816 Hwy 367 N"
+            },
+            "latitude": 35.321316,
+            "longitude": -91.560513
+        }
+    ]
+}

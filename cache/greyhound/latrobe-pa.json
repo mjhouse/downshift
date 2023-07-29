@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69333,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.321182,
+        "lon": -79.37948
+    },
+    "name": "Latrobe, PA",
+    "search_volume": 900,
+    "slug": "latrobe-pa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "4a891f64-90cb-4032-a5ce-97fdcdce957d",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Latrobe (Arnold Palmer Regional Airport)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Latrobe, PA",
+                "postalCode": "15650",
+                "streetAddress": "148 Aviation Ln Ste 103"
+            },
+            "latitude": 40.27296,
+            "longitude": -79.4056
+        }
+    ]
+}

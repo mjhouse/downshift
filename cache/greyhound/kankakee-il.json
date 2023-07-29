@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 54891,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.120033,
+        "lon": -87.86115
+    },
+    "name": "Kankakee, IL",
+    "search_volume": 3200,
+    "slug": "kankakee-il",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "1db0885b-2a9e-49dc-8395-2023df66b96d",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Kankakee (Economy Inn)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Kankakee, IL",
+                "postalCode": "60901",
+                "streetAddress": "2125 S Schuyler Ave"
+            },
+            "latitude": 41.094689,
+            "longitude": -87.869994
+        }
+    ]
+}

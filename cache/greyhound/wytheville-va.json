@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 116863,
+    "language": "en-gl",
+    "location": {
+        "lat": 36.948452,
+        "lon": -81.08481
+    },
+    "name": "Wytheville, VA",
+    "search_volume": 5100,
+    "slug": "wytheville-va",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "f95ffe02-4df7-4613-8569-21fcd41d8392",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Wytheville Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Wytheville, VA",
+                "postalCode": "24360",
+                "streetAddress": "5740 East Lee Hwy"
+            },
+            "latitude": 36.96603,
+            "longitude": -80.85321
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "WYTHEVILLE- BARONS BUS",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Wytheville, VA",
+                "postalCode": "24382",
+                "streetAddress": "2622 E Lee Hwy"
+            },
+            "latitude": 36.946669,
+            "longitude": -80.950369
+        }
+    ]
+}

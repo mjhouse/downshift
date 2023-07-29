@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 112063,
+    "language": "en-gl",
+    "location": {
+        "lat": 46.45139,
+        "lon": -92.76667
+    },
+    "name": "Moose Lake, MN",
+    "search_volume": 200,
+    "slug": "moose-lake-mn",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "e65a0e0b-5919-4049-a535-9f7f9b48db93",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Moose Lake",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Moose Lake, MN",
+                "postalCode": "55767",
+                "streetAddress": "1050 Hwy 73"
+            },
+            "latitude": 46.43491,
+            "longitude": -92.75107
+        }
+    ]
+}

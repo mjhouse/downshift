@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 55651,
+    "language": "en-gl",
+    "location": {
+        "lat": 44.699486,
+        "lon": -73.45291
+    },
+    "name": "Plattsburgh, NY",
+    "search_volume": 11700,
+    "slug": "plattsburgh-ny",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "627946d7-e7d7-4b05-af3f-0377397e7bf9",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Plattsburgh (Mountain Mart #109)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Plattsburgh, NY",
+                "postalCode": "12901",
+                "streetAddress": "7155 Rte 9"
+            },
+            "latitude": 44.72782,
+            "longitude": -73.435839
+        }
+    ]
+}

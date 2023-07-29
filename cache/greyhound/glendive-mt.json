@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106443,
+    "language": "en-gl",
+    "location": {
+        "lat": 47.1064,
+        "lon": -104.71079
+    },
+    "name": "Glendive, MT",
+    "search_volume": 900,
+    "slug": "glendive-mt",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "533e815e-e3f4-47ec-86d0-eadeb3f4f82e",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Glendive",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Glendive, MT",
+                "postalCode": "59330",
+                "streetAddress": "1302 W Towne"
+            },
+            "latitude": 47.106874,
+            "longitude": -104.73186
+        }
+    ]
+}

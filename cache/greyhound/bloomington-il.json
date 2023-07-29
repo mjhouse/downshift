@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 54021,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.484203,
+        "lon": -88.99369
+    },
+    "name": "Bloomington, IL",
+    "search_volume": 7900,
+    "slug": "bloomington-il",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "f304b833-cce8-496e-bae8-56b0f7512937",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Bloomington Normal (Burlington Trailways)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Bloomington, IL",
+                "postalCode": "61761",
+                "streetAddress": "11 Uptown Circle"
+            },
+            "latitude": 40.5091,
+            "longitude": -88.9843
+        }
+    ]
+}

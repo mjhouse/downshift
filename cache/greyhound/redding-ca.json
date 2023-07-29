@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 39961,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.58654,
+        "lon": -122.39168
+    },
+    "name": "Redding, CA",
+    "search_volume": 10400,
+    "slug": "redding-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "99c51f15-3ecb-11ea-8017-02437075395e",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Redding Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Redding, CA",
+                "postalCode": "96001",
+                "streetAddress": "1530 Yuba St"
+            },
+            "latitude": 40.583459,
+            "longitude": -122.3927
+        }
+    ]
+}

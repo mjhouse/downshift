@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 111743,
+    "language": "en-gl",
+    "location": {
+        "lat": 48.095978,
+        "lon": -119.78062
+    },
+    "name": "Brewster, WA",
+    "search_volume": 300,
+    "slug": "brewster-wa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "876d2f8b-37fe-4bf8-a469-97cee41069d4",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Brewster",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Brewster, WA",
+                "postalCode": "98812",
+                "streetAddress": "26048 HIGHWAY 97"
+            },
+            "latitude": 48.103482,
+            "longitude": -119.781463
+        }
+    ]
+}

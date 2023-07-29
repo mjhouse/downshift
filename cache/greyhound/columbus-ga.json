@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 54231,
+    "language": "en-gl",
+    "location": {
+        "lat": 32.460976,
+        "lon": -84.98771
+    },
+    "name": "Columbus, GA",
+    "search_volume": 19800,
+    "slug": "columbus-ga",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "82c7cb22-ef90-4003-9799-3353a26e87b4",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Columbus, GA (Bus Station)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Columbus, GA",
+                "postalCode": "31907",
+                "streetAddress": "4108 St Marys Rd"
+            },
+            "latitude": 32.444762,
+            "longitude": -84.924474
+        }
+    ]
+}

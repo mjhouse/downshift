@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 54561,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.279285,
+        "lon": -71.41615
+    },
+    "name": "Framingham, MA",
+    "search_volume": 2900,
+    "slug": "framingham-ma",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "606f9868-64ad-406b-a188-e6afc8c66f62",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Framingham Intermodal",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Framingham, MA",
+                "postalCode": "01701",
+                "streetAddress": "2 Franklin St"
+            },
+            "latitude": 42.277218,
+            "longitude": -71.417724
+        }
+    ]
+}

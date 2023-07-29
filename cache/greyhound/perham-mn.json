@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 107133,
+    "language": "en-gl",
+    "location": {
+        "lat": 46.595345,
+        "lon": -95.573006
+    },
+    "name": "Perham, MN",
+    "search_volume": 500,
+    "slug": "perham-mn",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "5f0e2437-dc58-427e-bed7-693c62d0fc1f",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Perham",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Perham, MN",
+                "postalCode": "56573",
+                "streetAddress": "100 Judd St"
+            },
+            "latitude": 46.585032,
+            "longitude": -95.575194
+        }
+    ]
+}

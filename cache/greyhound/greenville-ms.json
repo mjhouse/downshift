@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 112393,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.399662,
+        "lon": -91.037704
+    },
+    "name": "Greenville, MS",
+    "search_volume": 11600,
+    "slug": "greenville-ms",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "db4b7398-d50a-466e-833d-c0b7c3c2f239",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Greenville",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Greenville, MS",
+                "postalCode": "38701",
+                "streetAddress": "3107 Hwy 82 E"
+            },
+            "latitude": 33.3993,
+            "longitude": -91.0476
+        }
+    ]
+}

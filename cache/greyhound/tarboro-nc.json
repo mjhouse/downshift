@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 56121,
+    "language": "en-gl",
+    "location": {
+        "lat": 35.896824,
+        "lon": -77.535805
+    },
+    "name": "Tarboro, NC",
+    "search_volume": 600,
+    "slug": "tarboro-nc",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "2c9ed665-2804-4bd8-b50c-1e6bb0f9a839",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Tarboro Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Tarboro, NC",
+                "postalCode": "27886",
+                "streetAddress": "1600 W Howard Ave"
+            },
+            "latitude": 35.899706,
+            "longitude": -77.562547
+        }
+    ]
+}

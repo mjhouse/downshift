@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 108023,
+    "language": "en-gl",
+    "location": {
+        "lat": 43.91461,
+        "lon": -116.1979
+    },
+    "name": "Horseshoe Bend, ID",
+    "search_volume": 100,
+    "slug": "horseshoe-bend-id",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "04b63877-f50e-4a0e-986d-885397ad1edf",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Horseshoe Bend",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Horseshoe Bend, ID",
+                "postalCode": "83629",
+                "streetAddress": "459 Hwy 555"
+            },
+            "latitude": 43.917309,
+            "longitude": -116.196942
+        }
+    ]
+}

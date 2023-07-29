@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 39541,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.443962,
+        "lon": -76.501884
+    },
+    "name": "Ithaca, NY",
+    "search_volume": 25000,
+    "slug": "ithaca-ny",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "99c4f86c-3ecb-11ea-8017-02437075395e",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Ithaca",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Ithaca, NY",
+                "postalCode": "14850",
+                "streetAddress": "131 E Green St Ste 2"
+            },
+            "latitude": 42.4385,
+            "longitude": -76.4975
+        }
+    ]
+}

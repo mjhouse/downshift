@@ -1,0 +1,108 @@
+{
+    "country": "US",
+    "id": 20328,
+    "language": "en-gl",
+    "location": {
+        "lat": 37.804363,
+        "lon": -122.27111
+    },
+    "name": "Oakland / Berkeley / East Bay, CA",
+    "search_volume": 65100,
+    "slug": "oakland-berkeley-east-bay-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "b0f7e0fd-789e-4d40-b4eb-96adc15e27b2",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Oakland (West Oakland BART Station)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Oakland / Berkeley / East Bay, CA",
+                "postalCode": "94607",
+                "streetAddress": "1431 7th St"
+            },
+            "latitude": 37.805162,
+            "longitude": -122.294484
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Berkeley (Crescent Lawn - University of California, Berkeley)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Oakland / Berkeley / East Bay, CA",
+                "postalCode": "94720",
+                "streetAddress": "Crescent Lawn"
+            },
+            "latitude": 37.87175,
+            "longitude": -122.265139
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "El Cerrito del Norte BART",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Oakland / Berkeley / East Bay, CA",
+                "postalCode": "94530",
+                "streetAddress": "6400 Cutting Blvd"
+            },
+            "latitude": 37.925057,
+            "longitude": -122.317164
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Richmond (Richmond BART Station)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Oakland / Berkeley / East Bay, CA",
+                "postalCode": "94801",
+                "streetAddress": "269 16th St"
+            },
+            "latitude": 37.936175,
+            "longitude": -122.353967
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Hayward (Hayward BART Station)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Oakland / Berkeley / East Bay, CA",
+                "postalCode": "94541",
+                "streetAddress": "699 B St"
+            },
+            "latitude": 37.670488,
+            "longitude": -122.087317
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Oakland (West Oakland BART Station)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Oakland / Berkeley / East Bay, CA",
+                "postalCode": "94607",
+                "streetAddress": "1431 7th St"
+            },
+            "latitude": 37.805162,
+            "longitude": -122.294484
+        }
+    ]
+}

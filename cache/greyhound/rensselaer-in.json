@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69933,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.936703,
+        "lon": -87.150856
+    },
+    "name": "Rensselaer, IN",
+    "search_volume": 500,
+    "slug": "rensselaer-in",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "dc0e2aec-6189-4122-bc2a-3980524e0ba9",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Rensselaer",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Rensselaer, IN",
+                "postalCode": "47978",
+                "streetAddress": "122 N Van Rensselaer St"
+            },
+            "latitude": 40.936737,
+            "longitude": -87.152712
+        }
+    ]
+}

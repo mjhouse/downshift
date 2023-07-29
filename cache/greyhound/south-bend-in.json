@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 52361,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.676353,
+        "lon": -86.25199
+    },
+    "name": "South Bend, IN",
+    "search_volume": 22300,
+    "slug": "south-bend-in",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "09ec0744-7f21-4b88-a1bd-df64fe0c50aa",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "South Bend",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "South Bend, IN",
+                "postalCode": "46601",
+                "streetAddress": "100 W South St Ste 120"
+            },
+            "latitude": 41.669574,
+            "longitude": -86.250679
+        }
+    ]
+}

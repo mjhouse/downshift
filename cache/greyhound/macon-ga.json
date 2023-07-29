@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 37731,
+    "language": "en-gl",
+    "location": {
+        "lat": 32.840694,
+        "lon": -83.6324
+    },
+    "name": "Macon, GA",
+    "search_volume": 24900,
+    "slug": "macon-ga",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "3f0b1d98-ae99-4bdf-86cc-fe9d2703384c",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Macon Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Macon, GA",
+                "postalCode": "31201",
+                "streetAddress": "200 Cherry St"
+            },
+            "latitude": 32.833075,
+            "longitude": -83.62494
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "West Macon",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Macon, GA",
+                "postalCode": "31206",
+                "streetAddress": "4775 Chambers Rd"
+            },
+            "latitude": 32.809519,
+            "longitude": -83.723827
+        }
+    ]
+}

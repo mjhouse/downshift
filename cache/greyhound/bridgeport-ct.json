@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 59131,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.179226,
+        "lon": -73.18944
+    },
+    "name": "Bridgeport, CT",
+    "search_volume": 13600,
+    "slug": "bridgeport-ct",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "7924a742-a4f4-4ad8-8cf2-3eaa1b97979b",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Bridgeport Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Bridgeport, CT",
+                "postalCode": "06604",
+                "streetAddress": "710 Water St"
+            },
+            "latitude": 41.181112,
+            "longitude": -73.187206
+        }
+    ]
+}

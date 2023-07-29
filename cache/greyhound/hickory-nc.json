@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 59241,
+    "language": "en-gl",
+    "location": {
+        "lat": 35.734455,
+        "lon": -81.34446
+    },
+    "name": "Hickory, NC",
+    "search_volume": 7700,
+    "slug": "hickory-nc",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "edf13b73-a0de-4650-8240-f5002d1edce1",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Hickory/Newton, NC",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Hickory, NC",
+                "postalCode": "28658",
+                "streetAddress": "3361 Hwy 70 Se"
+            },
+            "latitude": 35.697723,
+            "longitude": -81.26255
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 54121,
+    "language": "en-gl",
+    "location": {
+        "lat": 34.563637,
+        "lon": -111.85432
+    },
+    "name": "Camp Verde, AZ",
+    "search_volume": 1600,
+    "slug": "camp-verde-az",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "8e1b96e8-2006-4115-97e9-ab6fcd01cceb",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Camp Verde (Mcdonalds Parking Lot)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Camp Verde, AZ",
+                "postalCode": "86322",
+                "streetAddress": "1703 Finnie Flat Rd"
+            },
+            "latitude": 34.57546,
+            "longitude": -111.884141
+        }
+    ]
+}

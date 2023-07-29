@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 39551,
+    "language": "en-gl",
+    "location": {
+        "lat": 30.627977,
+        "lon": -96.334404
+    },
+    "name": "College Station, TX",
+    "search_volume": 5900,
+    "slug": "college-station-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "aaa724f2-6cf7-4eb3-acdc-dede386b5373",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "College Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "College Station, TX",
+                "postalCode": "77840",
+                "streetAddress": "105 Dominik Drive"
+            },
+            "latitude": 30.61827,
+            "longitude": -96.32228
+        }
+    ]
+}

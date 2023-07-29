@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 52101,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.25654,
+        "lon": -95.9345
+    },
+    "name": "Omaha, NE",
+    "search_volume": 30200,
+    "slug": "omaha-ne",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "c6aea953-8117-4f7d-a2fd-a36a0377bbd9",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Omaha",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Omaha, NE",
+                "postalCode": "68102",
+                "streetAddress": "1601 Jackson St"
+            },
+            "latitude": 41.254425,
+            "longitude": -95.937362
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Omaha - Eppley Airfield",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Omaha, NE",
+                "postalCode": "68110",
+                "streetAddress": "4501 Abbott Dr"
+            },
+            "latitude": 41.304311,
+            "longitude": -95.894058
+        }
+    ]
+}

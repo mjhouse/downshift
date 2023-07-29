@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 70513,
+    "language": "en-gl",
+    "location": {
+        "lat": 37.41533,
+        "lon": -88.89784
+    },
+    "name": "Vienna, IL",
+    "search_volume": 1700,
+    "slug": "vienna-il",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "cb98dfd4-8266-4ce4-a2b8-759550f2fad6",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Vienna (Mcdonalds)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Vienna, IL",
+                "postalCode": "62995",
+                "streetAddress": "707 E Vine St"
+            },
+            "latitude": 37.414923,
+            "longitude": -88.874002
+        }
+    ]
+}

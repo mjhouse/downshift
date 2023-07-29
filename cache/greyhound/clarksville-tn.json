@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 59151,
+    "language": "en-gl",
+    "location": {
+        "lat": 36.52977,
+        "lon": -87.35945
+    },
+    "name": "Clarksville, TN",
+    "search_volume": 8900,
+    "slug": "clarksville-tn",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "d8ea67a3-b686-4db0-ad93-77aa51297c16",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Clarksville Park&Ride",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Clarksville, TN",
+                "postalCode": "37043",
+                "streetAddress": "750 S Gateway Plaza Blvd"
+            },
+            "latitude": 36.524486,
+            "longitude": -87.217388
+        }
+    ]
+}

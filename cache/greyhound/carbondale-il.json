@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 51261,
+    "language": "en-gl",
+    "location": {
+        "lat": 37.727272,
+        "lon": -89.21675
+    },
+    "name": "Carbondale, IL",
+    "search_volume": 5300,
+    "slug": "carbondale-il",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "285b54e7-a641-45ba-8c65-f2a153859e54",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Carbondale (Train Station)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Carbondale, IL",
+                "postalCode": "62901",
+                "streetAddress": "401 S Illinois Ave"
+            },
+            "latitude": 37.72427,
+            "longitude": -89.216504
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 26941,
+    "language": "en-gl",
+    "location": {
+        "lat": 32.75549,
+        "lon": -97.330765
+    },
+    "name": "Fort Worth, TX",
+    "search_volume": 69300,
+    "slug": "fort-worth-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "38c52d52-f978-44da-8c7e-c5e01c9f0f28",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Fort Worth Downtown",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Fort Worth, TX",
+                "postalCode": "76102",
+                "streetAddress": "916 Main Street"
+            },
+            "latitude": 32.751897,
+            "longitude": -97.329315
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Ft Worth Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Fort Worth, TX",
+                "postalCode": "76102",
+                "streetAddress": "1001 Jones St"
+            },
+            "latitude": 32.75304049,
+            "longitude": -97.32667
+        }
+    ]
+}

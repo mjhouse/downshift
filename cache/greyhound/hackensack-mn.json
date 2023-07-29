@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110933,
+    "language": "en-gl",
+    "location": {
+        "lat": 46.930794,
+        "lon": -94.52055
+    },
+    "name": "Hackensack, MN",
+    "search_volume": 200,
+    "slug": "hackensack-mn",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "803c4ea9-2e20-4a1f-99e1-789fd2a1bd2a",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Hackensack",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Hackensack, MN",
+                "postalCode": "56452",
+                "streetAddress": "222 Mn State Hwy 371"
+            },
+            "latitude": 46.928027,
+            "longitude": -94.521173
+        }
+    ]
+}

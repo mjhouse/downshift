@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 111633,
+    "language": "en-gl",
+    "location": {
+        "lat": 47.2343,
+        "lon": -119.85255
+    },
+    "name": "Quincy, WA",
+    "search_volume": 300,
+    "slug": "quincy-wa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "135a942a-efa3-4f34-b33b-d4132b150620",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Quincy",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Quincy, WA",
+                "postalCode": "98848",
+                "streetAddress": "115 F St Sw Wb 106 F St Sw Eb"
+            },
+            "latitude": 47.244237,
+            "longitude": -119.853398
+        }
+    ]
+}

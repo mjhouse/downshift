@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 68833,
+    "language": "en-gl",
+    "location": {
+        "lat": 38.846706,
+        "lon": -91.94796
+    },
+    "name": "Fulton, MO",
+    "search_volume": 600,
+    "slug": "fulton-mo",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "70a935e1-1fad-474a-a615-2e66331714fb",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Fulton (Fast Lane)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Fulton, MO",
+                "postalCode": "65251",
+                "streetAddress": "2213 Cardinal Dr"
+            },
+            "latitude": 38.87362,
+            "longitude": -91.9631
+        }
+    ]
+}

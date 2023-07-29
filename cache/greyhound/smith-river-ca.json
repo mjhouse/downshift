@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110813,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.92817,
+        "lon": -124.147026
+    },
+    "name": "Smith River, CA",
+    "search_volume": 100,
+    "slug": "smith-river-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "d047ced1-1f72-4eb4-a45c-f843b917720e",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Smith River",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Smith River, CA",
+                "postalCode": "95567",
+                "streetAddress": "13450 US Hwy 101 N"
+            },
+            "latitude": 41.957582,
+            "longitude": -124.203812
+        }
+    ]
+}

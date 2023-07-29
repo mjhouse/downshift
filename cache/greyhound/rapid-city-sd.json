@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 111343,
+    "language": "en-gl",
+    "location": {
+        "lat": 44.080544,
+        "lon": -103.23102
+    },
+    "name": "Rapid City, SD",
+    "search_volume": 5800,
+    "slug": "rapid-city-sd",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "2f041dbb-e7f5-438d-8bd9-2d86a3e984e6",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Rapid City",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Rapid City, SD",
+                "postalCode": "57701",
+                "streetAddress": "333 6Th St"
+            },
+            "latitude": 44.082619,
+            "longitude": -103.22737
+        }
+    ]
+}

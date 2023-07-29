@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69643,
+    "language": "en-gl",
+    "location": {
+        "lat": 35.6048,
+        "lon": -91.28179
+    },
+    "name": "Newport, AR",
+    "search_volume": 1300,
+    "slug": "newport-ar",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "a0411d9b-f8f1-46c1-ab6d-a5bd31cabb32",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Newport (Tiger Mart Travel Center)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Newport, AR",
+                "postalCode": "72112",
+                "streetAddress": "3600 Airbase Rd"
+            },
+            "latitude": 35.638109,
+            "longitude": -91.243166
+        }
+    ]
+}

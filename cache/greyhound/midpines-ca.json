@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 112993,
+    "language": "en-gl",
+    "location": {
+        "lat": 37.54438,
+        "lon": -119.92045
+    },
+    "name": "Midpines, CA",
+    "search_volume": 100,
+    "slug": "midpines-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "f258ba4f-fa4c-4012-a17c-34a48979396b",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Midpines",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Midpines, CA",
+                "postalCode": "95345",
+                "streetAddress": "6323 Ca 140"
+            },
+            "latitude": 37.5440773,
+            "longitude": -119.919979
+        }
+    ]
+}

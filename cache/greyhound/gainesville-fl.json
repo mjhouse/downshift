@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 37711,
+    "language": "en-gl",
+    "location": {
+        "lat": 29.651634,
+        "lon": -82.32483
+    },
+    "name": "Gainesville, FL",
+    "search_volume": 40000,
+    "slug": "gainesville-fl",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "5e2e57da-c334-4d72-8dc3-81101b3d884d",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Gainesville",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Gainesville, FL",
+                "postalCode": "32601",
+                "streetAddress": "700 SE 3rd St"
+            },
+            "latitude": 29.646058,
+            "longitude": -82.322683
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Gainesville Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Gainesville, FL",
+                "postalCode": "32609",
+                "streetAddress": "101 NE 23rd Ave"
+            },
+            "latitude": 29.673532,
+            "longitude": -82.32338
+        }
+    ]
+}

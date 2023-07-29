@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 111453,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.43118,
+        "lon": -79.26087
+    },
+    "name": "Blairsville, PA",
+    "search_volume": 100,
+    "slug": "blairsville-pa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "fbbd2c51-7fab-4faf-a46e-6a435d561c8a",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Blairsville",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Blairsville, PA",
+                "postalCode": "15717",
+                "streetAddress": "1601 Old William Penn Hwy"
+            },
+            "latitude": 40.444873,
+            "longitude": -79.219902
+        }
+    ]
+}

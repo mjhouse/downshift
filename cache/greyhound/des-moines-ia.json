@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 51601,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.586834,
+        "lon": -93.62496
+    },
+    "name": "Des Moines, IA",
+    "search_volume": 32600,
+    "slug": "des-moines-ia",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "883f8335-dbdc-491b-8663-a46475859e19",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Des Moines",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Des Moines, IA",
+                "postalCode": "50309",
+                "streetAddress": "1501 2Nd Ave North"
+            },
+            "latitude": 41.605911,
+            "longitude": -93.619408
+        }
+    ]
+}

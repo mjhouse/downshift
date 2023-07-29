@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 113923,
+    "language": "en-gl",
+    "location": {
+        "lat": 35.97822,
+        "lon": -114.83451
+    },
+    "name": "Boulder City, NV",
+    "search_volume": 400,
+    "slug": "boulder-city-nv",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "cc4c879f-c51a-48a5-9a66-67ef8613e264",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Boulder City (Boulder Dam Hotel)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Boulder City, NV",
+                "postalCode": "89005",
+                "streetAddress": "1305 Arizona St"
+            },
+            "latitude": 35.978093,
+            "longitude": -114.836682
+        }
+    ]
+}

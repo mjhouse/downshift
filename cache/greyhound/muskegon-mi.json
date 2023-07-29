@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 55331,
+    "language": "en-gl",
+    "location": {
+        "lat": 43.23418,
+        "lon": -86.24839
+    },
+    "name": "Muskegon, MI",
+    "search_volume": 5100,
+    "slug": "muskegon-mi",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "459478cf-0a65-4c6a-a18a-84411b8b1db0",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Muskegon",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Muskegon, MI",
+                "postalCode": "49442",
+                "streetAddress": "1490 E Apple Ave"
+            },
+            "latitude": 43.23458673705405,
+            "longitude": -86.20641935330421
+        }
+    ]
+}

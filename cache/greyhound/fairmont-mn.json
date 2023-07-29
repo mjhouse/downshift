@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 111353,
+    "language": "en-gl",
+    "location": {
+        "lat": 43.652176,
+        "lon": -94.46108
+    },
+    "name": "Fairmont, MN",
+    "search_volume": 400,
+    "slug": "fairmont-mn",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "bed5dc03-c83c-4f12-bc5c-45b7da02e7cf",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Fairmont",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Fairmont, MN",
+                "postalCode": "56031",
+                "streetAddress": "407 E Blue Earth"
+            },
+            "latitude": 43.652688,
+            "longitude": -94.457509
+        }
+    ]
+}

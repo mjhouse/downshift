@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 111763,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.84871,
+        "lon": -106.29808
+    },
+    "name": "Casper, WY",
+    "search_volume": 3900,
+    "slug": "casper-wy",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "7ca29510-6203-4378-94f5-45697cf4ca09",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Casper",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Casper, WY",
+                "postalCode": "82601",
+                "streetAddress": "601 N Center St-Bus Stop"
+            },
+            "latitude": 42.8326,
+            "longitude": -106.3217
+        }
+    ]
+}

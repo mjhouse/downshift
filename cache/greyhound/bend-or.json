@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 53981,
+    "language": "en-gl",
+    "location": {
+        "lat": 44.058174,
+        "lon": -121.31531
+    },
+    "name": "Bend, OR",
+    "search_volume": 6100,
+    "slug": "bend-or",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "da7db987-f523-4ff4-95dd-a2b4b4ed853d",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Bend (Hawthorne Station)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Bend, OR",
+                "postalCode": "97701",
+                "streetAddress": "334 Ne Hawthorne Ave-Tkts Only"
+            },
+            "latitude": 44.0329,
+            "longitude": -121.1803
+        }
+    ]
+}

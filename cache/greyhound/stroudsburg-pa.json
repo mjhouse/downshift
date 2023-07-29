@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 70293,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.98676,
+        "lon": -75.194626
+    },
+    "name": "Stroudsburg, PA",
+    "search_volume": 8800,
+    "slug": "stroudsburg-pa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "f7167076-215e-47a8-b3e2-fa9ccdeebe6b",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Martz Park N Ride Terminal",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Stroudsburg, PA",
+                "postalCode": "18360",
+                "streetAddress": "Independence Rd Rte 447"
+            },
+            "latitude": 41.003658,
+            "longitude": -75.155946
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Stroudsburg Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Stroudsburg, PA",
+                "postalCode": "18360",
+                "streetAddress": "1082 Foxtown Hill Rd"
+            },
+            "latitude": 40.986952,
+            "longitude": -75.152745
+        }
+    ]
+}

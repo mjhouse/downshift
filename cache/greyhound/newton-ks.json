@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 109813,
+    "language": "en-gl",
+    "location": {
+        "lat": 38.046677,
+        "lon": -97.34504
+    },
+    "name": "Newton, KS",
+    "search_volume": 400,
+    "slug": "newton-ks",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "5a6db3e4-c290-4921-acca-e76ce7a6d978",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Newton Train Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Newton, KS",
+                "postalCode": "67114",
+                "streetAddress": "414 N Main St"
+            },
+            "latitude": 38.047084,
+            "longitude": -97.344513
+        }
+    ]
+}

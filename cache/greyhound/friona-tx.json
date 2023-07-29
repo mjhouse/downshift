@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 68873,
+    "language": "en-gl",
+    "location": {
+        "lat": 34.641735,
+        "lon": -102.724106
+    },
+    "name": "Friona, TX",
+    "search_volume": 300,
+    "slug": "friona-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "41217920-9a6e-47d8-9fe5-5ed1e83217fe",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Friona (Hernandez Restaurant)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Friona, TX",
+                "postalCode": "79035",
+                "streetAddress": "104 W 11Th (Hwy 60)"
+            },
+            "latitude": 34.641574,
+            "longitude": -102.727737
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "country": "US",
+    "id": 51761,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.768402,
+        "lon": -86.158066
+    },
+    "name": "Indianapolis, IN",
+    "search_volume": 154200,
+    "slug": "indianapolis-in",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "bebc98ce-a05e-4f7f-bc4b-191a5343791c",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Indianapolis",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Indianapolis, IN",
+                "postalCode": "46204",
+                "streetAddress": "230 E Washington St"
+            },
+            "latitude": 39.76709,
+            "longitude": -86.153802
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Indianapolis Arpt",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Indianapolis, IN",
+                "postalCode": "46204",
+                "streetAddress": "Zone 1 Ground Trasp Ctr"
+            },
+            "latitude": 39.7687,
+            "longitude": -86.15428
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Indianapolis Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Indianapolis, IN",
+                "postalCode": "46225",
+                "streetAddress": "350 S Illinois St"
+            },
+            "latitude": 39.761784,
+            "longitude": -86.161018
+        }
+    ]
+}

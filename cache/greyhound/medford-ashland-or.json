@@ -1,0 +1,63 @@
+{
+    "country": "US",
+    "id": 117703,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.194576,
+        "lon": -122.70948
+    },
+    "name": "Medford-Ashland, OR",
+    "search_volume": 17700,
+    "slug": "medford-ashland-or",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "53b23bab-4275-4c89-a6b9-d1e91ccd8aa7",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Ashland",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Medford-Ashland, OR",
+                "postalCode": "97520",
+                "streetAddress": "500 STADIUM ST"
+            },
+            "latitude": 42.185954,
+            "longitude": -122.689551
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Medford Airport",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Medford-Ashland, OR",
+                "postalCode": "97504",
+                "streetAddress": "1000 Terminal Spur Rd"
+            },
+            "latitude": 42.368602,
+            "longitude": -122.874767
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Medford Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Medford-Ashland, OR",
+                "postalCode": "97501",
+                "streetAddress": "220 S Front St"
+            },
+            "latitude": 42.324064,
+            "longitude": -122.871508
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 107463,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.694504,
+        "lon": -81.703186
+    },
+    "name": "Mt Eaton, OH",
+    "search_volume": 200,
+    "slug": "mt-eaton-oh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "a1efa4ba-7c35-4589-b079-59a7c4b2cbfe",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Mt Eaton",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Mt Eaton, OH",
+                "postalCode": "44659",
+                "streetAddress": "15936 E Main St"
+            },
+            "latitude": 40.694157,
+            "longitude": -81.702591
+        }
+    ]
+}

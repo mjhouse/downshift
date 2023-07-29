@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 55811,
+    "language": "en-gl",
+    "location": {
+        "lat": 32.523205,
+        "lon": -92.637924
+    },
+    "name": "Ruston, LA",
+    "search_volume": 5500,
+    "slug": "ruston-la",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "d3fb964f-691a-4e48-bbc3-c286bb66c5a0",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Ruston (K & H Smokeshop)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Ruston, LA",
+                "postalCode": "71270",
+                "streetAddress": "500 S Vienna St"
+            },
+            "latitude": 32.524425,
+            "longitude": -92.638457
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 109413,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.736794,
+        "lon": -82.73931
+    },
+    "name": "Washington, GA",
+    "search_volume": 900,
+    "slug": "washington-ga",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "82f13b02-956b-4981-8fe1-d3e070f506c1",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Washington",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Washington, GA",
+                "postalCode": "30673",
+                "streetAddress": "117 E Robert Tooms"
+            },
+            "latitude": 33.737069,
+            "longitude": -82.741158
+        }
+    ]
+}

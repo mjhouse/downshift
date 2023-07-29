@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 112413,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.744003,
+        "lon": -90.724815
+    },
+    "name": "Cleveland, MS",
+    "search_volume": 7000,
+    "slug": "cleveland-ms",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "6f5aec47-6ddd-456e-8319-04ed5ffb71bb",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Cleveland",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Cleveland, MS",
+                "postalCode": "38732",
+                "streetAddress": "800 S Davis Ave"
+            },
+            "latitude": 33.736324,
+            "longitude": -90.716295
+        }
+    ]
+}

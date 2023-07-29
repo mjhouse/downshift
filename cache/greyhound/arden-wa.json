@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 113963,
+    "language": "en-gl",
+    "location": {
+        "lat": 48.46018,
+        "lon": -117.876366
+    },
+    "name": "Arden, WA",
+    "search_volume": 100,
+    "slug": "arden-wa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "7cfce675-78fe-4972-96e1-930bc3bdf676",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Arden",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Arden, WA",
+                "postalCode": "99114",
+                "streetAddress": "395 S #B"
+            },
+            "latitude": 48.4689,
+            "longitude": -117.888462
+        }
+    ]
+}

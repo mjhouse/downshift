@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 112953,
+    "language": "en-gl",
+    "location": {
+        "lat": 29.905504,
+        "lon": -96.87665
+    },
+    "name": "La Grange, TX",
+    "search_volume": 300,
+    "slug": "la-grange-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "82805db5-b1e1-4ede-a989-e99cfae378cb",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "La Grange (E)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "La Grange, TX",
+                "postalCode": "78945",
+                "streetAddress": "1915 Hwy 71"
+            },
+            "latitude": 29.90107,
+            "longitude": -96.9064
+        }
+    ]
+}

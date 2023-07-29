@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110273,
+    "language": "en-gl",
+    "location": {
+        "lat": 46.589146,
+        "lon": -112.03911
+    },
+    "name": "Helena, MT",
+    "search_volume": 1500,
+    "slug": "helena-mt",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "fb39b90e-fe4a-4c62-bbdf-4cb4cb8a94bf",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Helena",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Helena, MT",
+                "postalCode": "59623",
+                "streetAddress": "1415 N Montana Ave"
+            },
+            "latitude": 46.599372,
+            "longitude": -112.019933
+        }
+    ]
+}

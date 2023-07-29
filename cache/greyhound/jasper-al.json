@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69113,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.83122,
+        "lon": -87.277504
+    },
+    "name": "Jasper, AL",
+    "search_volume": 1000,
+    "slug": "jasper-al",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "1e908821-abb1-45b0-bb7f-c5b00b003828",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Jasper (Love's)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Jasper, AL",
+                "postalCode": "35501",
+                "streetAddress": "83 Carl Cannon Blvd"
+            },
+            "latitude": 33.79126,
+            "longitude": -87.24161
+        }
+    ]
+}

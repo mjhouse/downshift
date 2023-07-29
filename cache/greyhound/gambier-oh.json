@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 110003,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.37593,
+        "lon": -82.39719
+    },
+    "name": "Gambier, OH",
+    "search_volume": 100,
+    "slug": "gambier-oh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "495ad48a-8dbd-4385-8e94-7c44b3140798",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Gambier",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Gambier, OH",
+                "postalCode": "43022",
+                "streetAddress": "202 Gaskin Ave"
+            },
+            "latitude": 40.378298,
+            "longitude": -82.396579
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Harrison Township",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Gambier, OH",
+                "postalCode": "43022",
+                "streetAddress": "23439 Newcastle Rd"
+            },
+            "latitude": 40.355973,
+            "longitude": -82.327892
+        }
+    ]
+}

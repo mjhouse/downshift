@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 47601,
+    "language": "en-gl",
+    "location": {
+        "lat": 35.052666,
+        "lon": -78.87836
+    },
+    "name": "Fayetteville, NC",
+    "search_volume": 29500,
+    "slug": "fayetteville-nc",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "a20b54d1-3039-4772-8f81-0263db1e2ab9",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Fayetteville (Eastern Blvd/Person St)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Fayetteville, NC",
+                "postalCode": "28301",
+                "streetAddress": "101 S Eastern Blvd"
+            },
+            "latitude": 35.047271,
+            "longitude": -78.864945
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Fayetteville Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Fayetteville, NC",
+                "postalCode": "28301",
+                "streetAddress": "505 Franklin St"
+            },
+            "latitude": 35.053688,
+            "longitude": -78.886862
+        }
+    ]
+}

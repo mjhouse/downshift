@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 107343,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.99754,
+        "lon": -85.74664
+    },
+    "name": "Pendleton, IN",
+    "search_volume": 600,
+    "slug": "pendleton-in",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "44b78850-ba71-4568-9b16-d6e7520ab693",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Pendleton",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Pendleton, IN",
+                "postalCode": "46064",
+                "streetAddress": "7788 S State Rd 13"
+            },
+            "latitude": 39.981812,
+            "longitude": -85.738749
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 36301,
+    "language": "en-gl",
+    "location": {
+        "lat": 35.46756,
+        "lon": -97.516426
+    },
+    "name": "Oklahoma City, OK",
+    "search_volume": 72200,
+    "slug": "oklahoma-city-ok",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "9d9dfb3d-aa39-43c4-b9d6-839263cb1ba3",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Oklahoma City",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Oklahoma City, OK",
+                "postalCode": "73102",
+                "streetAddress": "100 S E K Gaylord Blvd"
+            },
+            "latitude": 35.465373,
+            "longitude": -97.513039
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Oklahoma City Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Oklahoma City, OK",
+                "postalCode": "73117",
+                "streetAddress": "1948 E Reno Ave"
+            },
+            "latitude": 35.463758,
+            "longitude": -97.477415
+        }
+    ]
+}

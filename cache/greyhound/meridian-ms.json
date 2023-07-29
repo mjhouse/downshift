@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 55231,
+    "language": "en-gl",
+    "location": {
+        "lat": 32.36431,
+        "lon": -88.70366
+    },
+    "name": "Meridian, MS",
+    "search_volume": 11400,
+    "slug": "meridian-ms",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "76722817-0317-481f-b6ab-408e2b6ad42b",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Meridian Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Meridian, MS",
+                "postalCode": "39301",
+                "streetAddress": "1901 Front St"
+            },
+            "latitude": 32.363811,
+            "longitude": -88.696351
+        }
+    ]
+}

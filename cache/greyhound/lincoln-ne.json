@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106043,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.813618,
+        "lon": -96.7026
+    },
+    "name": "Lincoln, NE",
+    "search_volume": 9700,
+    "slug": "lincoln-ne",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "6fe7c97c-942f-48b6-8ea9-15527f65e6e4",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Lincoln",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Lincoln, NE",
+                "postalCode": "68504",
+                "streetAddress": "5250 Superior St"
+            },
+            "latitude": 40.857925,
+            "longitude": -96.648018
+        }
+    ]
+}

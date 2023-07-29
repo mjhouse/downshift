@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 113133,
+    "language": "en-gl",
+    "location": {
+        "lat": 29.560738,
+        "lon": -104.37215
+    },
+    "name": "Presidio, TX",
+    "search_volume": 900,
+    "slug": "presidio-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "e61aa1f8-4958-485f-a780-2beba6874359",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Presidio",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Presidio, TX",
+                "postalCode": "79845",
+                "streetAddress": "102 W Center St"
+            },
+            "latitude": 29.572753,
+            "longitude": -104.369429
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69533,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.641445,
+        "lon": -80.15145
+    },
+    "name": "Meadville, PA",
+    "search_volume": 1400,
+    "slug": "meadville-pa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "4e077a2c-ecbf-48d1-9a7c-02d50ce4ea91",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Meadville (Quick Mart)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Meadville, PA",
+                "postalCode": "16335",
+                "streetAddress": "900 Water St"
+            },
+            "latitude": 41.638311,
+            "longitude": -80.155299
+        }
+    ]
+}

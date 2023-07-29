@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 109363,
+    "language": "en-gl",
+    "location": {
+        "lat": 32.87711,
+        "lon": -80.013054
+    },
+    "name": "North Charleston, SC",
+    "search_volume": 27300,
+    "slug": "north-charleston-sc",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "76531ada-2f35-4604-accd-a3ab23efd6ca",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Charleston",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "North Charleston, SC",
+                "postalCode": "29405",
+                "streetAddress": "4565 Gaynor Ave"
+            },
+            "latitude": 32.875148,
+            "longitude": -79.998177
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 55511,
+    "language": "en-gl",
+    "location": {
+        "lat": 44.026554,
+        "lon": -116.96294
+    },
+    "name": "Ontario, OR",
+    "search_volume": 4500,
+    "slug": "ontario-or",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "62a9d97d-9a28-4f01-b8c7-dfd42894a91e",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Ontario (Malheur Counc Aging Bldg)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Ontario, OR",
+                "postalCode": "97914",
+                "streetAddress": "842 Se 1St Ave"
+            },
+            "latitude": 44.024097,
+            "longitude": -116.951332
+        }
+    ]
+}

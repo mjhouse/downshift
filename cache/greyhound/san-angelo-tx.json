@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 55861,
+    "language": "en-gl",
+    "location": {
+        "lat": 31.463772,
+        "lon": -100.437035
+    },
+    "name": "San Angelo, TX",
+    "search_volume": 9300,
+    "slug": "san-angelo-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "8b7a7a6d-484c-4572-b951-dd71bc57d013",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "San Angelo (Concho Valley Tran Dist)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "San Angelo, TX",
+                "postalCode": "76903",
+                "streetAddress": "510 N Chadbourne St"
+            },
+            "latitude": 31.468795,
+            "longitude": -100.44077
+        }
+    ]
+}

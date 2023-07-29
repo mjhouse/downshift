@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 112673,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.768433,
+        "lon": -73.52512
+    },
+    "name": "Hicksville, NY",
+    "search_volume": 500,
+    "slug": "hicksville-ny",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "7c839c3c-db5e-4700-b371-e7f9f04b2a49",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Long Island Express",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Hicksville, NY",
+                "postalCode": "11801",
+                "streetAddress": "358 N Broadway Mall"
+            },
+            "latitude": 40.774042,
+            "longitude": -73.528417
+        }
+    ]
+}

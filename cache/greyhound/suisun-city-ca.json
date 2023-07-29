@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 70313,
+    "language": "en-gl",
+    "location": {
+        "lat": 38.238247,
+        "lon": -122.040245
+    },
+    "name": "Suisun City, CA",
+    "search_volume": 1800,
+    "slug": "suisun-city-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "a5fcde1d-55f9-4404-973b-a504d52ddab2",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Suisun City Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Suisun City, CA",
+                "postalCode": "94585",
+                "streetAddress": "177 Main St"
+            },
+            "latitude": 38.242928,
+            "longitude": -122.04159
+        }
+    ]
+}

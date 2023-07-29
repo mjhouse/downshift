@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 68623,
+    "language": "en-gl",
+    "location": {
+        "lat": 29.370886,
+        "lon": -100.89587
+    },
+    "name": "Del Rio, TX",
+    "search_volume": 3500,
+    "slug": "del-rio-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "2d229d92-24dd-473d-be95-23c64e8a3a8c",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Del Rio (Stripes)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Del Rio, TX",
+                "postalCode": "78840",
+                "streetAddress": "1602 Veterans Blvd"
+            },
+            "latitude": 29.37901,
+            "longitude": -100.904292
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Del Rio (Vvbhc)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Del Rio, TX",
+                "postalCode": "78840",
+                "streetAddress": "1401 Las Vacas St"
+            },
+            "latitude": 29.350403,
+            "longitude": -100.911629
+        }
+    ]
+}

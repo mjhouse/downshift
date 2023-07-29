@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106253,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.03078,
+        "lon": -93.63191
+    },
+    "name": "Ames, IA",
+    "search_volume": 4100,
+    "slug": "ames-ia",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "a6353c83-d2bd-48b2-a19a-819d97ca573b",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Ames",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Ames, IA",
+                "postalCode": "50014",
+                "streetAddress": "129 Hayward Ave Ste 129"
+            },
+            "latitude": 42.021064,
+            "longitude": -93.652317
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 59111,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.32115,
+        "lon": -85.17971
+    },
+    "name": "Battle Creek, MI",
+    "search_volume": 6800,
+    "slug": "battle-creek-mi",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "feba9f47-1e51-42da-882c-908d07acc1b6",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Battle Creek Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Battle Creek, MI",
+                "postalCode": "49017",
+                "streetAddress": "119 Mccamly St S"
+            },
+            "latitude": 42.318616,
+            "longitude": -85.187685
+        }
+    ]
+}

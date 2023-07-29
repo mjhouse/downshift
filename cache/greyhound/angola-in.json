@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110213,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.634773,
+        "lon": -84.99941
+    },
+    "name": "Angola, IN",
+    "search_volume": 1100,
+    "slug": "angola-in",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "12a655a1-caa0-4105-8384-ad37da6dee93",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Angola",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Angola, IN",
+                "postalCode": "46703",
+                "streetAddress": "3075 W Maumee St"
+            },
+            "latitude": 41.634581,
+            "longitude": -85.044667
+        }
+    ]
+}

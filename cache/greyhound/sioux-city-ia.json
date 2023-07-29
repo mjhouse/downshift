@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 111493,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.49634,
+        "lon": -96.40494
+    },
+    "name": "Sioux City, IA",
+    "search_volume": 5400,
+    "slug": "sioux-city-ia",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "18ff6cd6-d306-461e-a3ba-339b5e3407eb",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Sioux City",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Sioux City, IA",
+                "postalCode": "51101",
+                "streetAddress": "501 Nebraska St"
+            },
+            "latitude": 42.495406,
+            "longitude": -96.403513
+        }
+    ]
+}

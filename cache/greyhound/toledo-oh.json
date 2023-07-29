@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 52481,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.652805,
+        "lon": -83.537865
+    },
+    "name": "Toledo, OH",
+    "search_volume": 37300,
+    "slug": "toledo-oh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "4eb1a16e-f3cd-4a7d-8f26-9ada9dc67a8e",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Toledo Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Toledo, OH",
+                "postalCode": "43604",
+                "streetAddress": "415 Emerald Ave"
+            },
+            "latitude": 41.638369,
+            "longitude": -83.54167
+        }
+    ]
+}

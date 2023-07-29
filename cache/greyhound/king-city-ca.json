@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69253,
+    "language": "en-gl",
+    "location": {
+        "lat": 36.212746,
+        "lon": -121.12603
+    },
+    "name": "King City, CA",
+    "search_volume": 900,
+    "slug": "king-city-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "030f3d80-1b9e-4777-b275-5eb33c78a841",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "King City (RS)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "King City, CA",
+                "postalCode": "93930",
+                "streetAddress": "1350 Broadway Cir"
+            },
+            "latitude": 36.202533,
+            "longitude": -121.136343
+        }
+    ]
+}

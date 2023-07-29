@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 107513,
+    "language": "en-gl",
+    "location": {
+        "lat": 37.771908,
+        "lon": -87.11117
+    },
+    "name": "Owensboro, KY",
+    "search_volume": 4300,
+    "slug": "owensboro-ky",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "bcd59f80-f68f-4f6e-8d43-2cbe7a68134a",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Owensboro",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Owensboro, KY",
+                "postalCode": "42301",
+                "streetAddress": "430 Allen St"
+            },
+            "latitude": 37.771788,
+            "longitude": -87.111102
+        }
+    ]
+}

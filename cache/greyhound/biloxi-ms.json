@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 26311,
+    "language": "en-gl",
+    "location": {
+        "lat": 30.396032,
+        "lon": -88.88531
+    },
+    "name": "Biloxi, MS",
+    "search_volume": 18400,
+    "slug": "biloxi-ms",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "a0fa96fa-1eb8-4601-a814-b70c26e01772",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Biloxi Transit Center",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Biloxi, MS",
+                "postalCode": "39530",
+                "streetAddress": "820 Dr Martin Luther King Jr Blvd"
+            },
+            "latitude": 30.398504,
+            "longitude": -88.889723
+        }
+    ]
+}

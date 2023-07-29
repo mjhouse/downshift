@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 70223,
+    "language": "en-gl",
+    "location": {
+        "lat": 37.524227,
+        "lon": -85.89302
+    },
+    "name": "Sonora, KY",
+    "search_volume": 1800,
+    "slug": "sonora-ky",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "274cfed4-bcfb-4c4e-a5d3-fa1127f131e1",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Sonora Elizabethtown",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Sonora, KY",
+                "postalCode": "42776",
+                "streetAddress": "189 S Maple St"
+            },
+            "latitude": 37.523259,
+            "longitude": -85.890725
+        }
+    ]
+}

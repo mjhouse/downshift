@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106973,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.96732,
+        "lon": -94.168495
+    },
+    "name": "Lockesburg, AR",
+    "search_volume": 200,
+    "slug": "lockesburg-ar",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "cfbe91d0-87ef-4e25-81ee-b099781fcef7",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Lockesburg",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Lockesburg, AR",
+                "postalCode": "71846",
+                "streetAddress": "102 East Main"
+            },
+            "latitude": 33.96709,
+            "longitude": -94.168269
+        }
+    ]
+}

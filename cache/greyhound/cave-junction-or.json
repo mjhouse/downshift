@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110753,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.16289,
+        "lon": -123.648125
+    },
+    "name": "Cave Junction, OR",
+    "search_volume": 500,
+    "slug": "cave-junction-or",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "37c4af7b-893a-4c12-8b35-679380783653",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Cave Junction",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Cave Junction, OR",
+                "postalCode": "97523",
+                "streetAddress": "406 Redwood Hwy"
+            },
+            "latitude": 42.162513,
+            "longitude": -123.647362
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110503,
+    "language": "en-gl",
+    "location": {
+        "lat": 43.68074,
+        "lon": -114.36366
+    },
+    "name": "Ketchum, ID",
+    "search_volume": 100,
+    "slug": "ketchum-id",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "03745605-3428-4dbe-a65d-ee7c5b3f0fce",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Ketchum",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Ketchum, ID",
+                "postalCode": "83340",
+                "streetAddress": "100 Hospital Dr"
+            },
+            "latitude": 43.648546,
+            "longitude": -114.349503
+        }
+    ]
+}

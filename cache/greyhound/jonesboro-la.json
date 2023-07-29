@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 54851,
+    "language": "en-gl",
+    "location": {
+        "lat": 32.24127,
+        "lon": -92.71599
+    },
+    "name": "Jonesboro, LA",
+    "search_volume": 500,
+    "slug": "jonesboro-la",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "3331e2bb-a361-40a3-b0c6-de4458f42df3",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Jonesboro (Super Save#2-Chevron)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Jonesboro, LA",
+                "postalCode": "71251",
+                "streetAddress": "825 Pershing Hwy"
+            },
+            "latitude": 32.255509,
+            "longitude": -92.723566
+        }
+    ]
+}

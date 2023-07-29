@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 56261,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.32796,
+        "lon": -120.18325
+    },
+    "name": "Truckee, CA",
+    "search_volume": 4800,
+    "slug": "truckee-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "b13a7f79-46f4-4b73-b0a5-b2f691f63991",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Truckee",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Truckee, CA",
+                "postalCode": "96161",
+                "streetAddress": "10065 Donner Pass Rd"
+            },
+            "latitude": 39.327541,
+            "longitude": -120.18574
+        }
+    ]
+}

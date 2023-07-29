@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69863,
+    "language": "en-gl",
+    "location": {
+        "lat": 30.093273,
+        "lon": -95.98773
+    },
+    "name": "Prairie View, TX",
+    "search_volume": 900,
+    "slug": "prairie-view-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "1d05e2c3-ae45-45a6-becc-8fd8b9ad05e6",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Prairie View (Mini Mart)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Prairie View, TX",
+                "postalCode": "77446",
+                "streetAddress": "44814 Business US-290"
+            },
+            "latitude": 30.07305,
+            "longitude": -95.9923
+        }
+    ]
+}

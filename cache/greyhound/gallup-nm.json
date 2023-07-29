@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 54591,
+    "language": "en-gl",
+    "location": {
+        "lat": 35.52808,
+        "lon": -108.742584
+    },
+    "name": "Gallup, NM",
+    "search_volume": 7300,
+    "slug": "gallup-nm",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "450b1e0f-03f0-4ec8-9b12-17b6a2002184",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Gallup (Nks Truck Stop)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Gallup, NM",
+                "postalCode": "87301",
+                "streetAddress": "3405 W Hwy 66"
+            },
+            "latitude": 35.50397,
+            "longitude": -108.835
+        }
+    ]
+}

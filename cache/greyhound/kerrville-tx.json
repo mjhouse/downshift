@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69213,
+    "language": "en-gl",
+    "location": {
+        "lat": 30.047434,
+        "lon": -99.14032
+    },
+    "name": "Kerrville, TX",
+    "search_volume": 1200,
+    "slug": "kerrville-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "9431c75c-4c9a-41d9-9718-1edaf61de877",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Kerrville Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Kerrville, TX",
+                "postalCode": "78029",
+                "streetAddress": "206 Schreiner St"
+            },
+            "latitude": 30.053925,
+            "longitude": -99.143303
+        }
+    ]
+}

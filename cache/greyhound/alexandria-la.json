@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 26981,
+    "language": "en-gl",
+    "location": {
+        "lat": 31.311293,
+        "lon": -92.44514
+    },
+    "name": "Alexandria, LA",
+    "search_volume": 10900,
+    "slug": "alexandria-la",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "9c6c197f-b299-42cb-8983-8ddeb3989427",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Alexandria (Quick Wash)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Alexandria, LA",
+                "postalCode": "71301",
+                "streetAddress": "1705 E Texas Ave"
+            },
+            "latitude": 31.284823,
+            "longitude": -92.450419
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110653,
+    "language": "en-gl",
+    "location": {
+        "lat": 35.723473,
+        "lon": -79.46224
+    },
+    "name": "Siler City, NC",
+    "search_volume": 100,
+    "slug": "siler-city-nc",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "eeaf434c-ac88-4b08-9892-95d478d89eaa",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Siler City",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Siler City, NC",
+                "postalCode": "27344",
+                "streetAddress": "320 E 11Th"
+            },
+            "latitude": 35.733211,
+            "longitude": -79.464372
+        }
+    ]
+}

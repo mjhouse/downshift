@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 53741,
+    "language": "en-gl",
+    "location": {
+        "lat": 32.94401,
+        "lon": -85.95385
+    },
+    "name": "Alexander City, AL",
+    "search_volume": 1900,
+    "slug": "alexander-city-al",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "ce578b3c-dc27-4d2a-ab00-a86573fe7c8b",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Alexander City (Durell Stones Barber Shop)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Alexander City, AL",
+                "postalCode": "35010",
+                "streetAddress": "2115 Hwy 280"
+            },
+            "latitude": 32.94313,
+            "longitude": -85.9824
+        }
+    ]
+}

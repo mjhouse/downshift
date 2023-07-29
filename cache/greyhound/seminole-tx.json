@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 70173,
+    "language": "en-gl",
+    "location": {
+        "lat": 32.718994,
+        "lon": -102.64491
+    },
+    "name": "Seminole, TX",
+    "search_volume": 600,
+    "slug": "seminole-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "242539e1-3786-4312-a1a0-f79a5fa095be",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Seminole (Anderson Welding)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Seminole, TX",
+                "postalCode": "79360",
+                "streetAddress": "604 Se 2Nd St"
+            },
+            "latitude": 32.712525,
+            "longitude": -102.643896
+        }
+    ]
+}

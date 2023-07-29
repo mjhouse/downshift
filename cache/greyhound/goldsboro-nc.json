@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 59211,
+    "language": "en-gl",
+    "location": {
+        "lat": 35.384884,
+        "lon": -77.99277
+    },
+    "name": "Goldsboro, NC",
+    "search_volume": 2800,
+    "slug": "goldsboro-nc",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "2fde1f1c-eb33-4ab0-9b8e-1adfacd4b8ff",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Goldsboro Transit (E)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Goldsboro, NC",
+                "postalCode": "27530",
+                "streetAddress": "103 N Carolina St"
+            },
+            "latitude": 35.385459,
+            "longitude": -78.003166
+        }
+    ]
+}

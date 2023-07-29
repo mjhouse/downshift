@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69163,
+    "language": "en-gl",
+    "location": {
+        "lat": 38.576702,
+        "lon": -92.173515
+    },
+    "name": "Jefferson City, MO",
+    "search_volume": 3300,
+    "slug": "jefferson-city-mo",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "7cafebaf-99b9-42aa-b642-7ec6efc88c1f",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Jefferson City (Convenience Food Mart)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Jefferson City, MO",
+                "postalCode": "65101",
+                "streetAddress": "701 Eastland Dr"
+            },
+            "latitude": 38.549942,
+            "longitude": -92.149155
+        }
+    ]
+}

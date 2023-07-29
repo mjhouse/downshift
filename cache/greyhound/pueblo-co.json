@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 55721,
+    "language": "en-gl",
+    "location": {
+        "lat": 38.254448,
+        "lon": -104.60914
+    },
+    "name": "Pueblo, CO",
+    "search_volume": 12000,
+    "slug": "pueblo-co",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "89a5b025-32bb-4ddd-82ad-30ef063feb09",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Pueblo Transit",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Pueblo, CO",
+                "postalCode": "81003",
+                "streetAddress": "123 Court St"
+            },
+            "latitude": 38.26859,
+            "longitude": -104.610481
+        }
+    ]
+}

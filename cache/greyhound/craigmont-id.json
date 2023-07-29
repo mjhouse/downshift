@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 107943,
+    "language": "en-gl",
+    "location": {
+        "lat": 46.241276,
+        "lon": -116.46709
+    },
+    "name": "Craigmont, ID",
+    "search_volume": 100,
+    "slug": "craigmont-id",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "d718401b-f165-4622-ad24-8c9e6a25c18a",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Craigmont",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Craigmont, ID",
+                "postalCode": "83523",
+                "streetAddress": "200 W Main"
+            },
+            "latitude": 46.240766,
+            "longitude": -116.476187
+        }
+    ]
+}

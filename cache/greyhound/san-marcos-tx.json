@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 30141,
+    "language": "en-gl",
+    "location": {
+        "lat": 29.883274,
+        "lon": -97.94139
+    },
+    "name": "San Marcos, TX",
+    "search_volume": 16200,
+    "slug": "san-marcos-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "99dc3d80-3cc8-4f86-b2bf-392ae1a2ee45",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "San Marcos (Carts)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "San Marcos, TX",
+                "postalCode": "78666",
+                "streetAddress": "338 S Guadalupe St"
+            },
+            "latitude": 29.876533,
+            "longitude": -97.941047
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "SAN MARCOS TX ST UNIV",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "San Marcos, TX",
+                "postalCode": "78666",
+                "streetAddress": "601 UNIVERSITY DR"
+            },
+            "latitude": 29.89081,
+            "longitude": -97.939747
+        }
+    ]
+}

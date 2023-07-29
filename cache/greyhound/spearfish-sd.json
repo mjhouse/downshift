@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 111363,
+    "language": "en-gl",
+    "location": {
+        "lat": 44.490818,
+        "lon": -103.85937
+    },
+    "name": "Spearfish, SD",
+    "search_volume": 500,
+    "slug": "spearfish-sd",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "39b4609c-c9fe-48ec-848e-24eaacb4579c",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Spearfish",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Spearfish, SD",
+                "postalCode": "57783",
+                "streetAddress": "2015 Tumbleweed Trail"
+            },
+            "latitude": 44.4912,
+            "longitude": -103.8603
+        }
+    ]
+}

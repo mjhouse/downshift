@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 55531,
+    "language": "en-gl",
+    "location": {
+        "lat": 30.53353,
+        "lon": -92.08151
+    },
+    "name": "Opelousas, LA",
+    "search_volume": 4000,
+    "slug": "opelousas-la",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "3dee5f05-0f54-4eef-82c1-e7eefd9634e8",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Opelousas (Texaco 167 Truck Stop)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Opelousas, LA",
+                "postalCode": "70570",
+                "streetAddress": "227 US-167"
+            },
+            "latitude": 30.5841,
+            "longitude": -92.05299
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 54541,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.58526,
+        "lon": -105.08442
+    },
+    "name": "Fort Collins, CO",
+    "search_volume": 3600,
+    "slug": "fort-collins-co",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "195731da-342f-4029-bc20-e9d15c03b580",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Ft Collins Downtown (E)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Fort Collins, CO",
+                "postalCode": "80524",
+                "streetAddress": "250 N Mason St"
+            },
+            "latitude": 40.589906,
+            "longitude": -105.078358
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Ft Collins, CO (Harmony Road Park & Ride)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Fort Collins, CO",
+                "postalCode": "80528",
+                "streetAddress": "4308 E Harmony Rd"
+            },
+            "latitude": 40.52424,
+            "longitude": -104.996
+        }
+    ]
+}

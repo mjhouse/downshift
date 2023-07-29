@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69203,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.647,
+        "lon": -83.60965
+    },
+    "name": "Kenton, OH",
+    "search_volume": 1300,
+    "slug": "kenton-oh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "6973d323-9d57-4130-aaf3-f41fb9717e30",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Kenton (Marathon)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Kenton, OH",
+                "postalCode": "43311",
+                "streetAddress": "350 S Main St-Bus Stop"
+            },
+            "latitude": 40.643626,
+            "longitude": -83.608504
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69553,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.399223,
+        "lon": -110.86872
+    },
+    "name": "Miami, AZ",
+    "search_volume": 900,
+    "slug": "miami-az",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "b2d8a01d-f339-4b47-beeb-62340ab97e83",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Globe Miami (Good 2 Go)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Miami, AZ",
+                "postalCode": "85501",
+                "streetAddress": "1501 E Ash St"
+            },
+            "latitude": 33.395853,
+            "longitude": -110.769671
+        }
+    ]
+}

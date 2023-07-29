@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69293,
+    "language": "en-gl",
+    "location": {
+        "lat": 44.956356,
+        "lon": -92.76576
+    },
+    "name": "Lakeland, MN",
+    "search_volume": 100,
+    "slug": "lakeland-mn",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "59c26660-defb-40d4-91e9-8e49558a0d74",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Lakeland Park & Ride",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Lakeland, MN",
+                "postalCode": "55043",
+                "streetAddress": "1062 Rivercrest Rd N"
+            },
+            "latitude": 44.964393,
+            "longitude": -92.771407
+        }
+    ]
+}

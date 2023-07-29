@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 118093,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.713676,
+        "lon": -82.59933
+    },
+    "name": "Lancaster, OH",
+    "search_volume": 1100,
+    "slug": "lancaster-oh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "97e4e8ca-7207-4c53-8c8f-331d6e0f747e",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Lancaster (Loves)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Lancaster, OH",
+                "postalCode": "43130",
+                "streetAddress": "3830 Lancaster-Circleville Rd SW"
+            },
+            "latitude": 39.717075,
+            "longitude": -82.670557
+        }
+    ]
+}

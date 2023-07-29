@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 70113,
+    "language": "en-gl",
+    "location": {
+        "lat": 34.281944,
+        "lon": -118.43897
+    },
+    "name": "San Fernando, CA",
+    "search_volume": 16200,
+    "slug": "san-fernando-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "5fe5bb3d-ada2-49b3-b3cc-de2b0ba437c3",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Los Angeles (Laurel Canyon/Rinaldi - San Fernando)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "San Fernando, CA",
+                "postalCode": "91340",
+                "streetAddress": "14729 Rinaldi St"
+            },
+            "latitude": 34.280876,
+            "longitude": -118.45452
+        }
+    ]
+}

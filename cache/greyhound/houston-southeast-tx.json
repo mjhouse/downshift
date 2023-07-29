@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 117923,
+    "language": "en-gl",
+    "location": {
+        "lat": 29.735378,
+        "lon": -95.301865
+    },
+    "name": "Houston Southeast, TX",
+    "search_volume": 14000,
+    "slug": "houston-southeast-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "1ba74800-59fe-47f8-b904-f87785185e7c",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Houston Southeast Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Houston Southeast, TX",
+                "postalCode": "77011",
+                "streetAddress": "7000 Harrisburg Blvd"
+            },
+            "latitude": 29.735379,
+            "longitude": -95.301864
+        }
+    ]
+}

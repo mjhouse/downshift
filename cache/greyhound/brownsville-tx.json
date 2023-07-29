@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 51211,
+    "language": "en-gl",
+    "location": {
+        "lat": 25.901747,
+        "lon": -97.49748
+    },
+    "name": "Brownsville, TX",
+    "search_volume": 36200,
+    "slug": "brownsville-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "e9f68d94-67cd-483a-a60e-5a248198c63d",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Brownsville Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Brownsville, TX",
+                "postalCode": "78520",
+                "streetAddress": "755 International Blvd Ste H"
+            },
+            "latitude": 25.901223,
+            "longitude": -97.495144
+        }
+    ]
+}

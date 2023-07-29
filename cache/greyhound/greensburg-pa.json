@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 54681,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.301456,
+        "lon": -79.538925
+    },
+    "name": "Greensburg, PA",
+    "search_volume": 1800,
+    "slug": "greensburg-pa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "2a183f67-8ad3-4c8b-bbbd-7eac2c67241d",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Greensburg (Westmoreland Transit Center)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Greensburg, PA",
+                "postalCode": "15601",
+                "streetAddress": "41 Bell Way"
+            },
+            "latitude": 40.302723,
+            "longitude": -79.546997
+        }
+    ]
+}

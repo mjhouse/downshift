@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106783,
+    "language": "en-gl",
+    "location": {
+        "lat": 43.54602,
+        "lon": -96.73126
+    },
+    "name": "Sioux Falls, SD",
+    "search_volume": 11900,
+    "slug": "sioux-falls-sd",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "d10f5216-5f79-4fb0-ba9f-195ea417aea4",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Sioux Falls",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Sioux Falls, SD",
+                "postalCode": "57107",
+                "streetAddress": "4110 Maples St Ste 108"
+            },
+            "latitude": 43.573365,
+            "longitude": -96.780474
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 55071,
+    "language": "en-gl",
+    "location": {
+        "lat": 44.10035,
+        "lon": -70.214775
+    },
+    "name": "Lewiston, ME",
+    "search_volume": 4200,
+    "slug": "lewiston-me",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "992f1532-d101-41a5-ac02-d6f68bec7cad",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Lewiston (Bates College)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Lewiston, ME",
+                "postalCode": "04240",
+                "streetAddress": "56 Campus Ave"
+            },
+            "latitude": 44.104437,
+            "longitude": -70.2038
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Lewiston Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Lewiston, ME",
+                "postalCode": "04240",
+                "streetAddress": "111 Bates St"
+            },
+            "latitude": 44.0983417,
+            "longitude": -70.2152035
+        }
+    ]
+}

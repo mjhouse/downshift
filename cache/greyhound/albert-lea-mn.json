@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106273,
+    "language": "en-gl",
+    "location": {
+        "lat": 43.6478,
+        "lon": -93.36865
+    },
+    "name": "Albert Lea, MN",
+    "search_volume": 2200,
+    "slug": "albert-lea-mn",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "093bb3b7-0844-4eec-a2f3-970b7f91f24f",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Albert Lea",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Albert Lea, MN",
+                "postalCode": "56007",
+                "streetAddress": "2011 E Main St"
+            },
+            "latitude": 43.654516,
+            "longitude": -93.34186
+        }
+    ]
+}

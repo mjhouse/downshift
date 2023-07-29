@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 113813,
+    "language": "en-gl",
+    "location": {
+        "lat": 43.813637,
+        "lon": -120.602745
+    },
+    "name": "Brothers, OR",
+    "search_volume": 100,
+    "slug": "brothers-or",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "e5b94f1e-60d3-4add-b5e0-c5fb81cd0d26",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Brothers (E)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Brothers, OR",
+                "postalCode": "97712",
+                "streetAddress": "34100 Hwy 20"
+            },
+            "latitude": 43.813993,
+            "longitude": -120.603551
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Hampton (E)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Brothers, OR",
+                "postalCode": "97712",
+                "streetAddress": "41700 E Hwy 20"
+            },
+            "latitude": 43.673885,
+            "longitude": -120.236752
+        }
+    ]
+}

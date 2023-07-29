@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 54101,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.535744,
+        "lon": -113.79279
+    },
+    "name": "Burley, ID",
+    "search_volume": 1000,
+    "slug": "burley-id",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "963c679a-88a1-4efa-83e1-7a29613bea92",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Burley",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Burley, ID",
+                "postalCode": "83318",
+                "streetAddress": "701 N Overland Avenue"
+            },
+            "latitude": 42.563797,
+            "longitude": -113.790516
+        }
+    ]
+}

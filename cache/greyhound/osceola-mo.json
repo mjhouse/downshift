@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 112493,
+    "language": "en-gl",
+    "location": {
+        "lat": 38.046696,
+        "lon": -93.70438
+    },
+    "name": "Osceola, MO",
+    "search_volume": 200,
+    "slug": "osceola-mo",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "a29281f7-7aff-4614-a34b-5948e0c0a1d8",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Osceola",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Osceola, MO",
+                "postalCode": "64776",
+                "streetAddress": "3649 Hwy 13 North"
+            },
+            "latitude": 37.9542,
+            "longitude": -93.641471
+        }
+    ]
+}

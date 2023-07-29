@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 47581,
+    "language": "en-gl",
+    "location": {
+        "lat": 34.195435,
+        "lon": -79.762566
+    },
+    "name": "Florence, SC",
+    "search_volume": 14300,
+    "slug": "florence-sc",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "56d5dfb4-669a-4654-b494-48c9900dfc23",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Florence (SC)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Florence, SC",
+                "postalCode": "29501",
+                "streetAddress": "2301 W Lucas St"
+            },
+            "latitude": 34.23645005081566,
+            "longitude": -79.80636581591659
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Florence Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Florence, SC",
+                "postalCode": "29501",
+                "streetAddress": "611 S Irby St"
+            },
+            "latitude": 34.188057,
+            "longitude": -79.76753
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 111523,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.741936,
+        "lon": -95.038315
+    },
+    "name": "Clarinda, IA",
+    "search_volume": 100,
+    "slug": "clarinda-ia",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "7643d701-43fe-427c-bdb5-ca853057f69b",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Clarinda",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Clarinda, IA",
+                "postalCode": "51632",
+                "streetAddress": "1200 S 16Th St"
+            },
+            "latitude": 40.727134,
+            "longitude": -95.037775
+        }
+    ]
+}

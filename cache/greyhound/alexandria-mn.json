@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106483,
+    "language": "en-gl",
+    "location": {
+        "lat": 45.884815,
+        "lon": -95.37766
+    },
+    "name": "Alexandria, MN",
+    "search_volume": 1500,
+    "slug": "alexandria-mn",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "125974c5-bf30-4c33-9a14-664a67c0e10c",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Alexandria",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Alexandria, MN",
+                "postalCode": "56308",
+                "streetAddress": "3181 Evergreen Ln Sw"
+            },
+            "latitude": 45.861321,
+            "longitude": -95.423072
+        }
+    ]
+}

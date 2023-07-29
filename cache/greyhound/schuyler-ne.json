@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 107143,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.44834,
+        "lon": -97.0597
+    },
+    "name": "Schuyler, NE",
+    "search_volume": 100,
+    "slug": "schuyler-ne",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "5a73e756-5351-40c4-abca-bb1291fe6995",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Schuyler",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Schuyler, NE",
+                "postalCode": "68661",
+                "streetAddress": "1610 Colfax St"
+            },
+            "latitude": 41.452793,
+            "longitude": -97.059672
+        }
+    ]
+}

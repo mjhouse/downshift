@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 55411,
+    "language": "en-gl",
+    "location": {
+        "lat": 30.003536,
+        "lon": -91.818726
+    },
+    "name": "New Iberia, LA",
+    "search_volume": 2300,
+    "slug": "new-iberia-la",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "f876e33f-aecd-4ba6-ad3f-373f112dc6fc",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "New Iberia (Hop In Texaco)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "New Iberia, LA",
+                "postalCode": "70560",
+                "streetAddress": "304 S Lewis St"
+            },
+            "latitude": 29.996259,
+            "longitude": -91.807116
+        }
+    ]
+}

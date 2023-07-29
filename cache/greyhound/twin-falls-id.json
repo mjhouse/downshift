@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 56301,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.55584,
+        "lon": -114.470055
+    },
+    "name": "Twin Falls, ID",
+    "search_volume": 5100,
+    "slug": "twin-falls-id",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "66ad2e47-e2e4-41db-b1d4-077dadc36d5a",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Twin Falls (Oasis Stop 'N Go)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Twin Falls, ID",
+                "postalCode": "83301",
+                "streetAddress": "1390 Blue Lakes Blvd"
+            },
+            "latitude": 42.586463,
+            "longitude": -114.45983
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 112593,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.90121,
+        "lon": -74.51432
+    },
+    "name": "Rockaway, NJ",
+    "search_volume": 600,
+    "slug": "rockaway-nj",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "b0a45159-c3a1-4398-8f30-0716dbd7044d",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Rockaway Express",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Rockaway, NJ",
+                "postalCode": "07801",
+                "streetAddress": "214 Enterprise Dr"
+            },
+            "latitude": 40.90767,
+            "longitude": -74.563329
+        }
+    ]
+}

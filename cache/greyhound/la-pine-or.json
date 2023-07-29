@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110743,
+    "language": "en-gl",
+    "location": {
+        "lat": 43.6704,
+        "lon": -121.50364
+    },
+    "name": "La Pine, OR",
+    "search_volume": 300,
+    "slug": "la-pine-or",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "27de1ad5-064b-4a23-ac1a-b26781fa224f",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "La Pine",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "La Pine, OR",
+                "postalCode": "97739",
+                "streetAddress": "16515 Reed Rd"
+            },
+            "latitude": 43.674323,
+            "longitude": -121.499489
+        }
+    ]
+}

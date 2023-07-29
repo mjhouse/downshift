@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 112423,
+    "language": "en-gl",
+    "location": {
+        "lat": 32.906517,
+        "lon": -90.87816
+    },
+    "name": "Rolling Fork, MS",
+    "search_volume": 2000,
+    "slug": "rolling-fork-ms",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "db26abad-9ea9-43c3-a482-b3644f4136d3",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Rolling Fork",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Rolling Fork, MS",
+                "postalCode": "39159",
+                "streetAddress": "210535 US Highway 61"
+            },
+            "latitude": 32.91814564,
+            "longitude": -90.86722255
+        }
+    ]
+}

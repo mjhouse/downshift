@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 59341,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.75839,
+        "lon": -82.51545
+    },
+    "name": "Mansfield, OH",
+    "search_volume": 5000,
+    "slug": "mansfield-oh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "1cc15ce4-b542-4279-96c5-0384e1bd68ff",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Mansfield Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Mansfield, OH",
+                "postalCode": "44903",
+                "streetAddress": "Stander Ave&O' Possum Run Rd"
+            },
+            "latitude": 40.696922,
+            "longitude": -82.511521
+        }
+    ]
+}

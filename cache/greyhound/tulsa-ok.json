@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 36311,
+    "language": "en-gl",
+    "location": {
+        "lat": 36.15398,
+        "lon": -95.992775
+    },
+    "name": "Tulsa, OK",
+    "search_volume": 43600,
+    "slug": "tulsa-ok",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "c7538d20-b71d-460f-9319-ecc27a7da522",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Osu Tulsa",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Tulsa, OK",
+                "postalCode": "74106",
+                "streetAddress": "700 N Greenwood Ave"
+            },
+            "latitude": 36.1634,
+            "longitude": -95.98762
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Tulsa Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Tulsa, OK",
+                "postalCode": "74120",
+                "streetAddress": "317 S Detroit Ave"
+            },
+            "latitude": 36.15392,
+            "longitude": -95.986744
+        }
+    ]
+}

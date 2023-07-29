@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69193,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.933693,
+        "lon": -72.27814
+    },
+    "name": "Keene, NH",
+    "search_volume": 4000,
+    "slug": "keene-nh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "2c4a2555-4552-4655-b436-c3817f9d5f01",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Keene (Corner News)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Keene, NH",
+                "postalCode": "03431",
+                "streetAddress": "67 Main St"
+            },
+            "latitude": 42.932261,
+            "longitude": -72.278301
+        }
+    ]
+}

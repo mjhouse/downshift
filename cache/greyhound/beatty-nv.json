@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110443,
+    "language": "en-gl",
+    "location": {
+        "lat": 36.908558,
+        "lon": -116.759224
+    },
+    "name": "Beatty, NV",
+    "search_volume": 400,
+    "slug": "beatty-nv",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "e67d195f-4dc9-46fd-8ef6-8120e64f9597",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Beatty",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Beatty, NV",
+                "postalCode": "89003",
+                "streetAddress": "900 US-95"
+            },
+            "latitude": 36.91333,
+            "longitude": -116.75415
+        }
+    ]
+}

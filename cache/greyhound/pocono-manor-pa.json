@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 109493,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.100056,
+        "lon": -75.35887
+    },
+    "name": "Pocono Manor, PA",
+    "search_volume": 1500,
+    "slug": "pocono-manor-pa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "4d500eb5-26ad-4616-bcbd-d6a9ef04dfac",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Kalahari Waterpark",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Pocono Manor, PA",
+                "postalCode": "18349",
+                "streetAddress": "250 Kalahari Blvd"
+            },
+            "latitude": 41.099362,
+            "longitude": -75.388818
+        }
+    ]
+}

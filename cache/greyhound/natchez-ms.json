@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 112443,
+    "language": "en-gl",
+    "location": {
+        "lat": 31.560444,
+        "lon": -91.40317
+    },
+    "name": "Natchez, MS",
+    "search_volume": 3700,
+    "slug": "natchez-ms",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "b4b93a40-0125-4083-9e38-3425ba7d9cf5",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Natchez",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Natchez, MS",
+                "postalCode": "39120",
+                "streetAddress": "127 Wood Ave Ste #101"
+            },
+            "latitude": 31.545063,
+            "longitude": -91.377625
+        }
+    ]
+}

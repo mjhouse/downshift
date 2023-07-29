@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 113033,
+    "language": "en-gl",
+    "location": {
+        "lat": 32.371723,
+        "lon": -112.86071
+    },
+    "name": "Ajo, AZ",
+    "search_volume": 200,
+    "slug": "ajo-az",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "7039cc95-41bc-4f98-a4c9-f3e2714ed711",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Ajo Transportation",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Ajo, AZ",
+                "postalCode": "85321",
+                "streetAddress": "1248 N 2Nd Ave"
+            },
+            "latitude": 32.225709,
+            "longitude": -112.521894
+        }
+    ]
+}

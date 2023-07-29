@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 112483,
+    "language": "en-gl",
+    "location": {
+        "lat": 30.633263,
+        "lon": -97.677986
+    },
+    "name": "Georgetown, TX",
+    "search_volume": 2000,
+    "slug": "georgetown-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "ef365794-efa9-4761-b0b0-1b1d5fcae0c0",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Georgetown",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Georgetown, TX",
+                "postalCode": "78626",
+                "streetAddress": "3620 S Austin Ave"
+            },
+            "latitude": 30.610246,
+            "longitude": -97.685304
+        }
+    ]
+}

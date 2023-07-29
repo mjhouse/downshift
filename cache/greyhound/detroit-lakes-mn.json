@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 107123,
+    "language": "en-gl",
+    "location": {
+        "lat": 46.81718,
+        "lon": -95.84532
+    },
+    "name": "Detroit Lakes, MN",
+    "search_volume": 500,
+    "slug": "detroit-lakes-mn",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "d29244f7-7692-4d5a-917d-c7ec0edcd57d",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Detroit Lakes",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Detroit Lakes, MN",
+                "postalCode": "56501",
+                "streetAddress": "116 Pioneer St"
+            },
+            "latitude": 46.819835,
+            "longitude": -95.845955
+        }
+    ]
+}

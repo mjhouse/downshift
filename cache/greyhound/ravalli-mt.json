@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106883,
+    "language": "en-gl",
+    "location": {
+        "lat": 47.272644,
+        "lon": -114.17301
+    },
+    "name": "Ravalli, MT",
+    "search_volume": 100,
+    "slug": "ravalli-mt",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "7f7b78ad-4506-4ac2-9bf7-6cf51033e64e",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Ravalli",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Ravalli, MT",
+                "postalCode": "59863",
+                "streetAddress": "27330 Hwy 93"
+            },
+            "latitude": 47.278266,
+            "longitude": -114.182477
+        }
+    ]
+}

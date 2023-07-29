@@ -1,0 +1,63 @@
+{
+    "country": "US",
+    "id": 36531,
+    "language": "en-gl",
+    "location": {
+        "lat": 45.505108,
+        "lon": -122.675026
+    },
+    "name": "Portland, OR",
+    "search_volume": 125000,
+    "slug": "portland-or",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "b9fa6246-6357-4560-a618-f2cebc3ece75",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Portland (NW Station Way)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Portland, OR",
+                "postalCode": "97209",
+                "streetAddress": "700 NW Station Way"
+            },
+            "latitude": 45.530414,
+            "longitude": -122.678192
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "PORTLAND AIRPORT(TAC)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Portland, OR",
+                "postalCode": "97218",
+                "streetAddress": "700 NE Airport Way"
+            },
+            "latitude": 45.5891625,
+            "longitude": -122.5960692
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Portland Union-Train Sta (E)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Portland, OR",
+                "postalCode": "97209",
+                "streetAddress": "800 Nw 6Th Ave"
+            },
+            "latitude": 45.529023,
+            "longitude": -122.677066
+        }
+    ]
+}

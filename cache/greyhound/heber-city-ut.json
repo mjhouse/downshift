@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 67253,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.507008,
+        "lon": -111.41332
+    },
+    "name": "Heber City, UT",
+    "search_volume": 400,
+    "slug": "heber-city-ut",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "65025230-26c6-4958-b614-5539b055b2e4",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Heber City (Maverik)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Heber City, UT",
+                "postalCode": "84032",
+                "streetAddress": "435 N Main St"
+            },
+            "latitude": 40.513391,
+            "longitude": -111.413654
+        }
+    ]
+}

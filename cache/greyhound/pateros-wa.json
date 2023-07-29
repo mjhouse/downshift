@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 111723,
+    "language": "en-gl",
+    "location": {
+        "lat": 48.050976,
+        "lon": -119.903404
+    },
+    "name": "Pateros, WA",
+    "search_volume": 100,
+    "slug": "pateros-wa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "cfd39e07-3a68-42ce-8e61-0be3e2a97ee9",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Pateros",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Pateros, WA",
+                "postalCode": "98846",
+                "streetAddress": "245 LAKESHORE DRIVE"
+            },
+            "latitude": 48.0518,
+            "longitude": -119.9022
+        }
+    ]
+}

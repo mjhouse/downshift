@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 52191,
+    "language": "en-gl",
+    "location": {
+        "lat": 46.72978,
+        "lon": -117.18174
+    },
+    "name": "Pullman, WA",
+    "search_volume": 3900,
+    "slug": "pullman-wa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "73c1d28a-b445-4041-a8d9-f30de90cdd18",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Pullman",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Pullman, WA",
+                "postalCode": "99163",
+                "streetAddress": "1295 Ne North Fairway Rd"
+            },
+            "latitude": 46.739827,
+            "longitude": -117.149858
+        }
+    ]
+}

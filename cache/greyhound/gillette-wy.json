@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 111323,
+    "language": "en-gl",
+    "location": {
+        "lat": 44.291092,
+        "lon": -105.50222
+    },
+    "name": "Gillette, WY",
+    "search_volume": 1600,
+    "slug": "gillette-wy",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "b82735e5-fa7f-485b-8059-24b614bcf8de",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Gillette",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Gillette, WY",
+                "postalCode": "82716",
+                "streetAddress": "106 N Hwy 14-16"
+            },
+            "latitude": 44.29504,
+            "longitude": -105.528197
+        }
+    ]
+}

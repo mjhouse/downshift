@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106653,
+    "language": "en-gl",
+    "location": {
+        "lat": 45.33218,
+        "lon": -97.52009
+    },
+    "name": "Webster, SD",
+    "search_volume": 100,
+    "slug": "webster-sd",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "b140a40e-cf58-4e87-b320-e6f91eb7b8f5",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Webster",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Webster, SD",
+                "postalCode": "57274",
+                "streetAddress": "11 W US Hwy 12"
+            },
+            "latitude": 45.340481,
+            "longitude": -97.520545
+        }
+    ]
+}

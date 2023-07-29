@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 108013,
+    "language": "en-gl",
+    "location": {
+        "lat": 44.90618,
+        "lon": -116.117134
+    },
+    "name": "McCall, ID",
+    "search_volume": 1000,
+    "slug": "mccall-id",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "c2d829f3-646c-41c0-a233-f85a4323ffe9",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Mccall",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "McCall, ID",
+                "postalCode": "83638",
+                "streetAddress": "411 Deinhard Lane"
+            },
+            "latitude": 44.898761,
+            "longitude": -116.094757
+        }
+    ]
+}

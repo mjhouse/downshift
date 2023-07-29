@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69993,
+    "language": "en-gl",
+    "location": {
+        "lat": 38.77247,
+        "lon": -112.08409
+    },
+    "name": "Richfield, UT",
+    "search_volume": 700,
+    "slug": "richfield-ut",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "df4ad17f-e490-45f4-af84-60525dc4a503",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Richfield (Phillips 66)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Richfield, UT",
+                "postalCode": "84701",
+                "streetAddress": "1050 W 1250 S"
+            },
+            "latitude": 38.750325,
+            "longitude": -112.10317
+        }
+    ]
+}

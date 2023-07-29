@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 107453,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.549225,
+        "lon": -82.8274
+    },
+    "name": "Mount Gilead, OH",
+    "search_volume": 200,
+    "slug": "mount-gilead-oh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "3cd03db8-c81e-4f7f-a382-fbf176af3704",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Mt Gilead",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Mount Gilead, OH",
+                "postalCode": "43338",
+                "streetAddress": "Wendys"
+            },
+            "latitude": 40.29423,
+            "longitude": -82.4253
+        }
+    ]
+}

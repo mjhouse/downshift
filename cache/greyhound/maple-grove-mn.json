@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106373,
+    "language": "en-gl",
+    "location": {
+        "lat": 45.072464,
+        "lon": -93.45579
+    },
+    "name": "Maple Grove, MN",
+    "search_volume": 800,
+    "slug": "maple-grove-mn",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "7c621855-ca63-4c9f-9481-a0c05a57a57e",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Maple Grove",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Maple Grove, MN",
+                "postalCode": "55369",
+                "streetAddress": "12350 Main St N"
+            },
+            "latitude": 45.091633,
+            "longitude": -93.437613
+        }
+    ]
+}

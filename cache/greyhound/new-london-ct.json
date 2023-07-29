@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 55421,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.355656,
+        "lon": -72.09952
+    },
+    "name": "New London, CT",
+    "search_volume": 4500,
+    "slug": "new-london-ct",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "b7a22970-738a-408b-b488-fc554dcdb3ec",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "New London Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "New London, CT",
+                "postalCode": "06320",
+                "streetAddress": "35 Water St"
+            },
+            "latitude": 41.354786,
+            "longitude": -72.093163
+        }
+    ]
+}

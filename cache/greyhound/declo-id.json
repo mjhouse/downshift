@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110453,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.51824,
+        "lon": -113.62807
+    },
+    "name": "Declo, ID",
+    "search_volume": 200,
+    "slug": "declo-id",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "9d5a59ec-54a3-48d4-bd2e-b937199f19fb",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Rupert",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Declo, ID",
+                "postalCode": "83323",
+                "streetAddress": "250 Id 77"
+            },
+            "latitude": 42.62,
+            "longitude": -113.767
+        }
+    ]
+}

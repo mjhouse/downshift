@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 52331,
+    "language": "en-gl",
+    "location": {
+        "lat": 47.443592,
+        "lon": -122.296074
+    },
+    "name": "Seatac, WA",
+    "search_volume": 15200,
+    "slug": "seatac-wa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "3842ce16-3609-441e-aebb-d1e8ccfb8e9f",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "SEATTLE SEATAC ARPT (E)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Seatac, WA",
+                "postalCode": "98158",
+                "streetAddress": "17801 International Blvd"
+            },
+            "latitude": 47.441795,
+            "longitude": -122.299233
+        }
+    ]
+}

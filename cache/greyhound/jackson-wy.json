@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 48101,
+    "language": "en-gl",
+    "location": {
+        "lat": 43.47993,
+        "lon": -110.76243
+    },
+    "name": "Jackson, WY",
+    "search_volume": 2100,
+    "slug": "jackson-wy",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "2b6c7d40-f3e9-422b-b02a-aeec6af8f40a",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Jackson (Downtown)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Jackson, WY",
+                "postalCode": "83001",
+                "streetAddress": "105 Buffalo Way"
+            },
+            "latitude": 43.472582,
+            "longitude": -110.789192
+        }
+    ]
+}

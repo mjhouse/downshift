@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 55671,
+    "language": "en-gl",
+    "location": {
+        "lat": 34.18619,
+        "lon": -103.3344
+    },
+    "name": "Portales, NM",
+    "search_volume": 500,
+    "slug": "portales-nm",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "82e67799-b959-47fa-9051-112e218400d7",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Portales (Mcdonalds Restaurant)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Portales, NM",
+                "postalCode": "88130",
+                "streetAddress": "1020 W 1St Ave"
+            },
+            "latitude": 34.181704,
+            "longitude": -103.344817
+        }
+    ]
+}

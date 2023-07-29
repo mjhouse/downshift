@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 30821,
+    "language": "en-gl",
+    "location": {
+        "lat": 32.5007,
+        "lon": -94.740486
+    },
+    "name": "Longview, TX",
+    "search_volume": 11200,
+    "slug": "longview-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "c79d269f-1989-450d-a5f3-20895db9c948",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Longview Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Longview, TX",
+                "postalCode": "75602",
+                "streetAddress": "908 E Pacific Ave Ste 100"
+            },
+            "latitude": 32.493876,
+            "longitude": -94.728351
+        }
+    ]
+}

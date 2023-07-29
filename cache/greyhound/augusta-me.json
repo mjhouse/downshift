@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 53871,
+    "language": "en-gl",
+    "location": {
+        "lat": 44.310623,
+        "lon": -69.77949
+    },
+    "name": "Augusta, ME",
+    "search_volume": 4000,
+    "slug": "augusta-me",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "9d0a3693-4379-48bf-9cbb-c772304b4bba",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Augusta (Concord Coach Lines)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Augusta, ME",
+                "postalCode": "04330",
+                "streetAddress": "9 Industrial Dr"
+            },
+            "latitude": 44.35551,
+            "longitude": -69.799034
+        }
+    ]
+}

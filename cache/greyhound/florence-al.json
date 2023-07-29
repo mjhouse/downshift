@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 54531,
+    "language": "en-gl",
+    "location": {
+        "lat": 34.79981,
+        "lon": -87.67725
+    },
+    "name": "Florence, AL",
+    "search_volume": 3100,
+    "slug": "florence-al",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "019710eb-bc57-46c5-924e-646bddffa26e",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Florence",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Florence, AL",
+                "postalCode": "35630",
+                "streetAddress": "825 Cox Creek Pkwy"
+            },
+            "latitude": 34.84288,
+            "longitude": -87.668995
+        }
+    ]
+}

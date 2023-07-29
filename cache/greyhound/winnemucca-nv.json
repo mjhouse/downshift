@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 67783,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.972958,
+        "lon": -117.73569
+    },
+    "name": "Winnemucca, NV",
+    "search_volume": 1000,
+    "slug": "winnemucca-nv",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "99c4e7dc-3ecb-11ea-8017-02437075395e",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Winnemucca (E)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Winnemucca, NV",
+                "postalCode": "89445",
+                "streetAddress": "209 Railroad St"
+            },
+            "latitude": 40.969301,
+            "longitude": -117.732303
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Winnemucca SLE",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Winnemucca, NV",
+                "postalCode": "89445",
+                "streetAddress": "3350 W Winnemucca Blvd"
+            },
+            "latitude": 40.952227,
+            "longitude": -117.755901
+        }
+    ]
+}

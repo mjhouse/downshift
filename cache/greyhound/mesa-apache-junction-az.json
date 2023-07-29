@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 117683,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.41491,
+        "lon": -111.55006
+    },
+    "name": "Mesa-Apache Junction, AZ",
+    "search_volume": 7100,
+    "slug": "mesa-apache-junction-az",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "464ca11d-b9fa-4540-a372-e6f15fdb31c2",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Apache Jct (Aj'S Mini Mart/Chevron)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Mesa-Apache Junction, AZ",
+                "postalCode": "85120",
+                "streetAddress": "3940 S Ironwood"
+            },
+            "latitude": 33.37913,
+            "longitude": -111.563862
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Mesa Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Mesa-Apache Junction, AZ",
+                "postalCode": "85210",
+                "streetAddress": "1423 S Country Club"
+            },
+            "latitude": 33.388564,
+            "longitude": -111.839113
+        }
+    ]
+}

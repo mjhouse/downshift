@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 68443,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.181202,
+        "lon": -102.274345
+    },
+    "name": "Brownfield, TX",
+    "search_volume": 1300,
+    "slug": "brownfield-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "b96b18e1-04d4-4fe9-a282-90b911ae0434",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Brownfield (Chisum Travel)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Brownfield, TX",
+                "postalCode": "79316",
+                "streetAddress": "1106 Lubbock Rd"
+            },
+            "latitude": 33.190343,
+            "longitude": -102.27381
+        }
+    ]
+}

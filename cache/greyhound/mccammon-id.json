@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110323,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.65047,
+        "lon": -112.19302
+    },
+    "name": "McCammon, ID",
+    "search_volume": 100,
+    "slug": "mccammon-id",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "9021f6f4-79ac-416a-8c5c-0b82aa603ce9",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Mccammon (Exit 47)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "McCammon, ID",
+                "postalCode": "83250",
+                "streetAddress": "898 US 30"
+            },
+            "latitude": 42.644,
+            "longitude": -112.197
+        }
+    ]
+}

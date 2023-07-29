@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106023,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.140274,
+        "lon": -100.76015
+    },
+    "name": "North Platte, NE",
+    "search_volume": 1900,
+    "slug": "north-platte-ne",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "6aa04527-76da-4ec9-897e-5ed37c2ee4c9",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "North Platte",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "North Platte, NE",
+                "postalCode": "69101",
+                "streetAddress": "1220 S Dewey St"
+            },
+            "latitude": 41.123831,
+            "longitude": -100.762924
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 48341,
+    "language": "en-gl",
+    "location": {
+        "lat": 43.208138,
+        "lon": -71.537575
+    },
+    "name": "Concord, NH",
+    "search_volume": 4500,
+    "slug": "concord-nh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "20fe5e88-02cf-4e4c-9aea-a4960ed9884c",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Concord (Coach Lines)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Concord, NH",
+                "postalCode": "03301",
+                "streetAddress": "30 Stickney Ave"
+            },
+            "latitude": 43.212688,
+            "longitude": -71.534645
+        }
+    ]
+}

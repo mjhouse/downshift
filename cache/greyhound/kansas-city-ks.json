@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 51821,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.115532,
+        "lon": -94.626785
+    },
+    "name": "Kansas City, KS",
+    "search_volume": 20500,
+    "slug": "kansas-city-ks",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "c4a767a7-6c77-4f7d-926b-3cff21744654",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Kansas City (47Th Street Transit Center)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Kansas City, KS",
+                "postalCode": "66101",
+                "streetAddress": "849 47Th St"
+            },
+            "latitude": 39.11365,
+            "longitude": -94.68587
+        }
+    ]
+}

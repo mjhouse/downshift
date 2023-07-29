@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 54831,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.32674,
+        "lon": -78.92197
+    },
+    "name": "Johnstown, PA",
+    "search_volume": 4200,
+    "slug": "johnstown-pa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "47cb212f-fc68-43a8-b3fb-f70958dcd857",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Johnstown Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Johnstown, PA",
+                "postalCode": "15901",
+                "streetAddress": "47 Walnut St"
+            },
+            "latitude": 40.329825,
+            "longitude": -78.921849
+        }
+    ]
+}

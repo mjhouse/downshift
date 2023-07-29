@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 68733,
+    "language": "en-gl",
+    "location": {
+        "lat": 31.216276,
+        "lon": -99.84563
+    },
+    "name": "Eden, TX",
+    "search_volume": 300,
+    "slug": "eden-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "0f9ea477-55e3-42ab-9ed6-b1881999597e",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Eden (Tres Amigos #02)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Eden, TX",
+                "postalCode": "76837",
+                "streetAddress": "502 West Broadway"
+            },
+            "latitude": 31.21648,
+            "longitude": -99.8396
+        }
+    ]
+}

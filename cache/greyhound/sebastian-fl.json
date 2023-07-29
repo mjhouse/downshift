@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 55961,
+    "language": "en-gl",
+    "location": {
+        "lat": 27.816416,
+        "lon": -80.47061
+    },
+    "name": "Sebastian, FL",
+    "search_volume": 900,
+    "slug": "sebastian-fl",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "67da1476-3175-4ead-a736-eedc1b8465e3",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Sebastian (Chevron)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Sebastian, FL",
+                "postalCode": "32967",
+                "streetAddress": "9497 108Th Ave"
+            },
+            "latitude": 27.766974,
+            "longitude": -80.548598
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 54951,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.03622,
+        "lon": -85.03224
+    },
+    "name": "La Grange, GA",
+    "search_volume": 400,
+    "slug": "la-grange-ga",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "a4c3b624-e743-4b50-8a30-727562b92b63",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "La Grange Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "La Grange, GA",
+                "postalCode": "30241",
+                "streetAddress": "101 Hoffman Dr"
+            },
+            "latitude": 33.041512,
+            "longitude": -84.973114
+        }
+    ]
+}

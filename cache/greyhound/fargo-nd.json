@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 106393,
+    "language": "en-gl",
+    "location": {
+        "lat": 46.877186,
+        "lon": -96.7898
+    },
+    "name": "Fargo, ND",
+    "search_volume": 14100,
+    "slug": "fargo-nd",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "89444357-5d28-41a7-adae-9ff1007eb4a6",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Fargo",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Fargo, ND",
+                "postalCode": "58102",
+                "streetAddress": "502 Northern Pacific Ave"
+            },
+            "latitude": 46.875731,
+            "longitude": -96.785959
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Fargo (Ndsu)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Fargo, ND",
+                "postalCode": "58102",
+                "streetAddress": "1201 N University Dr"
+            },
+            "latitude": 46.890695,
+            "longitude": -96.797608
+        }
+    ]
+}

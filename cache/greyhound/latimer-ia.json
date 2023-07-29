@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106263,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.763306,
+        "lon": -93.368256
+    },
+    "name": "Latimer, IA",
+    "search_volume": 100,
+    "slug": "latimer-ia",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "9b48a201-0387-4f11-98fc-6375f398936c",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Dudley'S Corner",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Latimer, IA",
+                "postalCode": "50452",
+                "streetAddress": "648 Hwy 3"
+            },
+            "latitude": 42.74624,
+            "longitude": -93.392694
+        }
+    ]
+}

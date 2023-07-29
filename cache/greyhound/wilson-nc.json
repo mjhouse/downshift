@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 59041,
+    "language": "en-gl",
+    "location": {
+        "lat": 35.721268,
+        "lon": -77.91554
+    },
+    "name": "Wilson, NC",
+    "search_volume": 4000,
+    "slug": "wilson-nc",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "2dbc6593-795e-413d-99d5-653ddb9d4544",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Wilson Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Wilson, NC",
+                "postalCode": "27893",
+                "streetAddress": "320 E Nash St"
+            },
+            "latitude": 35.723087,
+            "longitude": -77.908813
+        }
+    ]
+}

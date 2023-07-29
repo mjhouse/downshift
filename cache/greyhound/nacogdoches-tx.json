@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69663,
+    "language": "en-gl",
+    "location": {
+        "lat": 31.603945,
+        "lon": -94.656006
+    },
+    "name": "Nacogdoches, TX",
+    "search_volume": 2700,
+    "slug": "nacogdoches-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "ad9c5b96-a6b6-4ba2-ad91-2b198fe0a0a5",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Nacogdoches (Sunshine)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Nacogdoches, TX",
+                "postalCode": "75964",
+                "streetAddress": "4010 South St"
+            },
+            "latitude": 31.569012,
+            "longitude": -94.676626
+        }
+    ]
+}

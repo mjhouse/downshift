@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 112373,
+    "language": "en-gl",
+    "location": {
+        "lat": 32.855133,
+        "lon": -90.40565
+    },
+    "name": "Yazoo City, MS",
+    "search_volume": 5900,
+    "slug": "yazoo-city-ms",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "dc881573-6032-4c26-970d-e33e39d356eb",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Yazoo City",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Yazoo City, MS",
+                "postalCode": "39194",
+                "streetAddress": "258 Jerry Clower Blvd N"
+            },
+            "latitude": 32.843221,
+            "longitude": -90.387877
+        }
+    ]
+}

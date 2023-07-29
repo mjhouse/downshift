@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 112033,
+    "language": "en-gl",
+    "location": {
+        "lat": 46.13106,
+        "lon": -92.867424
+    },
+    "name": "Sandstone, MN",
+    "search_volume": 100,
+    "slug": "sandstone-mn",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "8710345c-8a42-44fc-be92-d1df6b9db436",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Sandstone",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Sandstone, MN",
+                "postalCode": "55072",
+                "streetAddress": "325 Quarry Place"
+            },
+            "latitude": 46.12461,
+            "longitude": -92.886
+        }
+    ]
+}

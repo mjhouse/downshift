@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69443,
+    "language": "en-gl",
+    "location": {
+        "lat": 32.544872,
+        "lon": -94.36742
+    },
+    "name": "Marshall, TX",
+    "search_volume": 2400,
+    "slug": "marshall-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "d57bb74d-d61b-44ec-9888-fa7ca30af38e",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Marshall (Pony Express Travel Center)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Marshall, TX",
+                "postalCode": "75672",
+                "streetAddress": "304 I-20 East"
+            },
+            "latitude": 32.490326,
+            "longitude": -94.35461
+        }
+    ]
+}

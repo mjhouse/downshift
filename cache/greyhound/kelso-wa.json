@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 54911,
+    "language": "en-gl",
+    "location": {
+        "lat": 46.14678,
+        "lon": -122.90845
+    },
+    "name": "Kelso, WA",
+    "search_volume": 2600,
+    "slug": "kelso-wa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "3e05238a-b8f2-432a-ac77-17a5eedb6561",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Kelso Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Kelso, WA",
+                "postalCode": "98626",
+                "streetAddress": "501 S 1St Street"
+            },
+            "latitude": 46.142199,
+            "longitude": -122.91306
+        }
+    ]
+}

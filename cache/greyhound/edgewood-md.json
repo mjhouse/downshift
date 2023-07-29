@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69483,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.41872,
+        "lon": -76.2944
+    },
+    "name": "Edgewood, MD",
+    "search_volume": 700,
+    "slug": "edgewood-md",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "3ae8d4df-9443-444e-8ccd-c9b1a04fd4b3",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Edgewood Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Edgewood, MD",
+                "postalCode": "21040",
+                "streetAddress": "1712 Pulaski Hwy"
+            },
+            "latitude": 39.434803,
+            "longitude": -76.320396
+        }
+    ]
+}

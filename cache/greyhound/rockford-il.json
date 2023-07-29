@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 52251,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.27113,
+        "lon": -89.093994
+    },
+    "name": "Rockford, IL",
+    "search_volume": 12100,
+    "slug": "rockford-il",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "78eef7a4-6660-47e6-9218-53beee4e44cd",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Rockford, IL",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Rockford, IL",
+                "postalCode": "61107",
+                "streetAddress": "725 N Lyford Rd"
+            },
+            "latitude": 42.274693,
+            "longitude": -88.959501
+        }
+    ]
+}

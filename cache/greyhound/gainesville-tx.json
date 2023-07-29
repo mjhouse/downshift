@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 68853,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.625942,
+        "lon": -97.13335
+    },
+    "name": "Gainesville, TX",
+    "search_volume": 2300,
+    "slug": "gainesville-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "ece8941d-6665-4548-9c62-07b9ce2ec06f",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Gainesville (Chevron)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Gainesville, TX",
+                "postalCode": "76240",
+                "streetAddress": "1934 N Interstate Hwy 35"
+            },
+            "latitude": 33.646109,
+            "longitude": -97.155357
+        }
+    ]
+}

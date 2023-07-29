@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69623,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.122032,
+        "lon": -75.36463
+    },
+    "name": "Mount Pocono, PA",
+    "search_volume": 6800,
+    "slug": "mount-pocono-pa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "0b4c7037-9e96-4680-a79a-201808a4c850",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Mt Pocono (Martz Express)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Mount Pocono, PA",
+                "postalCode": "18344",
+                "streetAddress": "2 Fork St Ste 101"
+            },
+            "latitude": 41.117962,
+            "longitude": -75.354297
+        }
+    ]
+}

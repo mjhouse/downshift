@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 105853,
+    "language": "en-gl",
+    "location": {
+        "lat": 47.62332,
+        "lon": -120.228134
+    },
+    "name": "Orondo, WA",
+    "search_volume": 100,
+    "slug": "orondo-wa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "964e5e72-b433-456b-9a8e-c4c855baf9e1",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Orondo",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Orondo, WA",
+                "postalCode": "98843",
+                "streetAddress": "21318 US-97"
+            },
+            "latitude": 47.625676,
+            "longitude": -120.227667
+        }
+    ]
+}

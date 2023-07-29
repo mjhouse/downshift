@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 39921,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.27319,
+        "lon": -76.8867
+    },
+    "name": "Harrisburg, PA",
+    "search_volume": 42400,
+    "slug": "harrisburg-pa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "6417d09b-1365-4848-b60b-0d5252d51b81",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Harrisburg Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Harrisburg, PA",
+                "postalCode": "17101",
+                "streetAddress": "411 Market St"
+            },
+            "latitude": 40.26258,
+            "longitude": -76.878574
+        }
+    ]
+}

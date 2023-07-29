@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 68823,
+    "language": "en-gl",
+    "location": {
+        "lat": 35.33401,
+        "lon": -81.865105
+    },
+    "name": "Forest City, NC",
+    "search_volume": 500,
+    "slug": "forest-city-nc",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "f86e4253-0299-4b8d-8e64-687e2dadd587",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Forest City (Ohm Food Mart)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Forest City, NC",
+                "postalCode": "28043",
+                "streetAddress": "536 S Broadway St"
+            },
+            "latitude": 35.32165,
+            "longitude": -81.85984
+        }
+    ]
+}

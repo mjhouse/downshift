@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 47571,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.560417,
+        "lon": -81.71955
+    },
+    "name": "Aiken, SC",
+    "search_volume": 4900,
+    "slug": "aiken-sc",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "4a9bed5e-4c7d-4994-868b-b5b4e3737448",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Aiken",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Aiken, SC",
+                "postalCode": "29801",
+                "streetAddress": "2170 University Prkwy"
+            },
+            "latitude": 33.579882,
+            "longitude": -81.720362
+        }
+    ]
+}

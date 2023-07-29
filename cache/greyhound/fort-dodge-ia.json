@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106563,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.49747,
+        "lon": -94.168015
+    },
+    "name": "Fort Dodge, IA",
+    "search_volume": 2100,
+    "slug": "fort-dodge-ia",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "8af9c6eb-8379-4a6a-aded-743280fb04fd",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Fort Dodge",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Fort Dodge, IA",
+                "postalCode": "50501",
+                "streetAddress": "530 1St Ave S"
+            },
+            "latitude": 42.503615,
+            "longitude": -94.190614
+        }
+    ]
+}

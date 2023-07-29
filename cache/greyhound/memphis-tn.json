@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 47871,
+    "language": "en-gl",
+    "location": {
+        "lat": 35.149536,
+        "lon": -90.04898
+    },
+    "name": "Memphis, TN",
+    "search_volume": 128800,
+    "slug": "memphis-tn",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "7b2e80f9-0153-4b79-a401-a82e5f812e56",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Memphis Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Memphis, TN",
+                "postalCode": "38131",
+                "streetAddress": "3033 Airways Blvd"
+            },
+            "latitude": 35.061762,
+            "longitude": -89.992849
+        }
+    ]
+}

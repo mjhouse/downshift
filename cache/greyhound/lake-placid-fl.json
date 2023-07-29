@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69303,
+    "language": "en-gl",
+    "location": {
+        "lat": 27.2931,
+        "lon": -81.362854
+    },
+    "name": "Lake Placid, FL",
+    "search_volume": 400,
+    "slug": "lake-placid-fl",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "f5e08322-72db-4cb6-b508-d34d740b4797",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Lake Placid (Wendy'S)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Lake Placid, FL",
+                "postalCode": "33852",
+                "streetAddress": "502 US Hwy 27"
+            },
+            "latitude": 27.29223,
+            "longitude": -81.359174
+        }
+    ]
+}

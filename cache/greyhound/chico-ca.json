@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 68483,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.728493,
+        "lon": -121.83748
+    },
+    "name": "Chico, CA",
+    "search_volume": 4900,
+    "slug": "chico-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "7ae60b09-a54f-45b6-8493-21a49b122b76",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Chico Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Chico, CA",
+                "postalCode": "95928",
+                "streetAddress": "450 Orange St #2"
+            },
+            "latitude": 39.723306,
+            "longitude": -121.84582
+        }
+    ]
+}

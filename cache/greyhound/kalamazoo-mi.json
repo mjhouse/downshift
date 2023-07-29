@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 51811,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.291706,
+        "lon": -85.58723
+    },
+    "name": "Kalamazoo, MI",
+    "search_volume": 19700,
+    "slug": "kalamazoo-mi",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "5e936be4-e6ea-480b-87f5-60adcd3050d4",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Kalamazoo (Transit Center)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Kalamazoo, MI",
+                "postalCode": "49007",
+                "streetAddress": "459 N Burdick St"
+            },
+            "latitude": 42.295073,
+            "longitude": -85.583982
+        }
+    ]
+}

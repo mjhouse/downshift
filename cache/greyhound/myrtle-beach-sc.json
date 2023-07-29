@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 55351,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.68906,
+        "lon": -78.886696
+    },
+    "name": "Myrtle Beach, SC",
+    "search_volume": 28600,
+    "slug": "myrtle-beach-sc",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "39712aea-2637-4e93-870e-412bff1c4fc1",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Myrtle Beach Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Myrtle Beach, SC",
+                "postalCode": "29577",
+                "streetAddress": "511 7Th Ave N"
+            },
+            "latitude": 33.692537,
+            "longitude": -78.885878
+        }
+    ]
+}

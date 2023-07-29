@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110023,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.635338,
+        "lon": -82.233215
+    },
+    "name": "Loudonville, OH",
+    "search_volume": 100,
+    "slug": "loudonville-oh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "8b4338e1-3ed0-4547-bb5e-0efd9d2c3873",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Loudonville",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Loudonville, OH",
+                "postalCode": "44842",
+                "streetAddress": "3175 Oh-3"
+            },
+            "latitude": 40.607147,
+            "longitude": -82.25838
+        }
+    ]
+}

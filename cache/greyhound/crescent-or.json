@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110733,
+    "language": "en-gl",
+    "location": {
+        "lat": 43.46235,
+        "lon": -121.69558
+    },
+    "name": "Crescent, OR",
+    "search_volume": 200,
+    "slug": "crescent-or",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "a2ca6537-da9f-4454-947c-a504415850a5",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Crescent",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Crescent, OR",
+                "postalCode": "97733",
+                "streetAddress": "136620 Highway 97 N"
+            },
+            "latitude": 43.462937,
+            "longitude": -121.695811
+        }
+    ]
+}

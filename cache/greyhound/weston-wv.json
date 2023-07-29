@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110173,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.03843,
+        "lon": -80.467316
+    },
+    "name": "Weston, WV",
+    "search_volume": 1000,
+    "slug": "weston-wv",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "58c01eb9-17d6-4510-9437-4146eb13a096",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Weston",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Weston, WV",
+                "postalCode": "26452",
+                "streetAddress": "57 Staunton Dr"
+            },
+            "latitude": 39.020754,
+            "longitude": -80.418771
+        }
+    ]
+}

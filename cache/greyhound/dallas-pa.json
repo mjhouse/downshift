@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 107873,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.33619,
+        "lon": -75.96326
+    },
+    "name": "Dallas, PA",
+    "search_volume": 600,
+    "slug": "dallas-pa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "b05dbe4d-2431-4117-a113-48d71a3d31ef",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Dallas",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Dallas, PA",
+                "postalCode": "18612",
+                "streetAddress": "2960 Memorial Hwy"
+            },
+            "latitude": 41.338687,
+            "longitude": -75.968534
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 36291,
+    "language": "en-gl",
+    "location": {
+        "lat": 35.22257,
+        "lon": -97.439476
+    },
+    "name": "Norman, OK",
+    "search_volume": 4700,
+    "slug": "norman-ok",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "5a9e1c8e-5e29-4a53-a2ae-a6d8777a0bda",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Norman (Sinclair Masters Oil)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Norman, OK",
+                "postalCode": "73069",
+                "streetAddress": "2132 W Main St"
+            },
+            "latitude": 35.218026,
+            "longitude": -97.473179
+        }
+    ]
+}

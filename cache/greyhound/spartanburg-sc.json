@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 56041,
+    "language": "en-gl",
+    "location": {
+        "lat": 34.949566,
+        "lon": -81.932045
+    },
+    "name": "Spartanburg, SC",
+    "search_volume": 14000,
+    "slug": "spartanburg-sc",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "c3f8ba35-896a-49ad-b0f8-1150b5c20812",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Spartanburg (Chesnee Hwy/Fairview Church Rd)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Spartanburg, SC",
+                "postalCode": "29303",
+                "streetAddress": "21 Fairview Church Rd"
+            },
+            "latitude": 35.019335,
+            "longitude": -81.89691
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Spartanburg Transit Center",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Spartanburg, SC",
+                "postalCode": "29306",
+                "streetAddress": "100 N Liberty St"
+            },
+            "latitude": 34.950158,
+            "longitude": -81.929439
+        }
+    ]
+}

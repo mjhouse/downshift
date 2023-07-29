@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 54571,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.41427,
+        "lon": -77.41054
+    },
+    "name": "Frederick, MD",
+    "search_volume": 8700,
+    "slug": "frederick-md",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "e003f841-966a-4466-99a0-16bad14f407a",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Frederick Airport",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Frederick, MD",
+                "postalCode": "21701",
+                "streetAddress": "1341 Hughes Ford Rd Suite 103"
+            },
+            "latitude": 39.41622,
+            "longitude": -77.382149
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Frederick Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Frederick, MD",
+                "postalCode": "21701",
+                "streetAddress": "100 S East St"
+            },
+            "latitude": 39.411748,
+            "longitude": -77.405523
+        }
+    ]
+}

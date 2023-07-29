@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 52241,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.509476,
+        "lon": -90.57875
+    },
+    "name": "Rock Island, IL",
+    "search_volume": 900,
+    "slug": "rock-island-il",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "3eab0b74-3a4d-4adb-9518-c6252ca4b3d9",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Rock Island (Augustana College)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Rock Island, IL",
+                "postalCode": "61201",
+                "streetAddress": "3601 7Th Avae"
+            },
+            "latitude": 41.50523,
+            "longitude": -90.550015
+        }
+    ]
+}

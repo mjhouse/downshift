@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69183,
+    "language": "en-gl",
+    "location": {
+        "lat": 25.086515,
+        "lon": -80.44728
+    },
+    "name": "Key Largo, FL",
+    "search_volume": 2700,
+    "slug": "key-largo-fl",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "f555969c-bf9b-40e4-a787-b28efc1035b8",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Key Largo",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Key Largo, FL",
+                "postalCode": "33037",
+                "streetAddress": "99501 Overseas Hwy"
+            },
+            "latitude": 25.09417,
+            "longitude": -80.441336
+        }
+    ]
+}

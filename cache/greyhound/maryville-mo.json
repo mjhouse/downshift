@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 111503,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.3461,
+        "lon": -94.87247
+    },
+    "name": "Maryville, MO",
+    "search_volume": 500,
+    "slug": "maryville-mo",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "11e9e10d-3991-4a5b-a098-1e2289c3d2c0",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Maryville",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Maryville, MO",
+                "postalCode": "64468",
+                "streetAddress": "1719 East 1St St"
+            },
+            "latitude": 40.345339,
+            "longitude": -94.854285
+        }
+    ]
+}

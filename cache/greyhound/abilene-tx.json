@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 53701,
+    "language": "en-gl",
+    "location": {
+        "lat": 32.44874,
+        "lon": -99.73315
+    },
+    "name": "Abilene, TX",
+    "search_volume": 13900,
+    "slug": "abilene-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "506dcd38-2c08-445d-ab5b-97169b4f63c7",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Abilene (7-11)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Abilene, TX",
+                "postalCode": "79601",
+                "streetAddress": "1657 State Hwy 351"
+            },
+            "latitude": 32.478404,
+            "longitude": -99.696549
+        }
+    ]
+}

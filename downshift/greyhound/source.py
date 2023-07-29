@@ -8,6 +8,7 @@ from jsonschema import validate
 from pathlib import Path
 from downshift.common.source import Source
 from downshift.constants import GREYHOUND_CITY_SEARCH
+from downshift.models.address import Address
 
 ADDRESSES_SCHEMA = {
     "type": "array",
@@ -97,30 +98,40 @@ class Greyhound(Source):
         return data
 
 
-    def data(self) -> list[dict]:
+    def fetch(self):
         # get all of the cities serviced by greyhound
         cities = self.__fetch_cities(GREYHOUND_CITY_SEARCH)
-        result = []
 
         # check that nothing went horribly wrong
         if not cities or not 'result' in cities.keys():
-            return result
+            return
         
         # for each city, get all of the stations
         for city in cities['result']:
-            stations = self.__fetch_stations(city['slug'])
+            print(f"fetching stations for {city['name']}:")
+            data = self.__fetch_stations(city['slug'])
 
             # check that stations where found
-            if not stations:
+            if not data:
+                print(f"    stations NOT found")
                 continue
 
-            # add the station data to the city data
-            result.append({
-                **city,
-                'stations': stations,
-            })
+            print(f"    stations found")
+            for record in data:
+                address = Address.build(record['address'])
+
+                try:
+                    address.save()
+                except:
+                    address = Address.get(Address.street == address.street)
+
+                print(address.get_id())
 
             break
 
-        # return each city with all stations
-        return result
+            # with open(f"{path}/{city['slug']}.json",'w') as f:
+            #     result = {
+            #         **city,
+            #         'stations': stations,
+            #     }
+            #     f.write(json.dumps(result,indent=4))

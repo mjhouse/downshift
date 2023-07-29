@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69793,
+    "language": "en-gl",
+    "location": {
+        "lat": 31.422913,
+        "lon": -103.49323
+    },
+    "name": "Pecos, TX",
+    "search_volume": 5400,
+    "slug": "pecos-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "fefcfe37-1221-470c-85b9-d9fc36696659",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Pecos (Stripes)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Pecos, TX",
+                "postalCode": "79772",
+                "streetAddress": "100 E Dot Stafford St"
+            },
+            "latitude": 31.404944,
+            "longitude": -103.486093
+        }
+    ]
+}

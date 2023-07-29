@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69833,
+    "language": "en-gl",
+    "location": {
+        "lat": 28.018633,
+        "lon": -82.11286
+    },
+    "name": "Plant City, FL",
+    "search_volume": 800,
+    "slug": "plant-city-fl",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "16e970d3-c6c3-4136-a3bb-53ca42a6aa6c",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Plant City (Sunoco)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Plant City, FL",
+                "postalCode": "33566",
+                "streetAddress": "1105 E Baker St"
+            },
+            "latitude": 28.018087,
+            "longitude": -82.114972
+        }
+    ]
+}

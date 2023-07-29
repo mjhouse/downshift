@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 110943,
+    "language": "en-gl",
+    "location": {
+        "lat": 47.774563,
+        "lon": -96.60939
+    },
+    "name": "Crookston, MN",
+    "search_volume": 400,
+    "slug": "crookston-mn",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "db21ef6a-0799-4e67-a6cf-848f294daea2",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Crookston",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Crookston, MN",
+                "postalCode": "56716",
+                "streetAddress": "1345 Fairfax Ave"
+            },
+            "latitude": 47.760335,
+            "longitude": -96.594246
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Crookston (Univ Of Mn)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Crookston, MN",
+                "postalCode": "56716",
+                "streetAddress": "2900 Univ Ave"
+            },
+            "latitude": 47.799458,
+            "longitude": -96.609252
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 108003,
+    "language": "en-gl",
+    "location": {
+        "lat": 44.51628,
+        "lon": -116.0418
+    },
+    "name": "Cascade, ID",
+    "search_volume": 200,
+    "slug": "cascade-id",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "8fd33135-191f-4b95-8148-2f5dec32ece9",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Cascade",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Cascade, ID",
+                "postalCode": "83611",
+                "streetAddress": "823 Main St"
+            },
+            "latitude": 44.504708,
+            "longitude": -116.029548
+        }
+    ]
+}

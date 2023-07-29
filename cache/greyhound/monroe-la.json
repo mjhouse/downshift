@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 52051,
+    "language": "en-gl",
+    "location": {
+        "lat": 32.50931,
+        "lon": -92.1193
+    },
+    "name": "Monroe, LA",
+    "search_volume": 19100,
+    "slug": "monroe-la",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "f1d68131-3606-4aac-9263-5d0d40fdc7a3",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Monroe Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Monroe, LA",
+                "postalCode": "71202",
+                "streetAddress": "3019 HWY 165 BYP"
+            },
+            "latitude": 32.47467,
+            "longitude": -92.08177
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106233,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.492786,
+        "lon": -92.342575
+    },
+    "name": "Waterloo, IA",
+    "search_volume": 6300,
+    "slug": "waterloo-ia",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "d56411ea-aec2-4312-b5f1-7dd7b228fad9",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Waterloo",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Waterloo, IA",
+                "postalCode": "50703",
+                "streetAddress": "416 Sycamore St"
+            },
+            "latitude": 42.5,
+            "longitude": -92.338294
+        }
+    ]
+}

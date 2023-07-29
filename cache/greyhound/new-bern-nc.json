@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 55381,
+    "language": "en-gl",
+    "location": {
+        "lat": 35.108494,
+        "lon": -77.04411
+    },
+    "name": "New Bern, NC",
+    "search_volume": 5400,
+    "slug": "new-bern-nc",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "3c97fb09-598d-4b2c-8dbd-1fa5fcba389d",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "New Bern, NC",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "New Bern, NC",
+                "postalCode": "28562",
+                "streetAddress": "2406 Neuse Blvd"
+            },
+            "latitude": 35.11717,
+            "longitude": -77.07513
+        }
+    ]
+}

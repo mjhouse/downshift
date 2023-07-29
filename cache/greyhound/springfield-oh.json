@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 59451,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.924225,
+        "lon": -83.808815
+    },
+    "name": "Springfield, OH",
+    "search_volume": 5400,
+    "slug": "springfield-oh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "53c4b105-294b-48f8-913c-0827e8037afa",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Springfield (Love's), OH",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Springfield, OH",
+                "postalCode": "45502",
+                "streetAddress": "1725 Ridge Rd"
+            },
+            "latitude": 39.89359,
+            "longitude": -83.72236
+        }
+    ]
+}

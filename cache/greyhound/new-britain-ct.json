@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 55391,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.66121,
+        "lon": -72.77954
+    },
+    "name": "New Britain, CT",
+    "search_volume": 3900,
+    "slug": "new-britain-ct",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "8ee5d074-c61c-4f10-8d64-e6dbec6c91ab",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "New Britain (Jimmy'S Food Mart #1)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "New Britain, CT",
+                "postalCode": "06051",
+                "streetAddress": "64 W Main St"
+            },
+            "latitude": 41.66753,
+            "longitude": -72.783236
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 54201,
+    "language": "en-gl",
+    "location": {
+        "lat": 34.4048,
+        "lon": -103.20523
+    },
+    "name": "Clovis, NM",
+    "search_volume": 1700,
+    "slug": "clovis-nm",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "eeca914f-1d91-4727-9d06-19093b2330aa",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Clovis (Cortex Gas)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Clovis, NM",
+                "postalCode": "88101",
+                "streetAddress": "2207 S Prince St"
+            },
+            "latitude": 34.37079,
+            "longitude": -103.196
+        }
+    ]
+}

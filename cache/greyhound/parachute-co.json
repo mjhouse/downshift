@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 113713,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.451923,
+        "lon": -108.05286
+    },
+    "name": "Parachute, CO",
+    "search_volume": 100,
+    "slug": "parachute-co",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "2248a10b-c546-44d1-a816-54fb78aa22b6",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Parachute (E)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Parachute, CO",
+                "postalCode": "81635",
+                "streetAddress": "I 70 & Sh 215"
+            },
+            "latitude": 39.4544,
+            "longitude": -108.0529
+        }
+    ]
+}

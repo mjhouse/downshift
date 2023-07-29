@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 54781,
+    "language": "en-gl",
+    "location": {
+        "lat": 29.59577,
+        "lon": -90.719536
+    },
+    "name": "Houma, LA",
+    "search_volume": 2300,
+    "slug": "houma-la",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "819f39d7-8a74-4e1a-b3aa-8f99777fa928",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Houma Gray (Terrabone Truck Stop)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Houma, LA",
+                "postalCode": "70359",
+                "streetAddress": "4067 W Park Ave"
+            },
+            "latitude": 29.67832,
+            "longitude": -90.780247
+        }
+    ]
+}

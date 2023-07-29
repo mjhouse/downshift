@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 20788,
+    "language": "en-gl",
+    "location": {
+        "lat": 34.895794,
+        "lon": -117.01728
+    },
+    "name": "Barstow, CA",
+    "search_volume": 11200,
+    "slug": "barstow-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "d7fe5954-6b58-4c6d-a9c6-a7f6b4baa69d",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Barstow Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Barstow, CA",
+                "postalCode": "92311",
+                "streetAddress": "1611 E Main St"
+            },
+            "latitude": 34.891696,
+            "longitude": -116.998941
+        }
+    ]
+}

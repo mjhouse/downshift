@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 107203,
+    "language": "en-gl",
+    "location": {
+        "lat": 44.05539,
+        "lon": -91.66635
+    },
+    "name": "Winona, MN",
+    "search_volume": 1700,
+    "slug": "winona-mn",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "a0a778a8-3b52-412a-9cff-144c38da955d",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Winona St Univ",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Winona, MN",
+                "postalCode": "55987",
+                "streetAddress": "488 Huff St"
+            },
+            "latitude": 44.04766,
+            "longitude": -91.64654
+        }
+    ]
+}

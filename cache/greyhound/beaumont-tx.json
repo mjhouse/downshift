@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 28641,
+    "language": "en-gl",
+    "location": {
+        "lat": 30.080173,
+        "lon": -94.12656
+    },
+    "name": "Beaumont, TX",
+    "search_volume": 16200,
+    "slug": "beaumont-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "f69206ff-b8d3-46a5-a0b3-d8ee6bb36178",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Beaumont",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Beaumont, TX",
+                "postalCode": "77701",
+                "streetAddress": "1055 Interstate 10 Access Rd"
+            },
+            "latitude": 30.067525,
+            "longitude": -94.133281
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Beaumont Vidor (Gateway Travel Plaza)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Beaumont, TX",
+                "postalCode": "77662",
+                "streetAddress": "1480 W Freeway Blvd"
+            },
+            "latitude": 30.112285,
+            "longitude": -94.04383
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 107073,
+    "language": "en-gl",
+    "location": {
+        "lat": 37.839207,
+        "lon": -94.354675
+    },
+    "name": "Nevada, MO",
+    "search_volume": 600,
+    "slug": "nevada-mo",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "540a93f5-bc4f-4d84-b89b-dd37b331136a",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Nevada",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Nevada, MO",
+                "postalCode": "64772",
+                "streetAddress": "2424 E Austin Blvd"
+            },
+            "latitude": 37.83556,
+            "longitude": -94.32474
+        }
+    ]
+}

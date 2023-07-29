@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69603,
+    "language": "en-gl",
+    "location": {
+        "lat": 48.42011,
+        "lon": -122.337456
+    },
+    "name": "Mount Vernon, WA",
+    "search_volume": 3200,
+    "slug": "mount-vernon-wa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "b74b1cad-ba2e-4452-b6da-1cae62b32d7d",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Mt Vernon Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Mount Vernon, WA",
+                "postalCode": "98273",
+                "streetAddress": "105 Kincaid Ste 100"
+            },
+            "latitude": 48.418352,
+            "longitude": -122.334722
+        }
+    ]
+}

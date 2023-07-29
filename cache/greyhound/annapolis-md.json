@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 53771,
+    "language": "en-gl",
+    "location": {
+        "lat": 38.978447,
+        "lon": -76.49218
+    },
+    "name": "Annapolis, MD",
+    "search_volume": 11300,
+    "slug": "annapolis-md",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "a2b9d87e-0e4e-4f3e-83f7-f55ba6c96ca2",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Annapolis",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Annapolis, MD",
+                "postalCode": "21401",
+                "streetAddress": "80 West Street"
+            },
+            "latitude": 38.97825,
+            "longitude": -76.496255
+        }
+    ]
+}

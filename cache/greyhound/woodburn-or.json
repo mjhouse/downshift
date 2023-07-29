@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 59501,
+    "language": "en-gl",
+    "location": {
+        "lat": 45.14373,
+        "lon": -122.85537
+    },
+    "name": "Woodburn, OR",
+    "search_volume": 1100,
+    "slug": "woodburn-or",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "23669705-e88e-4160-9f35-b234b37663db",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Woodburn",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Woodburn, OR",
+                "postalCode": "97071",
+                "streetAddress": "2875 Newberg Hwy"
+            },
+            "latitude": 45.151356,
+            "longitude": -122.876287
+        }
+    ]
+}

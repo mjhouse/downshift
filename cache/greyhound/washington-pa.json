@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 113803,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.17396,
+        "lon": -80.24617
+    },
+    "name": "Washington, PA",
+    "search_volume": 700,
+    "slug": "washington-pa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "675270ee-9f5f-4e6c-8f3a-1ffed1f0aa17",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Washington (E)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Washington, PA",
+                "postalCode": "15301",
+                "streetAddress": "E Beau St"
+            },
+            "latitude": 40.180029,
+            "longitude": -80.209431
+        }
+    ]
+}

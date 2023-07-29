@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 55361,
+    "language": "en-gl",
+    "location": {
+        "lat": 43.57882,
+        "lon": -116.55978
+    },
+    "name": "Nampa, ID",
+    "search_volume": 2700,
+    "slug": "nampa-id",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "afef8f4d-525c-43c3-8f2f-6ce131e338b0",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Nampa (Stinker Sinclair Station)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Nampa, ID",
+                "postalCode": "83686",
+                "streetAddress": "3319 Garrity Blvd"
+            },
+            "latitude": 43.588364,
+            "longitude": -116.529321
+        }
+    ]
+}

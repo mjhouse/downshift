@@ -1,0 +1,138 @@
+{
+    "country": "US",
+    "id": 20288,
+    "language": "en-gl",
+    "location": {
+        "lat": 36.16994,
+        "lon": -115.13983
+    },
+    "name": "Las Vegas, NV",
+    "search_volume": 398900,
+    "slug": "las-vegas-nv",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "30e3dcd2-f9a7-4900-8f39-7a77c261904e",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Las Vegas Strip (Las Vegas Blvd)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Las Vegas, NV",
+                "postalCode": "89109",
+                "streetAddress": "3200 S Las Vegas Blvd"
+            },
+            "latitude": 36.128564,
+            "longitude": -115.169982
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Las Vegas Downtown (1st St)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Las Vegas, NV",
+                "postalCode": "89101",
+                "streetAddress": "S 1st St"
+            },
+            "latitude": 36.164518,
+            "longitude": -115.149671
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Las Vegas South Strip Transfer Terminal",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Las Vegas, NV",
+                "postalCode": "89119",
+                "streetAddress": "6675 Gilespie St"
+            },
+            "latitude": 36.068514,
+            "longitude": -115.166285
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Las Vegas (Cox Pavilion - University of Nevada, Las Vegas)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Las Vegas, NV",
+                "postalCode": "89154",
+                "streetAddress": "4505 S Maryland Pkwy"
+            },
+            "latitude": 36.103537,
+            "longitude": -115.143047
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Henderson (Galleria at Sunset)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Las Vegas, NV",
+                "postalCode": "89014",
+                "streetAddress": "1300 W Sunset Rd"
+            },
+            "latitude": 36.066199,
+            "longitude": -115.042547
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Las Vegas (Treasure Island)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Las Vegas, NV",
+                "postalCode": "89109",
+                "streetAddress": "3300 South Las Vegas Boulevard"
+            },
+            "latitude": 36.12380668327045,
+            "longitude": -115.17246147116451
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Las Vegas Harry Reid International Airport",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Las Vegas, NV",
+                "postalCode": "89119",
+                "streetAddress": "5757 Wayne Newton Blvd"
+            },
+            "latitude": 36.085794,
+            "longitude": -115.148089
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Las Vegas North (E Craig Rd)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Las Vegas, NV",
+                "postalCode": "89031",
+                "streetAddress": "3815 E Craig Rd"
+            },
+            "latitude": 36.240049,
+            "longitude": -115.096682
+        }
+    ]
+}

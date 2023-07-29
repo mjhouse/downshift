@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 112363,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.45095,
+        "lon": -90.65509
+    },
+    "name": "Indianola, MS",
+    "search_volume": 1000,
+    "slug": "indianola-ms",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "e04abda6-b00b-4a06-a2f1-af2be6ca3f57",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Indianola",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Indianola, MS",
+                "postalCode": "38751",
+                "streetAddress": "106 Hwy 49 W Sp"
+            },
+            "latitude": 33.4503,
+            "longitude": -90.6494
+        }
+    ]
+}

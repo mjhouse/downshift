@@ -1,0 +1,78 @@
+{
+    "country": "US",
+    "id": 70673,
+    "language": "en-gl",
+    "location": {
+        "lat": 36.09986,
+        "lon": -80.24422
+    },
+    "name": "Winston-Salem, NC",
+    "search_volume": 25300,
+    "slug": "winston-salem-nc",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "c91b3dfb-4544-4fe7-a7b4-f1ec9f5c0c65",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Baptist Hospital",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Winston-Salem, NC",
+                "postalCode": "27157",
+                "streetAddress": "1 Medical Ctr Blvd"
+            },
+            "latitude": 36.096,
+            "longitude": -80.209
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Forsyth Hospital",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Winston-Salem, NC",
+                "postalCode": "27157",
+                "streetAddress": "3333 Silas Creek Pkwy"
+            },
+            "latitude": 36.099,
+            "longitude": -80.239
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Winston Salem Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Winston-Salem, NC",
+                "postalCode": "27101",
+                "streetAddress": "100 W 5Th St"
+            },
+            "latitude": 36.099651,
+            "longitude": -80.24556
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Winston-Salem (Silas Creek Pkwy)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Winston-Salem, NC",
+                "postalCode": "27127",
+                "streetAddress": "1237 Silas Creek Pkwy"
+            },
+            "latitude": 36.067248,
+            "longitude": -80.256569
+        }
+    ]
+}

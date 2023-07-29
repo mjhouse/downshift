@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110423,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.739098,
+        "lon": -114.07334
+    },
+    "name": "West Wendover, NV",
+    "search_volume": 500,
+    "slug": "west-wendover-nv",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "a4a9bd6c-513f-459f-9329-79db8104eb0c",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Wendover",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "West Wendover, NV",
+                "postalCode": "89883",
+                "streetAddress": "101 Wendover Blvd"
+            },
+            "latitude": 40.735472,
+            "longitude": -114.044763
+        }
+    ]
+}

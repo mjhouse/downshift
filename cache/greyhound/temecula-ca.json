@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 22758,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.49364,
+        "lon": -117.14836
+    },
+    "name": "Temecula, CA",
+    "search_volume": 8500,
+    "slug": "temecula-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "5f118503-d879-4432-ba22-f5f7621c38d5",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Temecula",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Temecula, CA",
+                "postalCode": "92590",
+                "streetAddress": "28410 Old Town Front St"
+            },
+            "latitude": 33.49636,
+            "longitude": -117.15151
+        }
+    ]
+}

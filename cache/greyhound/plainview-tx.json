@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69813,
+    "language": "en-gl",
+    "location": {
+        "lat": 34.184795,
+        "lon": -101.70684
+    },
+    "name": "Plainview, TX",
+    "search_volume": 1100,
+    "slug": "plainview-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "a49c2620-6c09-492c-9eef-b5a6ad63f3cf",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Plainview (Stripes)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Plainview, TX",
+                "postalCode": "79072",
+                "streetAddress": "2715 Olton Rd"
+            },
+            "latitude": 34.18471,
+            "longitude": -101.736229
+        }
+    ]
+}

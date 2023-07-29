@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106683,
+    "language": "en-gl",
+    "location": {
+        "lat": 36.621174,
+        "lon": -93.21546
+    },
+    "name": "Hollister, MO",
+    "search_volume": 1700,
+    "slug": "hollister-mo",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "86ed32f7-7f06-4998-b80d-6a290a460abc",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Branson / Hollister",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Hollister, MO",
+                "postalCode": "65672",
+                "streetAddress": "2909 S Bus 65"
+            },
+            "latitude": 36.618258,
+            "longitude": -93.227517
+        }
+    ]
+}

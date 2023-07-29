@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106943,
+    "language": "en-gl",
+    "location": {
+        "lat": 48.410637,
+        "lon": -114.335266
+    },
+    "name": "Whitefish, MT",
+    "search_volume": 500,
+    "slug": "whitefish-mt",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "cab4662b-6097-4226-89d9-8061f8032d0a",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Whitefish",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Whitefish, MT",
+                "postalCode": "59937",
+                "streetAddress": "9 Spokane Ave"
+            },
+            "latitude": 48.41265,
+            "longitude": -114.33503
+        }
+    ]
+}

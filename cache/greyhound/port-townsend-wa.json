@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69853,
+    "language": "en-gl",
+    "location": {
+        "lat": 48.11704,
+        "lon": -122.760445
+    },
+    "name": "Port Townsend, WA",
+    "search_volume": 500,
+    "slug": "port-townsend-wa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "b7484e57-6f1d-4bf6-ba6f-fca532ac4293",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Port Townsend (4 Corners Park & Ride)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Port Townsend, WA",
+                "postalCode": "98368",
+                "streetAddress": "63 4 Corners Rd"
+            },
+            "latitude": 48.049597,
+            "longitude": -122.818472
+        }
+    ]
+}

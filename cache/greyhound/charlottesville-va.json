@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 54191,
+    "language": "en-gl",
+    "location": {
+        "lat": 38.029305,
+        "lon": -78.47668
+    },
+    "name": "Charlottesville, VA",
+    "search_volume": 14000,
+    "slug": "charlottesville-va",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "71ee320b-f4da-43d3-971a-b8a630b8cea4",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Charlottesville (University of Virginia)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Charlottesville, VA",
+                "postalCode": "22903",
+                "streetAddress": "University Ave at Newcomb Ln"
+            },
+            "latitude": 38.03743258645624,
+            "longitude": -78.50505606467657
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Charlottesville Union Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Charlottesville, VA",
+                "postalCode": "22903",
+                "streetAddress": "810 W Main St"
+            },
+            "latitude": 38.031241,
+            "longitude": -78.490568
+        }
+    ]
+}

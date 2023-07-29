@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110843,
+    "language": "en-gl",
+    "location": {
+        "lat": 44.809956,
+        "lon": -95.54558
+    },
+    "name": "Granite Falls, MN",
+    "search_volume": 600,
+    "slug": "granite-falls-mn",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "7ce85d0b-273d-4465-ab88-eec44aea9e62",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Granite Falls",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Granite Falls, MN",
+                "postalCode": "56241",
+                "streetAddress": "1297 Granite St"
+            },
+            "latitude": 44.810848,
+            "longitude": -95.529922
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 48171,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.892048,
+        "lon": -84.29881
+    },
+    "name": "Chamblee, GA",
+    "search_volume": 1300,
+    "slug": "chamblee-ga",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "6e48f391-f40c-4395-aae0-74dc5bed1b7c",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Atlanta Chamblee (Shallowford Rd)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Chamblee, GA",
+                "postalCode": "30341",
+                "streetAddress": "3240 Shallowford Rd"
+            },
+            "latitude": 33.882554,
+            "longitude": -84.285833
+        }
+    ]
+}

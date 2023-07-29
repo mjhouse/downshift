@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 113683,
+    "language": "en-gl",
+    "location": {
+        "lat": 32.486248,
+        "lon": -88.29642
+    },
+    "name": "York, AL",
+    "search_volume": 300,
+    "slug": "york-al",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "acf6afac-1c22-4b05-a68b-e8fd3ec9e31a",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "YORK",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "York, AL",
+                "postalCode": "36925",
+                "streetAddress": "17782 HWY 17"
+            },
+            "latitude": 32.4749,
+            "longitude": -88.2366
+        }
+    ]
+}

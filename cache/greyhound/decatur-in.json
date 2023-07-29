@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110083,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.830605,
+        "lon": -84.92913
+    },
+    "name": "Decatur, IN",
+    "search_volume": 600,
+    "slug": "decatur-in",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "e98a7d41-0cd4-4979-b9a0-ec4d4094c035",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Decatur",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Decatur, IN",
+                "postalCode": "46733",
+                "streetAddress": "1348 S 13Th St"
+            },
+            "latitude": 40.814091,
+            "longitude": -84.938623
+        }
+    ]
+}

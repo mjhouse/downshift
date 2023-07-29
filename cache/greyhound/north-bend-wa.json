@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 45801,
+    "language": "en-gl",
+    "location": {
+        "lat": 47.49566,
+        "lon": -121.78678
+    },
+    "name": "North Bend, WA",
+    "search_volume": 900,
+    "slug": "north-bend-wa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "98510284-9d20-49c0-829a-f4736f2f4691",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "North Bend (Safeway)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "North Bend, WA",
+                "postalCode": "98045",
+                "streetAddress": "460 Southwest Mount Si Boulevard"
+            },
+            "latitude": 47.489393,
+            "longitude": -121.791825
+        }
+    ]
+}

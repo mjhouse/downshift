@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 51621,
+    "language": "en-gl",
+    "location": {
+        "lat": 44.513317,
+        "lon": -88.0133
+    },
+    "name": "Green Bay, WI",
+    "search_volume": 14800,
+    "slug": "green-bay-wi",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "0f680dc9-fd97-4be8-a56d-0be0ae1408d9",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Green Bay",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Green Bay, WI",
+                "postalCode": "54311",
+                "streetAddress": "1670 Hoffman Rd"
+            },
+            "latitude": 44.4526955,
+            "longitude": -87.9986842
+        }
+    ]
+}

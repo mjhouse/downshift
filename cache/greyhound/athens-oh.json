@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 107613,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.32924,
+        "lon": -82.10126
+    },
+    "name": "Athens, OH",
+    "search_volume": 2500,
+    "slug": "athens-oh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "94e58f6a-910a-4741-9b4d-ae64d35d057f",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Athens (Ohio University)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Athens, OH",
+                "postalCode": "45701",
+                "streetAddress": "1 Park Place"
+            },
+            "latitude": 39.325139,
+            "longitude": -82.101503
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Athens Community Center",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Athens, OH",
+                "postalCode": "45701",
+                "streetAddress": "701 E State St"
+            },
+            "latitude": 39.3307,
+            "longitude": -82.1027
+        }
+    ]
+}

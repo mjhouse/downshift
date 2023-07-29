@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 70143,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.456177,
+        "lon": -82.711685
+    },
+    "name": "Sandusky, OH",
+    "search_volume": 9900,
+    "slug": "sandusky-oh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "784d2efb-cfe4-4d00-85cf-2fa496086721",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Sandusky Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Sandusky, OH",
+                "postalCode": "44870",
+                "streetAddress": "1230 N Depot St"
+            },
+            "latitude": 41.440615,
+            "longitude": -82.718598
+        }
+    ]
+}

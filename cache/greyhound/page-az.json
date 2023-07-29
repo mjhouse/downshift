@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 103083,
+    "language": "en-gl",
+    "location": {
+        "lat": 36.914722,
+        "lon": -111.45583
+    },
+    "name": "Page, AZ",
+    "search_volume": 500,
+    "slug": "page-az",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "c51a987d-42e3-48ba-9ba3-70b5b5013e9e",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Page (Lake Powell)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Page, AZ",
+                "postalCode": "86040",
+                "streetAddress": "807 Highway South"
+            },
+            "latitude": 36.90737143909001,
+            "longitude": -111.48095763629956
+        }
+    ]
+}

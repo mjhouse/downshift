@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 28761,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.19587,
+        "lon": -117.379486
+    },
+    "name": "Oceanside, CA",
+    "search_volume": 14100,
+    "slug": "oceanside-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "6fbbd76b-3b14-4718-bb6d-1efa7b71d8d0",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Oceanside Transportation Center",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Oceanside, CA",
+                "postalCode": "92054",
+                "streetAddress": "235 South Tremont St"
+            },
+            "latitude": 33.193151,
+            "longitude": -117.379146
+        }
+    ]
+}

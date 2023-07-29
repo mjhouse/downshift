@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 107893,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.44177,
+        "lon": -75.34157
+    },
+    "name": "Quakertown, PA",
+    "search_volume": 400,
+    "slug": "quakertown-pa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "5d4b0174-10ff-4e32-90cc-a3ed24bd25cb",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Quakertown",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Quakertown, PA",
+                "postalCode": "18951",
+                "streetAddress": "Park&Ride &Pa Turnpike"
+            },
+            "latitude": 40.434226,
+            "longitude": -75.4202092
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "country": "US",
+    "id": 48331,
+    "language": "en-gl",
+    "location": {
+        "lat": 43.07305,
+        "lon": -89.40123
+    },
+    "name": "Madison, WI",
+    "search_volume": 33800,
+    "slug": "madison-wi",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "85d35151-d866-46e6-b0b1-0f3e6c4cabc9",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Madison (Dutch Mill Park & Ride)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Madison, WI",
+                "postalCode": "53716",
+                "streetAddress": "46 Collins Ct"
+            },
+            "latitude": 43.047773,
+            "longitude": -89.306256
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Madison (Phillips 66)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Madison, WI",
+                "postalCode": "53716",
+                "streetAddress": "4 Collins Ct"
+            },
+            "latitude": 43.047207,
+            "longitude": -89.30558
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Madison University of Wisconsin",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Madison, WI",
+                "postalCode": "53703",
+                "streetAddress": "200 North Lake St"
+            },
+            "latitude": 43.071539,
+            "longitude": -89.397556
+        }
+    ]
+}

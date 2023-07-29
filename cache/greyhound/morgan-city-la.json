@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69563,
+    "language": "en-gl",
+    "location": {
+        "lat": 29.699375,
+        "lon": -91.20677
+    },
+    "name": "Morgan City, LA",
+    "search_volume": 1200,
+    "slug": "morgan-city-la",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "91eeedde-5b58-4460-be2f-d22bef699b76",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Morgan City",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Morgan City, LA",
+                "postalCode": "70380",
+                "streetAddress": "728 Myrtle St"
+            },
+            "latitude": 29.694808,
+            "longitude": -91.187659
+        }
+    ]
+}

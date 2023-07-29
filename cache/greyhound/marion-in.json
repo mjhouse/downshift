@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 105883,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.558372,
+        "lon": -85.65914
+    },
+    "name": "Marion, IN",
+    "search_volume": 2000,
+    "slug": "marion-in",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "85b83e4d-0518-4496-87dd-2f155955c6ff",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Marion",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Marion, IN",
+                "postalCode": "46952",
+                "streetAddress": "6256 E Corridor Rd"
+            },
+            "latitude": 40.55276,
+            "longitude": -85.554743
+        }
+    ]
+}

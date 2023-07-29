@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 71513,
+    "language": "en-gl",
+    "location": {
+        "lat": 29.264406,
+        "lon": -95.449875
+    },
+    "name": "Angleton, TX",
+    "search_volume": 800,
+    "slug": "angleton-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "5d1fcdc7-7400-43cc-bc6e-18b166cd30bc",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Angleton",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Angleton, TX",
+                "postalCode": "77515",
+                "streetAddress": "22679 N Hwy 288"
+            },
+            "latitude": 29.264406,
+            "longitude": -95.449877
+        }
+    ]
+}

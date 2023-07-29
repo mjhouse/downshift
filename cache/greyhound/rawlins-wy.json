@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69923,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.79107,
+        "lon": -107.23866
+    },
+    "name": "Rawlins, WY",
+    "search_volume": 2100,
+    "slug": "rawlins-wy",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "e14c3204-879b-45e4-ad92-6f2cf2e545a6",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Rawlins (Travel Centers Of America)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Rawlins, WY",
+                "postalCode": "82301",
+                "streetAddress": "1400 South Higley Blvd"
+            },
+            "latitude": 41.776965,
+            "longitude": -107.22365
+        }
+    ]
+}

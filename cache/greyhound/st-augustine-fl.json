@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 56051,
+    "language": "en-gl",
+    "location": {
+        "lat": 29.901243,
+        "lon": -81.31243
+    },
+    "name": "St. Augustine, FL",
+    "search_volume": 3400,
+    "slug": "st-augustine-fl",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "2b836a48-60e3-478b-8169-a48a5deeccd5",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "St Augustine Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "St. Augustine, FL",
+                "postalCode": "32084",
+                "streetAddress": "3 Cordova St"
+            },
+            "latitude": 29.898925,
+            "longitude": -81.316556
+        }
+    ]
+}

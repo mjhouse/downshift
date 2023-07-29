@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 112023,
+    "language": "en-gl",
+    "location": {
+        "lat": 45.82291,
+        "lon": -92.970345
+    },
+    "name": "Pine City, MN",
+    "search_volume": 200,
+    "slug": "pine-city-mn",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "88a4c578-067e-4286-8dce-e90fb1874030",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Pine City",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Pine City, MN",
+                "postalCode": "55063",
+                "streetAddress": "1450 8Th St Nw"
+            },
+            "latitude": 45.84571,
+            "longitude": -92.97395
+        }
+    ]
+}

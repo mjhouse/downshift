@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 111973,
+    "language": "en-gl",
+    "location": {
+        "lat": 38.664543,
+        "lon": -80.709816
+    },
+    "name": "Sutton, WV",
+    "search_volume": 500,
+    "slug": "sutton-wv",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "831566da-28c4-4003-b9c6-d017fffa3ca6",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Sutton Flatwood",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Sutton, WV",
+                "postalCode": "26601",
+                "streetAddress": "2210 Sutton Ln"
+            },
+            "latitude": 38.704581,
+            "longitude": -80.659416
+        }
+    ]
+}

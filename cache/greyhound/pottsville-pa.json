@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 107683,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.685646,
+        "lon": -76.195496
+    },
+    "name": "Pottsville, PA",
+    "search_volume": 2400,
+    "slug": "pottsville-pa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "74bc050a-72cb-44dc-954e-93ca56fcbaa0",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Pottsville",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Pottsville, PA",
+                "postalCode": "17901",
+                "streetAddress": "300 S Center St"
+            },
+            "latitude": 40.7123312,
+            "longitude": -76.1885963
+        }
+    ]
+}

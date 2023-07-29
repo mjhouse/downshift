@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106133,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.404472,
+        "lon": -91.39639
+    },
+    "name": "Keokuk, IA",
+    "search_volume": 100,
+    "slug": "keokuk-ia",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "eb0d0ba4-4f78-4a7d-8118-a20c44297c11",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Keokuk",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Keokuk, IA",
+                "postalCode": "52632",
+                "streetAddress": "3530 Main St"
+            },
+            "latitude": 40.422646,
+            "longitude": -91.411098
+        }
+    ]
+}

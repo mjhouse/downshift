@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 54801,
+    "language": "en-gl",
+    "location": {
+        "lat": 34.75405,
+        "lon": -77.430244
+    },
+    "name": "Jacksonville, NC",
+    "search_volume": 10400,
+    "slug": "jacksonville-nc",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "15315ab2-7ded-44e0-98b4-209b8aaeb8b6",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Jacksonville (NC) Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Jacksonville, NC",
+                "postalCode": "28540",
+                "streetAddress": "1300 N Marine Blvd"
+            },
+            "latitude": 34.76693,
+            "longitude": -77.40727
+        }
+    ]
+}

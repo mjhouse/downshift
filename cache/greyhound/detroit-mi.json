@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 51631,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.33143,
+        "lon": -83.04575
+    },
+    "name": "Detroit, MI",
+    "search_volume": 188600,
+    "slug": "detroit-mi",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "1179ba8c-fdf3-467a-ae63-56d63f0658b5",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Detroit (Farmington Hills)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Detroit, MI",
+                "postalCode": "48334",
+                "streetAddress": "31066 W 12 Mile Rd"
+            },
+            "latitude": 42.49946,
+            "longitude": -83.35812
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Detroit Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Detroit, MI",
+                "postalCode": "48226",
+                "streetAddress": "1001 Howard St"
+            },
+            "latitude": 42.327847,
+            "longitude": -83.058373
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 55911,
+    "language": "en-gl",
+    "location": {
+        "lat": 43.08313,
+        "lon": -73.78457
+    },
+    "name": "Saratoga Springs, NY",
+    "search_volume": 6700,
+    "slug": "saratoga-springs-ny",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "5cb385b5-8c13-485a-9ef6-564c4f158f2c",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Saratoga Springs (Train Station)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Saratoga Springs, NY",
+                "postalCode": "12866",
+                "streetAddress": "26 Station Lane"
+            },
+            "latitude": 43.082773,
+            "longitude": -73.80999
+        }
+    ]
+}

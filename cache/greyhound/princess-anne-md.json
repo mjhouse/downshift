@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69883,
+    "language": "en-gl",
+    "location": {
+        "lat": 38.2029,
+        "lon": -75.69243
+    },
+    "name": "Princess Anne, MD",
+    "search_volume": 1800,
+    "slug": "princess-anne-md",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "e711fc6b-6748-4f2e-9a90-abab967ab162",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "University Of Maryland Eastern Shore",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Princess Anne, MD",
+                "postalCode": "21853",
+                "streetAddress": "1 College Backbone Rd # 2150"
+            },
+            "latitude": 38.210761,
+            "longitude": -75.688994
+        }
+    ]
+}

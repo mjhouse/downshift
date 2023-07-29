@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 59371,
+    "language": "en-gl",
+    "location": {
+        "lat": 35.845623,
+        "lon": -86.39027
+    },
+    "name": "Murfreesboro, TN",
+    "search_volume": 5700,
+    "slug": "murfreesboro-tn",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "23d8062d-861b-4fd1-adbf-c8f635f89296",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Murfreesboro Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Murfreesboro, TN",
+                "postalCode": "37129",
+                "streetAddress": "500 Block W Main St"
+            },
+            "latitude": 35.84663,
+            "longitude": -86.398747
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69973,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.499302,
+        "lon": -124.10644
+    },
+    "name": "Rio Dell, CA",
+    "search_volume": 900,
+    "slug": "rio-dell-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "374893c6-7d6d-40be-958b-2fda4dfddd97",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Rio Dell (E & J Liquor & Deli)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Rio Dell, CA",
+                "postalCode": "95562",
+                "streetAddress": "127 Wildwood Ave"
+            },
+            "latitude": 40.493687,
+            "longitude": -124.10246
+        }
+    ]
+}

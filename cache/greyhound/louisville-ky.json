@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 48351,
+    "language": "en-gl",
+    "location": {
+        "lat": 38.252666,
+        "lon": -85.75845
+    },
+    "name": "Louisville, KY",
+    "search_volume": 70000,
+    "slug": "louisville-ky",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "9ab9e50f-07af-4a18-9345-64f608d74945",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Louisville Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Louisville, KY",
+                "postalCode": "40203",
+                "streetAddress": "1211 W Broadway, Ste 101"
+            },
+            "latitude": 38.248724,
+            "longitude": -85.772623
+        }
+    ]
+}

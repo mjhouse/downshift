@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 54861,
+    "language": "en-gl",
+    "location": {
+        "lat": 37.08423,
+        "lon": -94.51328
+    },
+    "name": "Joplin, MO",
+    "search_volume": 9600,
+    "slug": "joplin-mo",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "fffba214-9ca8-49c1-a6b2-7e62eab5cc0b",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Joplin",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Joplin, MO",
+                "postalCode": "64801",
+                "streetAddress": "6601 E 7Th St"
+            },
+            "latitude": 37.083728,
+            "longitude": -94.420062
+        }
+    ]
+}

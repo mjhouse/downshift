@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 116943,
+    "language": "en-gl",
+    "location": {
+        "lat": 45.84041,
+        "lon": -119.28946
+    },
+    "name": "Hermiston, OR",
+    "search_volume": 2700,
+    "slug": "hermiston-or",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "c3bfe938-2b2e-437e-b9f5-8c0be9c9e2ca",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Hermiston",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Hermiston, OR",
+                "postalCode": "97838",
+                "streetAddress": "28810 Stafford Hansel Rd."
+            },
+            "latitude": 45.790617,
+            "longitude": -119.374363
+        }
+    ]
+}

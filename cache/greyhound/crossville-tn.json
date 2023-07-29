@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 68603,
+    "language": "en-gl",
+    "location": {
+        "lat": 35.948956,
+        "lon": -85.0269
+    },
+    "name": "Crossville, TN",
+    "search_volume": 1800,
+    "slug": "crossville-tn",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "f9cb0eaa-c462-492e-b56d-3b7947fe51b6",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Crossville (Marathon)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Crossville, TN",
+                "postalCode": "38555",
+                "streetAddress": "34 Executive Dr"
+            },
+            "latitude": 35.998174,
+            "longitude": -85.044788
+        }
+    ]
+}

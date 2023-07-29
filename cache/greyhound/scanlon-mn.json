@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 107033,
+    "language": "en-gl",
+    "location": {
+        "lat": 46.70674,
+        "lon": -92.42849
+    },
+    "name": "Scanlon, MN",
+    "search_volume": 100,
+    "slug": "scanlon-mn",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "1820a83e-3ac1-4bce-a40b-95a64eb10542",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Cloquet",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Scanlon, MN",
+                "postalCode": "55720",
+                "streetAddress": "201 Doddridge Ave"
+            },
+            "latitude": 46.71352,
+            "longitude": -92.461342
+        }
+    ]
+}

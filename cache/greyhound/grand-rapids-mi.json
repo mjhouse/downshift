@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 51591,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.96336,
+        "lon": -85.66808
+    },
+    "name": "Grand Rapids, MI",
+    "search_volume": 42800,
+    "slug": "grand-rapids-mi",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "c048aeaf-1def-401d-b975-b70710015e09",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Grand Rapids (Downtown)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Grand Rapids, MI",
+                "postalCode": "49504",
+                "streetAddress": "410 Pearl St NW"
+            },
+            "latitude": 42.966295,
+            "longitude": -85.679446
+        }
+    ]
+}

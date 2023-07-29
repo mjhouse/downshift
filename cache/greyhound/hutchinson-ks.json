@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 109823,
+    "language": "en-gl",
+    "location": {
+        "lat": 38.060844,
+        "lon": -97.92977
+    },
+    "name": "Hutchinson, KS",
+    "search_volume": 1700,
+    "slug": "hutchinson-ks",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "668b3931-1aa4-471f-a665-e74e430e2178",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Hutchinson",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Hutchinson, KS",
+                "postalCode": "67501",
+                "streetAddress": "1420 N Lorraine St"
+            },
+            "latitude": 38.069907,
+            "longitude": -97.903467
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "South Hutchinson",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Hutchinson, KS",
+                "postalCode": "67505",
+                "streetAddress": "300 E 4Th Ave"
+            },
+            "latitude": 38.032891,
+            "longitude": -97.934176
+        }
+    ]
+}

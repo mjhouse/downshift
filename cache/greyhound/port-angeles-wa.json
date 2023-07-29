@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 55661,
+    "language": "en-gl",
+    "location": {
+        "lat": 48.118145,
+        "lon": -123.43074
+    },
+    "name": "Port Angeles, WA",
+    "search_volume": 3600,
+    "slug": "port-angeles-wa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "d98dc037-c386-4a21-bc96-35026ec8a211",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Port Angeles (Clallam Transit Gateway)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Port Angeles, WA",
+                "postalCode": "98362",
+                "streetAddress": "123 E Front St"
+            },
+            "latitude": 48.118939,
+            "longitude": -123.433064
+        }
+    ]
+}

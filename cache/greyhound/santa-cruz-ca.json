@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 20678,
+    "language": "en-gl",
+    "location": {
+        "lat": 36.974117,
+        "lon": -122.0308
+    },
+    "name": "Santa Cruz, CA",
+    "search_volume": 5600,
+    "slug": "santa-cruz-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "b19a9ac5-eb86-4ddb-89a3-1cb038622416",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Santa Cruz Metro Center",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Santa Cruz, CA",
+                "postalCode": "95060",
+                "streetAddress": "920 Pacific Ave"
+            },
+            "latitude": 36.970761,
+            "longitude": -122.024544
+        }
+    ]
+}

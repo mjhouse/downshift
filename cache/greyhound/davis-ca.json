@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 28771,
+    "language": "en-gl",
+    "location": {
+        "lat": 38.544907,
+        "lon": -121.74052
+    },
+    "name": "Davis, CA",
+    "search_volume": 13600,
+    "slug": "davis-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "c873178c-b079-4cf5-9cf8-ae5265d47156",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Davis (University Mall)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Davis, CA",
+                "postalCode": "95616",
+                "streetAddress": "655 Russell Blvd"
+            },
+            "latitude": 38.546921,
+            "longitude": -121.758616
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 60861,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.878136,
+        "lon": -73.19678
+    },
+    "name": "Bennington, VT",
+    "search_volume": 1800,
+    "slug": "bennington-vt",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "9d13ca22-3c99-40ac-ac9c-b9ce4899ed10",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Bennington",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Bennington, VT",
+                "postalCode": "05201",
+                "streetAddress": "215 Pleasant St"
+            },
+            "latitude": 42.878713,
+            "longitude": -73.19324
+        }
+    ]
+}

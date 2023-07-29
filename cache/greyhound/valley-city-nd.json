@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106433,
+    "language": "en-gl",
+    "location": {
+        "lat": 46.923313,
+        "lon": -98.00315
+    },
+    "name": "Valley City, ND",
+    "search_volume": 700,
+    "slug": "valley-city-nd",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "f7dcadb6-2e19-4dc6-96c6-2d66f658bfe0",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Valley City",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Valley City, ND",
+                "postalCode": "58072",
+                "streetAddress": "1020 8Th Ave Sw"
+            },
+            "latitude": 46.9128,
+            "longitude": -98.01228
+        }
+    ]
+}

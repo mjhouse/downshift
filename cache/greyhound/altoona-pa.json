@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 59091,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.51868,
+        "lon": -78.39474
+    },
+    "name": "Altoona, PA",
+    "search_volume": 5600,
+    "slug": "altoona-pa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "73b29d9b-331c-4203-b504-ad478d3b2ecc",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Altoona Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Altoona, PA",
+                "postalCode": "16601",
+                "streetAddress": "1231 11Th Ave"
+            },
+            "latitude": 40.514746,
+            "longitude": -78.401872
+        }
+    ]
+}

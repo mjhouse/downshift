@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 53721,
+    "language": "en-gl",
+    "location": {
+        "lat": 31.578506,
+        "lon": -84.15574
+    },
+    "name": "Albany, GA",
+    "search_volume": 20700,
+    "slug": "albany-ga",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "9e68614e-2b5c-46d1-9742-7704b8b4c96c",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Albany (Transportation Center)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Albany, GA",
+                "postalCode": "31701",
+                "streetAddress": "300 W Oglethorpe BLVD"
+            },
+            "latitude": 31.575259,
+            "longitude": -84.154348
+        }
+    ]
+}

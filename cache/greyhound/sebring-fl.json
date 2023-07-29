@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 55971,
+    "language": "en-gl",
+    "location": {
+        "lat": 27.495592,
+        "lon": -81.44091
+    },
+    "name": "Sebring, FL",
+    "search_volume": 1100,
+    "slug": "sebring-fl",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "663073cc-15e1-4957-8e2a-4550b9acea57",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Sebring (Mobil)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Sebring, FL",
+                "postalCode": "33870",
+                "streetAddress": "1409 US Hwy 27"
+            },
+            "latitude": 27.472091,
+            "longitude": -81.466217
+        }
+    ]
+}

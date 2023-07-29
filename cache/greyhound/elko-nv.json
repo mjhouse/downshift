@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 20728,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.83242,
+        "lon": -115.76312
+    },
+    "name": "Elko, NV",
+    "search_volume": 1100,
+    "slug": "elko-nv",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "749ed0b4-b79a-441b-8d28-62a332309784",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Elko",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Elko, NV",
+                "postalCode": "89801",
+                "streetAddress": "2065 Idaho St"
+            },
+            "latitude": 40.850193,
+            "longitude": -115.746684
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Elko (E)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Elko, NV",
+                "postalCode": "89801",
+                "streetAddress": "1300 Water St"
+            },
+            "latitude": 40.835837,
+            "longitude": -115.75138
+        }
+    ]
+}

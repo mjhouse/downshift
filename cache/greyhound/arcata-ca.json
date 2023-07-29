@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 53801,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.866516,
+        "lon": -124.08284
+    },
+    "name": "Arcata, CA",
+    "search_volume": 4400,
+    "slug": "arcata-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "d9151856-2227-4b6a-8108-9380619d137e",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Arcata Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Arcata, CA",
+                "postalCode": "95521",
+                "streetAddress": "925 E St"
+            },
+            "latitude": 40.868704,
+            "longitude": -124.08367
+        }
+    ]
+}

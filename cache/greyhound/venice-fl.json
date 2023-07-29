@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 88863,
+    "language": "en-gl",
+    "location": {
+        "lat": 27.099777,
+        "lon": -82.45426
+    },
+    "name": "Venice, FL",
+    "search_volume": 3600,
+    "slug": "venice-fl",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "00e24276-ac1d-4d3b-b0aa-44a47bb3cf53",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Venice (FL)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Venice, FL",
+                "postalCode": "34292",
+                "streetAddress": "325 Commercial Ct"
+            },
+            "latitude": 27.105815,
+            "longitude": -82.385691
+        }
+    ]
+}

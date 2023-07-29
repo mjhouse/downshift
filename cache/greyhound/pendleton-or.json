@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 67753,
+    "language": "en-gl",
+    "location": {
+        "lat": 45.672073,
+        "lon": -118.7886
+    },
+    "name": "Pendleton, OR",
+    "search_volume": 2400,
+    "slug": "pendleton-or",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "cca5a88d-85b5-42d7-bb61-44336303ef00",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Pendleton Market",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Pendleton, OR",
+                "postalCode": "97801",
+                "streetAddress": "2101 Se Court Ave"
+            },
+            "latitude": 45.67317,
+            "longitude": -118.76331
+        }
+    ]
+}

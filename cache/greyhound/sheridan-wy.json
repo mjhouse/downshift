@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 111383,
+    "language": "en-gl",
+    "location": {
+        "lat": 44.797195,
+        "lon": -106.95618
+    },
+    "name": "Sheridan, WY",
+    "search_volume": 1000,
+    "slug": "sheridan-wy",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "9385571d-0ec5-49b7-a841-668873c561e8",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Sheridan",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Sheridan, WY",
+                "postalCode": "82801",
+                "streetAddress": "1229 E Brundage Ln"
+            },
+            "latitude": 44.774024,
+            "longitude": -106.93792
+        }
+    ]
+}

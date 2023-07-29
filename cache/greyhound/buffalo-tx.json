@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 68433,
+    "language": "en-gl",
+    "location": {
+        "lat": 31.463787,
+        "lon": -96.05802
+    },
+    "name": "Buffalo, TX",
+    "search_volume": 700,
+    "slug": "buffalo-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "85b0eda9-246e-4fbf-9d50-f0bce8be7150",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Buffalo (Tiger Mart Of Buffalo)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Buffalo, TX",
+                "postalCode": "75831",
+                "streetAddress": "2430 W Commerce"
+            },
+            "latitude": 31.44887,
+            "longitude": -96.077522
+        }
+    ]
+}

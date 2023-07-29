@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 52431,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.793396,
+        "lon": -77.86
+    },
+    "name": "State College, PA",
+    "search_volume": 24200,
+    "slug": "state-college-pa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "7edd7d72-3c7d-4d70-9296-471281cccea5",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "State College Arpt (E)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "State College, PA",
+                "postalCode": "16803",
+                "streetAddress": "2493 Fox Hill Rd"
+            },
+            "latitude": 40.85141,
+            "longitude": -77.852798
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "State College Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "State College, PA",
+                "postalCode": "16801",
+                "streetAddress": "152 N Atherton St"
+            },
+            "latitude": 40.79216,
+            "longitude": -77.8678
+        }
+    ]
+}

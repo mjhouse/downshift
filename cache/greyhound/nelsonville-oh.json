@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 107573,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.45868,
+        "lon": -82.23182
+    },
+    "name": "Nelsonville, OH",
+    "search_volume": 200,
+    "slug": "nelsonville-oh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "aa67db63-15cd-406f-a405-59efc0da55d2",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Hocking Coll",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Nelsonville, OH",
+                "postalCode": "45764",
+                "streetAddress": "3301 Hocking Pkwy"
+            },
+            "latitude": 39.4416,
+            "longitude": -82.233
+        }
+    ]
+}

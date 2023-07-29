@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 107973,
+    "language": "en-gl",
+    "location": {
+        "lat": 46.40041,
+        "lon": -117.00119
+    },
+    "name": "Lewiston, ID",
+    "search_volume": 3100,
+    "slug": "lewiston-id",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "a652df86-6e9d-410a-a57e-29dee19e116a",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Lewiston",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Lewiston, ID",
+                "postalCode": "83501",
+                "streetAddress": "1920 Hwy 128"
+            },
+            "latitude": 46.427292,
+            "longitude": -117.00585
+        }
+    ]
+}

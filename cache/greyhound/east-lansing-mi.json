@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 51681,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.73698,
+        "lon": -84.483864
+    },
+    "name": "East Lansing, MI",
+    "search_volume": 19300,
+    "slug": "east-lansing-mi",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "495e0a04-8051-4bec-a6fe-0216a0dfe16d",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "East Lansing",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "East Lansing, MI",
+                "postalCode": "48912",
+                "streetAddress": "920 Chester Road"
+            },
+            "latitude": 42.743111,
+            "longitude": -84.511306
+        }
+    ]
+}

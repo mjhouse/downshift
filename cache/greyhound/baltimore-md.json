@@ -1,0 +1,63 @@
+{
+    "country": "US",
+    "id": 27831,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.290386,
+        "lon": -76.61219
+    },
+    "name": "Baltimore, MD",
+    "search_volume": 187000,
+    "slug": "baltimore-md",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "ff6921c7-4746-4553-8ef8-3bb7f19fc2bd",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Baltimore (Ponca/Eastern Ave)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Baltimore, MD",
+                "postalCode": "21224",
+                "streetAddress": "400 Ponca St."
+            },
+            "latitude": 39.287495,
+            "longitude": -76.554943
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Baltimore Downtown",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Baltimore, MD",
+                "postalCode": "21230",
+                "streetAddress": "2110 Haines St"
+            },
+            "latitude": 39.270959,
+            "longitude": -76.627224
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "White Marsh Park N Ride",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Baltimore, MD",
+                "postalCode": "21236",
+                "streetAddress": "8476 Honeygo Blvd"
+            },
+            "latitude": 39.3775,
+            "longitude": -76.4615
+        }
+    ]
+}

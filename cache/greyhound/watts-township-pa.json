@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 107803,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.454403,
+        "lon": -76.99886
+    },
+    "name": "Watts Township, PA",
+    "search_volume": 100,
+    "slug": "watts-township-pa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "319782a5-40ec-4dfa-8f07-7d4d07adc790",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "New Buffalo",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Watts Township, PA",
+                "postalCode": "17020",
+                "streetAddress": "3298 Susqauehanna Trail"
+            },
+            "latitude": 40.4477,
+            "longitude": -76.982397
+        }
+    ]
+}

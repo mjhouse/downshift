@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 68313,
+    "language": "en-gl",
+    "location": {
+        "lat": 29.735504,
+        "lon": -94.977425
+    },
+    "name": "Baytown, TX",
+    "search_volume": 3200,
+    "slug": "baytown-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "444192c8-07ee-4844-a57f-4f3e6928a2f5",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Baytown Travel Express",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Baytown, TX",
+                "postalCode": "77521",
+                "streetAddress": "1901 I10 East"
+            },
+            "latitude": 29.798241,
+            "longitude": -95.031415
+        }
+    ]
+}

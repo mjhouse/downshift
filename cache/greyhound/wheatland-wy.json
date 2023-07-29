@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 111843,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.054413,
+        "lon": -104.95275
+    },
+    "name": "Wheatland, WY",
+    "search_volume": 400,
+    "slug": "wheatland-wy",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "a459a1c9-b2b4-42d9-9cfd-29f44afd4a9d",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Wheatland",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Wheatland, WY",
+                "postalCode": "82201",
+                "streetAddress": "91 16Th St"
+            },
+            "latitude": 42.0584,
+            "longitude": -104.96
+        }
+    ]
+}

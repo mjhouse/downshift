@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 113943,
+    "language": "en-gl",
+    "location": {
+        "lat": 48.276287,
+        "lon": -117.71552
+    },
+    "name": "Chewelah, WA",
+    "search_volume": 100,
+    "slug": "chewelah-wa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "68a96b8a-2cb4-4fad-85a1-b5800cdb2f1c",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Chewelah",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Chewelah, WA",
+                "postalCode": "99109",
+                "streetAddress": "214 E Main"
+            },
+            "latitude": 48.2782,
+            "longitude": -117.718
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Chewelah Casino",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Chewelah, WA",
+                "postalCode": "99109",
+                "streetAddress": "2555 Smith Rd"
+            },
+            "latitude": 48.2782,
+            "longitude": -117.718
+        }
+    ]
+}

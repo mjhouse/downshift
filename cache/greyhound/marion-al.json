@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 112723,
+    "language": "en-gl",
+    "location": {
+        "lat": 32.632355,
+        "lon": -87.31917
+    },
+    "name": "Marion, AL",
+    "search_volume": 100,
+    "slug": "marion-al",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "08956028-8bb9-4362-88ad-8c2382093be8",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Marion (E)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Marion, AL",
+                "postalCode": "36756",
+                "streetAddress": "26400 Alabama 14"
+            },
+            "latitude": 32.681234,
+            "longitude": -87.404254
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 68693,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.99242,
+        "lon": -96.397125
+    },
+    "name": "Durant, OK",
+    "search_volume": 2600,
+    "slug": "durant-ok",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "a83fb69d-58d3-4e19-be51-96327241883f",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Durant (Stop N Buy)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Durant, OK",
+                "postalCode": "74701",
+                "streetAddress": "2119 W Main St"
+            },
+            "latitude": 33.997092,
+            "longitude": -96.402502
+        }
+    ]
+}

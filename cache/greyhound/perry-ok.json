@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 52151,
+    "language": "en-gl",
+    "location": {
+        "lat": 36.289486,
+        "lon": -97.2881
+    },
+    "name": "Perry, OK",
+    "search_volume": 900,
+    "slug": "perry-ok",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "1dcfd613-1048-4fd5-9acc-a91bfcbe3170",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Perry (2 Go Express)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Perry, OK",
+                "postalCode": "73077",
+                "streetAddress": "2812 W Fir Street"
+            },
+            "latitude": 36.288853,
+            "longitude": -97.325592
+        }
+    ]
+}

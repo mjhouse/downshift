@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 55521,
+    "language": "en-gl",
+    "location": {
+        "lat": 32.645412,
+        "lon": -85.37828
+    },
+    "name": "Opelika, AL",
+    "search_volume": 3800,
+    "slug": "opelika-al",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "e459de55-52de-48f1-94d5-c28585dccbd1",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Opelika (4th Street Station)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Opelika, AL",
+                "postalCode": "36801",
+                "streetAddress": "300 Columbus Pkwy"
+            },
+            "latitude": 32.643938,
+            "longitude": -85.365538
+        }
+    ]
+}

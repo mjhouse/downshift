@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 107783,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.862583,
+        "lon": -76.79441
+    },
+    "name": "Sunbury, PA",
+    "search_volume": 500,
+    "slug": "sunbury-pa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "dd41af63-d264-4b2a-9d02-6854d02e4fcf",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Sunbury",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Sunbury, PA",
+                "postalCode": "17801",
+                "streetAddress": "1167 N 4Th St"
+            },
+            "latitude": 40.87514,
+            "longitude": -76.78536
+        }
+    ]
+}

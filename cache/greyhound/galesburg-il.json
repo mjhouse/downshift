@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 59801,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.947815,
+        "lon": -90.37124
+    },
+    "name": "Galesburg, IL",
+    "search_volume": 1300,
+    "slug": "galesburg-il",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "1727ae3b-2845-47aa-bd9e-37976e5ccaa3",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Galesburg",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Galesburg, IL",
+                "postalCode": "61401",
+                "streetAddress": "225 S Seminary St"
+            },
+            "latitude": 40.945082,
+            "longitude": -90.364679
+        }
+    ]
+}

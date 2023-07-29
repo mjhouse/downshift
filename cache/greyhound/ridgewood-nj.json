@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69983,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.979263,
+        "lon": -74.11653
+    },
+    "name": "Ridgewood, NJ",
+    "search_volume": 3200,
+    "slug": "ridgewood-nj",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "829db435-818c-444f-9d3f-a6e8efd91f28",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Ridgewood (Greyhound)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Ridgewood, NJ",
+                "postalCode": "07450",
+                "streetAddress": "575 Rt 17 S"
+            },
+            "latitude": 40.991508,
+            "longitude": -74.096167
+        }
+    ]
+}

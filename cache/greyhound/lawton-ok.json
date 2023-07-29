@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 105633,
+    "language": "en-gl",
+    "location": {
+        "lat": 34.603565,
+        "lon": -98.39593
+    },
+    "name": "Lawton, OK",
+    "search_volume": 5400,
+    "slug": "lawton-ok",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "62b7194f-8358-4f17-a7c1-674c7c73a369",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Lawton, OK",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Lawton, OK",
+                "postalCode": "73501",
+                "streetAddress": "425 Sw B Ave"
+            },
+            "latitude": 34.606472,
+            "longitude": -98.394658
+        }
+    ]
+}

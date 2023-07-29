@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 20608,
+    "language": "en-gl",
+    "location": {
+        "lat": 36.67774,
+        "lon": -121.6555
+    },
+    "name": "Salinas, CA",
+    "search_volume": 9300,
+    "slug": "salinas-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "46ea53c4-fa7d-4c64-9e91-829d91cb47e4",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Salinas Train Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Salinas, CA",
+                "postalCode": "93901",
+                "streetAddress": "3 Station Place"
+            },
+            "latitude": 36.6792042,
+            "longitude": -121.657
+        }
+    ]
+}

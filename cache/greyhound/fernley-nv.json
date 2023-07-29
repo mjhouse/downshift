@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 48091,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.607967,
+        "lon": -119.25184
+    },
+    "name": "Fernley, NV",
+    "search_volume": 400,
+    "slug": "fernley-nv",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "99c4e786-3ecb-11ea-8017-02437075395e",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Fernley (Flying J)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Fernley, NV",
+                "postalCode": "89408",
+                "streetAddress": "480 Truck Inn Way"
+            },
+            "latitude": 39.61475,
+            "longitude": -119.216689
+        }
+    ]
+}

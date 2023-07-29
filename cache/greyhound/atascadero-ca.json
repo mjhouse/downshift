@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110583,
+    "language": "en-gl",
+    "location": {
+        "lat": 35.489418,
+        "lon": -120.67072
+    },
+    "name": "Atascadero, CA",
+    "search_volume": 500,
+    "slug": "atascadero-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "92069522-2801-4490-8e01-8a2d8ce20246",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Atascadero",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Atascadero, CA",
+                "postalCode": "93422",
+                "streetAddress": "6000 Capistrano Ave"
+            },
+            "latitude": 35.489015,
+            "longitude": -120.664784
+        }
+    ]
+}

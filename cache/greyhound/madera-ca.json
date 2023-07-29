@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 55101,
+    "language": "en-gl",
+    "location": {
+        "lat": 36.961334,
+        "lon": -120.060715
+    },
+    "name": "Madera, CA",
+    "search_volume": 2400,
+    "slug": "madera-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "335319c2-7e1b-40d5-9fb3-523998a070d4",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Madera Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Madera, CA",
+                "postalCode": "93638",
+                "streetAddress": "123 N \"E\" St Ste 101"
+            },
+            "latitude": 36.962722,
+            "longitude": -120.060155
+        }
+    ]
+}

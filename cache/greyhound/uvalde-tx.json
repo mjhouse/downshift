@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 70503,
+    "language": "en-gl",
+    "location": {
+        "lat": 29.209684,
+        "lon": -99.78617
+    },
+    "name": "Uvalde, TX",
+    "search_volume": 3200,
+    "slug": "uvalde-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "777fda70-85a3-4d16-9f44-5021b69cb2f6",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Uvalde (Stripes)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Uvalde, TX",
+                "postalCode": "78801",
+                "streetAddress": "2815 E Main St"
+            },
+            "latitude": 29.229871,
+            "longitude": -99.755266
+        }
+    ]
+}

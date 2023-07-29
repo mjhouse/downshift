@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 56291,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.20984,
+        "lon": -87.569176
+    },
+    "name": "Tuscaloosa, AL",
+    "search_volume": 10500,
+    "slug": "tuscaloosa-al",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "647444b2-def0-4d8e-976b-280b4c703df2",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Tuscaloosa Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Tuscaloosa, AL",
+                "postalCode": "35401",
+                "streetAddress": "3301 Greensboro Ave"
+            },
+            "latitude": 33.180931,
+            "longitude": -87.551856
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 116993,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.722393,
+        "lon": -87.62441
+    },
+    "name": "Chicago 95th & Dan Ryan, IL",
+    "search_volume": 48300,
+    "slug": "chicago-95th-dan-ryan-il",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "c9c475ca-2d0f-49da-aafe-981f1d75535c",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Chicago 95Th & Dan Ryan",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Chicago 95th & Dan Ryan, IL",
+                "postalCode": "60628",
+                "streetAddress": "15 W 95Th St"
+            },
+            "latitude": 41.722328,
+            "longitude": -87.624734
+        }
+    ]
+}

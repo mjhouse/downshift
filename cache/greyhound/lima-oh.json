@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 59321,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.74255,
+        "lon": -84.105225
+    },
+    "name": "Lima, OH",
+    "search_volume": 4200,
+    "slug": "lima-oh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "1ce20d9a-527c-4c45-b6aa-f18349b0cf5e",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Lima (Regional Transit Authority)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Lima, OH",
+                "postalCode": "45801",
+                "streetAddress": "218 E High St"
+            },
+            "latitude": 40.741072,
+            "longitude": -84.10283
+        }
+    ]
+}

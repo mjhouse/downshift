@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 36571,
+    "language": "en-gl",
+    "location": {
+        "lat": 47.037872,
+        "lon": -122.900696
+    },
+    "name": "Olympia, WA",
+    "search_volume": 15900,
+    "slug": "olympia-wa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "b8aa1bf0-933e-40a8-aa99-ed3d29b27517",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Olympia (Intercity Transit Center)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Olympia, WA",
+                "postalCode": "98501",
+                "streetAddress": "205 Franklin Street Ne"
+            },
+            "latitude": 47.046256,
+            "longitude": -122.899992
+        }
+    ]
+}

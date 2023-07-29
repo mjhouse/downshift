@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 113763,
+    "language": "en-gl",
+    "location": {
+        "lat": 31.397362,
+        "lon": -102.35014
+    },
+    "name": "Crane, TX",
+    "search_volume": 100,
+    "slug": "crane-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "40bd7ff5-22e0-4698-ac67-1e2ea9f63a19",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Crane",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Crane, TX",
+                "postalCode": "79731",
+                "streetAddress": "N/A 686455"
+            },
+            "latitude": 31.0398,
+            "longitude": -102.035
+        }
+    ]
+}

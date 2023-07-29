@@ -1,0 +1,138 @@
+{
+    "country": "US",
+    "id": 20198,
+    "language": "en-gl",
+    "location": {
+        "lat": 34.052235,
+        "lon": -118.24368
+    },
+    "name": "Los Angeles, CA",
+    "search_volume": 765500,
+    "slug": "los-angeles-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "490d29d8-7151-4e05-86df-68fba4f000be",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Los Angeles Downtown (FlixBus Lot)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Los Angeles, CA",
+                "postalCode": "90012",
+                "streetAddress": "501 E Cesar E Chavez Ave"
+            },
+            "latitude": 34.056806625936,
+            "longitude": -118.23216451457
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Los Angeles (Hollywood / Highland)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Los Angeles, CA",
+                "postalCode": "90028",
+                "streetAddress": "1658 N Orange Dr"
+            },
+            "latitude": 34.101082,
+            "longitude": -118.341445
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Los Angeles (Gayley Ave & Strathmore Place - University of California, Los Angeles)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Los Angeles, CA",
+                "postalCode": "90024",
+                "streetAddress": "592 Gayley Ave"
+            },
+            "latitude": 34.068781,
+            "longitude": -118.44902
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Los Angeles (Hope St/Jefferson Blvd - University of Southern California )",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Los Angeles, CA",
+                "postalCode": "90007",
+                "streetAddress": "3492 S Hope St"
+            },
+            "latitude": 34.01959,
+            "longitude": -118.278295
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Downey (Stonewood Center)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Los Angeles, CA",
+                "postalCode": "90241",
+                "streetAddress": "251 Stonewood St"
+            },
+            "latitude": 33.93433,
+            "longitude": -118.118556
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Los Angeles (West LA - Expo/Sepulveda)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Los Angeles, CA",
+                "postalCode": "90064",
+                "streetAddress": "11295 Exposition Blvd"
+            },
+            "latitude": 34.035135,
+            "longitude": -118.435105
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Los Angeles Union Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Los Angeles, CA",
+                "postalCode": "90021",
+                "streetAddress": "801 N Vignes Street"
+            },
+            "latitude": 34.055137,
+            "longitude": -118.233135
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Los Angeles Union Station Arrival",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Los Angeles, CA",
+                "postalCode": "90012",
+                "streetAddress": "800 N Alameda St"
+            },
+            "latitude": 34.055104,
+            "longitude": -118.237056
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110963,
+    "language": "en-gl",
+    "location": {
+        "lat": 47.101345,
+        "lon": -94.58722
+    },
+    "name": "Walker, MN",
+    "search_volume": 200,
+    "slug": "walker-mn",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "fa3f6f03-aa6e-4fab-8a33-04f7e1000191",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Walker",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Walker, MN",
+                "postalCode": "56484",
+                "streetAddress": "201 Minnesota Ave East"
+            },
+            "latitude": 47.101522,
+            "longitude": -94.578313
+        }
+    ]
+}

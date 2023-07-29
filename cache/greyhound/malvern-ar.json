@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69393,
+    "language": "en-gl",
+    "location": {
+        "lat": 34.362316,
+        "lon": -92.81294
+    },
+    "name": "Malvern, AR",
+    "search_volume": 4800,
+    "slug": "malvern-ar",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "08391d80-0624-4312-bc02-5a6c9d953eaf",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Malvern (Development Council)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Malvern, AR",
+                "postalCode": "72104",
+                "streetAddress": "830 W Moline"
+            },
+            "latitude": 34.376889,
+            "longitude": -92.818068
+        }
+    ]
+}

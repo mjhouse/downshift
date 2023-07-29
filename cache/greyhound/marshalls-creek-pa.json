@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 109573,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.04315,
+        "lon": -75.1274
+    },
+    "name": "Marshalls Creek, PA",
+    "search_volume": 100,
+    "slug": "marshalls-creek-pa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "58a83055-08be-487e-8090-563c9e315bad",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Marshalls Creek",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Marshalls Creek, PA",
+                "postalCode": "18301",
+                "streetAddress": "Business US Rte 209"
+            },
+            "latitude": 41.02353,
+            "longitude": -75.07386
+        }
+    ]
+}

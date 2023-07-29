@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 54421,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.035408,
+        "lon": -88.28257
+    },
+    "name": "Elgin, IL",
+    "search_volume": 1600,
+    "slug": "elgin-il",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "26d0e1eb-b481-4e93-b68e-45719935b823",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Elgin (Shell Station)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Elgin, IL",
+                "postalCode": "60124",
+                "streetAddress": "2320 N Randall Rd"
+            },
+            "latitude": 42.09131,
+            "longitude": -88.33612
+        }
+    ]
+}

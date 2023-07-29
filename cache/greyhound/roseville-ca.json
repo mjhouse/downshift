@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 70103,
+    "language": "en-gl",
+    "location": {
+        "lat": 38.752125,
+        "lon": -121.28801
+    },
+    "name": "Roseville, CA",
+    "search_volume": 4300,
+    "slug": "roseville-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "797c23a9-6128-47fd-aa5e-f6633184e957",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Roseville Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Roseville, CA",
+                "postalCode": "95678",
+                "streetAddress": "201 Pacific St"
+            },
+            "latitude": 38.750145,
+            "longitude": -121.28606
+        }
+    ]
+}

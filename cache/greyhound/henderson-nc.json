@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 47611,
+    "language": "en-gl",
+    "location": {
+        "lat": 36.32943,
+        "lon": -78.3992
+    },
+    "name": "Henderson, NC",
+    "search_volume": 1900,
+    "slug": "henderson-nc",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "17f06ead-f1a8-45b6-9bf5-8a9c3807b847",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Henderson (Rosemart 206)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Henderson, NC",
+                "postalCode": "27537",
+                "streetAddress": "230 Vanco Mill Rd"
+            },
+            "latitude": 36.297949,
+            "longitude": -78.388351
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 52691,
+    "language": "en-gl",
+    "location": {
+        "lat": 44.088608,
+        "lon": -87.657585
+    },
+    "name": "Manitowoc, WI",
+    "search_volume": 1900,
+    "slug": "manitowoc-wi",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "9870714f-1c5f-4989-ab90-7184d1b126c2",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Manitowoc",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Manitowoc, WI",
+                "postalCode": "54220",
+                "streetAddress": "1701 S 41St St"
+            },
+            "latitude": 44.078601,
+            "longitude": -87.698887
+        }
+    ]
+}

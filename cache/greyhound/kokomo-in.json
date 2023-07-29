@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 107253,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.486427,
+        "lon": -86.133606
+    },
+    "name": "Kokomo, IN",
+    "search_volume": 2100,
+    "slug": "kokomo-in",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "0debdbb9-d1ec-4ed6-9a65-814b6928ca19",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Kokomo",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Kokomo, IN",
+                "postalCode": "46901",
+                "streetAddress": "1244 E Gano St"
+            },
+            "latitude": 40.509207,
+            "longitude": -86.115321
+        }
+    ]
+}

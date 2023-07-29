@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 113933,
+    "language": "en-gl",
+    "location": {
+        "lat": 48.545,
+        "lon": -117.900955
+    },
+    "name": "Colville, WA",
+    "search_volume": 600,
+    "slug": "colville-wa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "be6ca74c-cc99-42d8-b6cf-314091f299d7",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Colville",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Colville, WA",
+                "postalCode": "99114",
+                "streetAddress": "956 S Main St"
+            },
+            "latitude": 48.5467,
+            "longitude": -117.9014
+        }
+    ]
+}

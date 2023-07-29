@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 68553,
+    "language": "en-gl",
+    "location": {
+        "lat": 29.474962,
+        "lon": -82.85984
+    },
+    "name": "Chiefland, FL",
+    "search_volume": 1400,
+    "slug": "chiefland-fl",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "84210bed-b8e6-4169-8f0a-ffc00eb668c8",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Chiefland (Jiffy Food Mart)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Chiefland, FL",
+                "postalCode": "32626",
+                "streetAddress": "1904 N Young Blvd"
+            },
+            "latitude": 29.496923,
+            "longitude": -82.869125
+        }
+    ]
+}

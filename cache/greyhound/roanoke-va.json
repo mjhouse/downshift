@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 59431,
+    "language": "en-gl",
+    "location": {
+        "lat": 37.27097,
+        "lon": -79.94143
+    },
+    "name": "Roanoke, VA",
+    "search_volume": 16800,
+    "slug": "roanoke-va",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "0f88d964-c5ca-4762-a754-66d664b1b94c",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Roanoke Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Roanoke, VA",
+                "postalCode": "24016",
+                "streetAddress": "325 Salem Ave Sw"
+            },
+            "latitude": 37.27275,
+            "longitude": -79.94675
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 39831,
+    "language": "en-gl",
+    "location": {
+        "lat": 27.950575,
+        "lon": -82.45718
+    },
+    "name": "Tampa, FL",
+    "search_volume": 142500,
+    "slug": "tampa-fl",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "77808b28-5212-45d0-8f45-cf6fb3b25f34",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Tampa",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Tampa, FL",
+                "postalCode": "33602",
+                "streetAddress": "1401 N Marion St"
+            },
+            "latitude": 27.956355,
+            "longitude": -82.458759
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "University of South Florida",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Tampa, FL",
+                "postalCode": "33620",
+                "streetAddress": "USF Holly Drive at Lot 3D"
+            },
+            "latitude": 28.0648363,
+            "longitude": -82.4161227
+        }
+    ]
+}

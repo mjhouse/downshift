@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 68793,
+    "language": "en-gl",
+    "location": {
+        "lat": 30.42007,
+        "lon": -86.61703
+    },
+    "name": "Fort Walton Beach, FL",
+    "search_volume": 13000,
+    "slug": "fort-walton-beach-fl",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "36b1619b-e296-4178-a438-7fdd78733f1d",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Ft Walton Beach (Shell)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Fort Walton Beach, FL",
+                "postalCode": "32548",
+                "streetAddress": "401 Miracle Strip Pkwy Sw"
+            },
+            "latitude": 30.408055,
+            "longitude": -86.639483
+        }
+    ]
+}

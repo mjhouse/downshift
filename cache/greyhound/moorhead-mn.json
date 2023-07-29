@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106403,
+    "language": "en-gl",
+    "location": {
+        "lat": 46.873764,
+        "lon": -96.76781
+    },
+    "name": "Moorhead, MN",
+    "search_volume": 700,
+    "slug": "moorhead-mn",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "67249156-aeef-4471-99cc-a32ee0d19dc6",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Moorhead (Msu - Comstock)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Moorhead, MN",
+                "postalCode": "56560",
+                "streetAddress": "615 14Th St S"
+            },
+            "latitude": 46.8682,
+            "longitude": -96.75811
+        }
+    ]
+}

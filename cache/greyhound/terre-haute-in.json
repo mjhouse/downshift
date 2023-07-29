@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 56131,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.4667,
+        "lon": -87.41391
+    },
+    "name": "Terre Haute, IN",
+    "search_volume": 7200,
+    "slug": "terre-haute-in",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "357d74b4-a21a-45d9-ba96-03925d1fc8d8",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Terre Haute",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Terre Haute, IN",
+                "postalCode": "47807",
+                "streetAddress": "750 Cherry St"
+            },
+            "latitude": 39.467575,
+            "longitude": -87.406389
+        }
+    ]
+}

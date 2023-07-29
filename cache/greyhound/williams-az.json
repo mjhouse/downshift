@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 36171,
+    "language": "en-gl",
+    "location": {
+        "lat": 35.24946,
+        "lon": -112.191
+    },
+    "name": "Williams, AZ",
+    "search_volume": 900,
+    "slug": "williams-az",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "5da0c3a5-59c7-462a-86bb-fbd2b33968c4",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Williams (McDonald's)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Williams, AZ",
+                "postalCode": "86023",
+                "streetAddress": "805 N Grand Canyon Blvd"
+            },
+            "latitude": 35.257088,
+            "longitude": -112.192041
+        }
+    ]
+}

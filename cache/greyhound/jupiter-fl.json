@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 54871,
+    "language": "en-gl",
+    "location": {
+        "lat": 26.934225,
+        "lon": -80.09421
+    },
+    "name": "Jupiter, FL",
+    "search_volume": 900,
+    "slug": "jupiter-fl",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "7dd4dec3-f074-403e-8332-aa4b022532d8",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Jupiter (Shell)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Jupiter, FL",
+                "postalCode": "33458",
+                "streetAddress": "6812 Indiantown Rd"
+            },
+            "latitude": 26.933679,
+            "longitude": -80.140039
+        }
+    ]
+}

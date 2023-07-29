@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 51971,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.57786,
+        "lon": -101.85516
+    },
+    "name": "Lubbock, TX",
+    "search_volume": 23500,
+    "slug": "lubbock-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "66b64421-7c42-45a3-ac79-7f8b7545c1d9",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Lubbock (Citibus)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Lubbock, TX",
+                "postalCode": "79401",
+                "streetAddress": "801 Broadway"
+            },
+            "latitude": 33.583954,
+            "longitude": -101.843795
+        }
+    ]
+}

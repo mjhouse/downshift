@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 29481,
+    "language": "en-gl",
+    "location": {
+        "lat": 36.80553,
+        "lon": -114.06719
+    },
+    "name": "Mesquite, NV",
+    "search_volume": 400,
+    "slug": "mesquite-nv",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "4a547c31-a22c-43a5-8d4b-1a03757539ba",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Mesquite (Casablanca)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Mesquite, NV",
+                "postalCode": "89027",
+                "streetAddress": "950 W Mesquite Blvd"
+            },
+            "latitude": 36.802022,
+            "longitude": -114.10101
+        }
+    ]
+}

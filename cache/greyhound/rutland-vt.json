@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 60831,
+    "language": "en-gl",
+    "location": {
+        "lat": 43.610622,
+        "lon": -72.9726
+    },
+    "name": "Rutland, VT",
+    "search_volume": 2000,
+    "slug": "rutland-vt",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "f8e4a01a-a7db-4f22-b693-6ced33b6d485",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Rutland (Marble Valley Regional Transit Center)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Rutland, VT",
+                "postalCode": "05701",
+                "streetAddress": "120 West St"
+            },
+            "latitude": 43.607474,
+            "longitude": -72.979213
+        }
+    ]
+}

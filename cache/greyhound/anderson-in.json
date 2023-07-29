@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 107363,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.10532,
+        "lon": -85.68025
+    },
+    "name": "Anderson, IN",
+    "search_volume": 1400,
+    "slug": "anderson-in",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "a713f5e3-86ee-4cd1-b3b5-4e133db17ee5",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Anderson",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Anderson, IN",
+                "postalCode": "46016",
+                "streetAddress": "1220 Jackson St"
+            },
+            "latitude": 40.103615,
+            "longitude": -85.680491
+        }
+    ]
+}

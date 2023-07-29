@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 52041,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.5067,
+        "lon": -90.51514
+    },
+    "name": "Moline, IL",
+    "search_volume": 6900,
+    "slug": "moline-il",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "86b11b8e-9660-489a-a29b-a7424a4bc21b",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Moline (Metrolink)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Moline, IL",
+                "postalCode": "61265",
+                "streetAddress": "1200 River Dr Centre Sta"
+            },
+            "latitude": 41.506855,
+            "longitude": -90.520126
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110563,
+    "language": "en-gl",
+    "location": {
+        "lat": 36.300785,
+        "lon": -119.78291
+    },
+    "name": "Lemoore, CA",
+    "search_volume": 100,
+    "slug": "lemoore-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "8e7f30a2-7dc1-41c4-8a95-dfdd99b7f03f",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Lemoore",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Lemoore, CA",
+                "postalCode": "93245",
+                "streetAddress": "300 E St"
+            },
+            "latitude": 36.3031,
+            "longitude": -119.78483
+        }
+    ]
+}

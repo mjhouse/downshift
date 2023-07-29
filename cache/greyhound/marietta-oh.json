@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 109923,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.41535,
+        "lon": -81.45484
+    },
+    "name": "Marietta, OH",
+    "search_volume": 2100,
+    "slug": "marietta-oh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "91943c1d-cabd-4b31-be48-1ea231e7bb4f",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Marietta",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Marietta, OH",
+                "postalCode": "45750",
+                "streetAddress": "241 Front St"
+            },
+            "latitude": 39.41305,
+            "longitude": -81.455482
+        }
+    ]
+}

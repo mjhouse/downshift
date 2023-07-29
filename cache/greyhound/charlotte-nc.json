@@ -1,0 +1,63 @@
+{
+    "country": "US",
+    "id": 39581,
+    "language": "en-gl",
+    "location": {
+        "lat": 35.227085,
+        "lon": -80.843124
+    },
+    "name": "Charlotte, NC",
+    "search_volume": 142800,
+    "slug": "charlotte-nc",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "bc2809c3-0b63-47af-aab0-3cc2efd3b0d8",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Charlotte (Freedom Dr/Ashley Rd)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Charlotte, NC",
+                "postalCode": "28208",
+                "streetAddress": "3301 Freedom Dr"
+            },
+            "latitude": 35.245171,
+            "longitude": -80.895279
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Charlotte (Uptown)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Charlotte, NC",
+                "postalCode": "28202",
+                "streetAddress": "419 E 7th St"
+            },
+            "latitude": 35.226466,
+            "longitude": -80.835995
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Charlotte Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Charlotte, NC",
+                "postalCode": "28202",
+                "streetAddress": "518 W 4Th St"
+            },
+            "latitude": 35.230519,
+            "longitude": -80.848717
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "country": "US",
+    "id": 54301,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.739235,
+        "lon": -104.99025
+    },
+    "name": "Denver, CO",
+    "search_volume": 104700,
+    "slug": "denver-co",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "e39e6d48-a9da-49fb-8a87-f1fe4b05a12f",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Denver (Union Station)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Denver, CO",
+                "postalCode": "80202",
+                "streetAddress": "1700 Wewatta St"
+            },
+            "latitude": 39.75392,
+            "longitude": -105.00111
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Denver Rtd Sta (E)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Denver, CO",
+                "postalCode": "80219",
+                "streetAddress": "4300 E Colorado Ctr Dr"
+            },
+            "latitude": 39.679674,
+            "longitude": -104.937757
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Denver Train Starion (E)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Denver, CO",
+                "postalCode": "80202",
+                "streetAddress": "1701 Wynkoop St-Union Amtrak"
+            },
+            "latitude": 39.753098,
+            "longitude": -105.000107
+        }
+    ]
+}

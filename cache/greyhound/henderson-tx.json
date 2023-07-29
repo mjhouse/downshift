@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69063,
+    "language": "en-gl",
+    "location": {
+        "lat": 32.153217,
+        "lon": -94.79938
+    },
+    "name": "Henderson, TX",
+    "search_volume": 700,
+    "slug": "henderson-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "92886515-dc5d-4810-b999-a327b0856cc4",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Henderson (Fsk Foodmart)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Henderson, TX",
+                "postalCode": "75652",
+                "streetAddress": "1113 US 79N"
+            },
+            "latitude": 32.164426,
+            "longitude": -94.786082
+        }
+    ]
+}

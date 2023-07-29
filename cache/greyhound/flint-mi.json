@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 108713,
+    "language": "en-gl",
+    "location": {
+        "lat": 43.012527,
+        "lon": -83.687454
+    },
+    "name": "Flint, MI",
+    "search_volume": 15700,
+    "slug": "flint-mi",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "94f35f52-61f5-45fc-b70e-61f05af31c24",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Flint-Auburn Hills",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Flint, MI",
+                "postalCode": "48326",
+                "streetAddress": "4000 Baldwin Rd"
+            },
+            "latitude": 42.70184,
+            "longitude": -83.30373
+        }
+    ]
+}

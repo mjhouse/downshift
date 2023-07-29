@@ -1,0 +1,63 @@
+{
+    "country": "US",
+    "id": 27461,
+    "language": "en-gl",
+    "location": {
+        "lat": 31.761877,
+        "lon": -106.48502
+    },
+    "name": "El Paso, TX",
+    "search_volume": 84100,
+    "slug": "el-paso-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "d2250517-156d-4e98-9db4-195b8455b985",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "El Paso (Paisano Dr)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "El Paso, TX",
+                "postalCode": "79901",
+                "streetAddress": "212-214 W Paisano Dr"
+            },
+            "latitude": 31.754477,
+            "longitude": -106.490139
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "El Paso Bus Station (W San Antonio St)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "El Paso, TX",
+                "postalCode": "79901",
+                "streetAddress": "200 W San Antonio St"
+            },
+            "latitude": 31.7567482,
+            "longitude": -106.4901505
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "El Paso East (Alameda Ave)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "El Paso, TX",
+                "postalCode": "79915",
+                "streetAddress": "8015 Alameda Ave"
+            },
+            "latitude": 31.724493,
+            "longitude": -106.356295
+        }
+    ]
+}

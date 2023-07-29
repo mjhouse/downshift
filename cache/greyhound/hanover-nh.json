@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 67423,
+    "language": "en-gl",
+    "location": {
+        "lat": 43.702244,
+        "lon": -72.28955
+    },
+    "name": "Hanover, NH",
+    "search_volume": 3800,
+    "slug": "hanover-nh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "6b1dd03e-accf-4ccb-8c97-08a86166bf71",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Hanover (Hanover Inn)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Hanover, NH",
+                "postalCode": "03755",
+                "streetAddress": "3 S Main St"
+            },
+            "latitude": 43.702215,
+            "longitude": -72.28915
+        }
+    ]
+}

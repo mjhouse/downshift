@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 30161,
+    "language": "en-gl",
+    "location": {
+        "lat": 31.549334,
+        "lon": -97.14667
+    },
+    "name": "Waco, TX",
+    "search_volume": 23100,
+    "slug": "waco-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "e01c762f-de5c-4e93-a50e-a83d74c10ab1",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Waco",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Waco, TX",
+                "postalCode": "76707",
+                "streetAddress": "1020 S 5th St"
+            },
+            "latitude": 31.549433,
+            "longitude": -97.122895
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Waco Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Waco, TX",
+                "postalCode": "76701",
+                "streetAddress": "301 S 8Th St"
+            },
+            "latitude": 31.552287,
+            "longitude": -97.132734
+        }
+    ]
+}

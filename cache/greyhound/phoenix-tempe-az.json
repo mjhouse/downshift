@@ -1,0 +1,108 @@
+{
+    "country": "US",
+    "id": 20218,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.448376,
+        "lon": -112.074036
+    },
+    "name": "Phoenix-Tempe, AZ",
+    "search_volume": 236600,
+    "slug": "phoenix-tempe-az",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "1225fb13-2255-4263-a50f-08d088678438",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Phoenix Sky Harbor Airport/44th Street Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Phoenix-Tempe, AZ",
+                "postalCode": "85034",
+                "streetAddress": "44th Street PHX Sky Train Station"
+            },
+            "latitude": 33.447222,
+            "longitude": -111.99089
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Tempe (University Dr/Rural Rd)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Phoenix-Tempe, AZ",
+                "postalCode": "85281",
+                "streetAddress": "872 S Rural Rd"
+            },
+            "latitude": 33.4206925546237,
+            "longitude": -111.92728459733189
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Phoenix Glendale (59th Ave / W. Hayward)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Phoenix-Tempe, AZ",
+                "postalCode": "85301",
+                "streetAddress": "N 59th Ave and W Hayward Ave"
+            },
+            "latitude": 33.550667,
+            "longitude": -112.186056
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Glendale Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Phoenix-Tempe, AZ",
+                "postalCode": "85051",
+                "streetAddress": "2647 W Glendale Ave"
+            },
+            "latitude": 33.538261,
+            "longitude": -112.11558
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Phoenix Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Phoenix-Tempe, AZ",
+                "postalCode": "85034",
+                "streetAddress": "2115 E Buckeye Rd"
+            },
+            "latitude": 33.435899,
+            "longitude": -112.035612
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Phoenix Sky Harbor Airport/44th Street Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Phoenix-Tempe, AZ",
+                "postalCode": "85034",
+                "streetAddress": "44th Street PHX Sky Train Station"
+            },
+            "latitude": 33.447222,
+            "longitude": -111.99089
+        }
+    ]
+}

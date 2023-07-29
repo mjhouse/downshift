@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106363,
+    "language": "en-gl",
+    "location": {
+        "lat": 46.28352,
+        "lon": -96.07779
+    },
+    "name": "Fergus Falls, MN",
+    "search_volume": 700,
+    "slug": "fergus-falls-mn",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "6a183aa2-3277-4909-9e75-30cd822ffe6a",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Fergus Falls",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Fergus Falls, MN",
+                "postalCode": "56537",
+                "streetAddress": "2000 College Way"
+            },
+            "latitude": 46.28979,
+            "longitude": -96.10908
+        }
+    ]
+}

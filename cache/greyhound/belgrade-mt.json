@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106863,
+    "language": "en-gl",
+    "location": {
+        "lat": 45.776245,
+        "lon": -111.17709
+    },
+    "name": "Belgrade, MT",
+    "search_volume": 3800,
+    "slug": "belgrade-mt",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "f93b07e8-2135-4fca-a9cb-3a72d74d3699",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Bozeman",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Belgrade, MT",
+                "postalCode": "59715",
+                "streetAddress": "1500 N 7Th Ave"
+            },
+            "latitude": 45.694542,
+            "longitude": -111.042127
+        }
+    ]
+}

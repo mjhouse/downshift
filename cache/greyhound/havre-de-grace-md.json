@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 54741,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.54928,
+        "lon": -76.09161
+    },
+    "name": "Havre De Grace, MD",
+    "search_volume": 500,
+    "slug": "havre-de-grace-md",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "083fdff2-bd2e-4ea9-83b0-03f074691f38",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Havre De Grace (7 Eleven Aayan Inc)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Havre De Grace, MD",
+                "postalCode": "21078",
+                "streetAddress": "911 Ontario St"
+            },
+            "latitude": 39.554301,
+            "longitude": -76.101835
+        }
+    ]
+}

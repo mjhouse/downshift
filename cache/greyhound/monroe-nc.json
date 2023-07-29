@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 55271,
+    "language": "en-gl",
+    "location": {
+        "lat": 34.985428,
+        "lon": -80.549515
+    },
+    "name": "Monroe, NC",
+    "search_volume": 700,
+    "slug": "monroe-nc",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "87922f78-ad5e-413d-bf3f-8a30fd54c489",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Monroe (A&G Express)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Monroe, NC",
+                "postalCode": "28110",
+                "streetAddress": "2451 W Roosevelt Blvd"
+            },
+            "latitude": 35.01195,
+            "longitude": -80.5676
+        }
+    ]
+}

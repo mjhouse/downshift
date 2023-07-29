@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 55001,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.311367,
+        "lon": -105.5911
+    },
+    "name": "Laramie, WY",
+    "search_volume": 1700,
+    "slug": "laramie-wy",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "47a979fb-d79e-4e48-842b-afe16de1e638",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Laramie, WY",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Laramie, WY",
+                "postalCode": "82070",
+                "streetAddress": "1855 W Curtis St"
+            },
+            "latitude": 41.328301,
+            "longitude": -105.619213
+        }
+    ]
+}

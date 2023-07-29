@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 54821,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.06387,
+        "lon": -108.55065
+    },
+    "name": "Grand Junction, CO",
+    "search_volume": 6900,
+    "slug": "grand-junction-co",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "1f4b28d6-7187-42f5-8a33-494964e49ce9",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Grand Jct Bustang",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Grand Junction, CO",
+                "postalCode": "81506",
+                "streetAddress": "2828 Walker Field Dr"
+            },
+            "latitude": 39.122412,
+            "longitude": -108.530126
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 59181,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.12448,
+        "lon": -87.63002
+    },
+    "name": "Danville, IL",
+    "search_volume": 1800,
+    "slug": "danville-il",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "1e3d4237-e715-47f8-8e23-742dbcefed97",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Danville",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Danville, IL",
+                "postalCode": "61832",
+                "streetAddress": "379 Lynch Rd"
+            },
+            "latitude": 40.140758,
+            "longitude": -87.554733
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Danville Mass Transit Hub",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Danville, IL",
+                "postalCode": "61832",
+                "streetAddress": "101 N Hazel St"
+            },
+            "latitude": 40.127274,
+            "longitude": -87.628474
+        }
+    ]
+}

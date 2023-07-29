@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 111443,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.621456,
+        "lon": -79.152534
+    },
+    "name": "Indiana, PA",
+    "search_volume": 1600,
+    "slug": "indiana-pa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "2a0ba11c-070e-4135-aae4-7f2a0f1ca07d",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Indiana",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Indiana, PA",
+                "postalCode": "15705",
+                "streetAddress": "711 Pratt Dr-Bus Stop"
+            },
+            "latitude": 40.613089,
+            "longitude": -79.160069
+        }
+    ]
+}

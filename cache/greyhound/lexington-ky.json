@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 51921,
+    "language": "en-gl",
+    "location": {
+        "lat": 38.040585,
+        "lon": -84.503716
+    },
+    "name": "Lexington, KY",
+    "search_volume": 25200,
+    "slug": "lexington-ky",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "6269b9dd-04ed-4d9c-82fd-b5050bea8ec2",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Lexington (Wjw Investments)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Lexington, KY",
+                "postalCode": "40511",
+                "streetAddress": "477 W New Circle Rd Nw"
+            },
+            "latitude": 38.072357,
+            "longitude": -84.478905
+        }
+    ]
+}

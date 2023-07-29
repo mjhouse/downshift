@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 36211,
+    "language": "en-gl",
+    "location": {
+        "lat": 32.35036,
+        "lon": -108.708664
+    },
+    "name": "Lordsburg, NM",
+    "search_volume": 1600,
+    "slug": "lordsburg-nm",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "9243aa50-4650-4912-8358-38a9b5b5572f",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Lordsburg",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Lordsburg, NM",
+                "postalCode": "88045",
+                "streetAddress": "900 W Motel Dr"
+            },
+            "latitude": 32.353227,
+            "longitude": -108.736847
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Lordsburg (McDonald's)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Lordsburg, NM",
+                "postalCode": "88045",
+                "streetAddress": "112 Wabash St"
+            },
+            "latitude": 32.343742,
+            "longitude": -108.713229
+        }
+    ]
+}

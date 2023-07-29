@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 109993,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.05812,
+        "lon": -82.40127
+    },
+    "name": "Newark, OH",
+    "search_volume": 1000,
+    "slug": "newark-oh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "5c224472-e29a-4000-8d5c-85130cadc215",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Newark",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Newark, OH",
+                "postalCode": "43055",
+                "streetAddress": "900 University Dr"
+            },
+            "latitude": 40.070523,
+            "longitude": -82.444745
+        }
+    ]
+}

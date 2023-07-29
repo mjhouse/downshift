@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 20738,
+    "language": "en-gl",
+    "location": {
+        "lat": 32.792,
+        "lon": -115.56305
+    },
+    "name": "El Centro, CA",
+    "search_volume": 9900,
+    "slug": "el-centro-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "1f3fab41-69c7-4a9d-a951-ae917f6aec25",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "El Centro Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "El Centro, CA",
+                "postalCode": "92243",
+                "streetAddress": "139 S 7Th St"
+            },
+            "latitude": 32.791091,
+            "longitude": -115.558704
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 107353,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.19338,
+        "lon": -85.38636
+    },
+    "name": "Muncie, IN",
+    "search_volume": 3100,
+    "slug": "muncie-in",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "462853c6-c1e1-4f07-a7e4-8ddc1814eb04",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Muncie",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Muncie, IN",
+                "postalCode": "47305",
+                "streetAddress": "113 W Main St"
+            },
+            "latitude": 40.1934,
+            "longitude": -85.3874
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Muncie (Ball State University)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Muncie, IN",
+                "postalCode": "47306",
+                "streetAddress": "Corner Of W Univ & Talley"
+            },
+            "latitude": 40.1972236,
+            "longitude": -85.4102554
+        }
+    ]
+}

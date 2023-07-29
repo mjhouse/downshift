@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 39871,
+    "language": "en-gl",
+    "location": {
+        "lat": 27.336435,
+        "lon": -82.530655
+    },
+    "name": "Sarasota, FL",
+    "search_volume": 32100,
+    "slug": "sarasota-fl",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "60779092-e087-4e68-a8d3-587fa6e4232d",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Sarasota Cattlemen Transfer Center",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Sarasota, FL",
+                "postalCode": "34232",
+                "streetAddress": "5951 Porter Way"
+            },
+            "latitude": 27.322375,
+            "longitude": -82.450819
+        }
+    ]
+}

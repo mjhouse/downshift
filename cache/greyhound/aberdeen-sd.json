@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106673,
+    "language": "en-gl",
+    "location": {
+        "lat": 45.4647,
+        "lon": -98.48648
+    },
+    "name": "Aberdeen, SD",
+    "search_volume": 1500,
+    "slug": "aberdeen-sd",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "2aa572a8-0182-4f74-a1af-d56c1600c94b",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Aberdeen",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Aberdeen, SD",
+                "postalCode": "57401",
+                "streetAddress": "205 4Th St"
+            },
+            "latitude": 45.468252,
+            "longitude": -98.493844
+        }
+    ]
+}

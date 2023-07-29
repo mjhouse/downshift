@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 54001,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.51859,
+        "lon": -86.810356
+    },
+    "name": "Birmingham, AL",
+    "search_volume": 55100,
+    "slug": "birmingham-al",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "d8bfc4f7-cc12-477d-b769-02cd505cf654",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Birmingham (Express Carriers)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Birmingham, AL",
+                "postalCode": "35203",
+                "streetAddress": "1801 Morris Ave"
+            },
+            "latitude": 33.51246,
+            "longitude": -86.808085
+        }
+    ]
+}

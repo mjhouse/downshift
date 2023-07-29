@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 39851,
+    "language": "en-gl",
+    "location": {
+        "lat": 28.039465,
+        "lon": -81.94981
+    },
+    "name": "Lakeland, FL",
+    "search_volume": 15500,
+    "slug": "lakeland-fl",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "eae422b6-132d-41b6-b456-2e92563d9200",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Gow B Fields Park and Ride",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Lakeland, FL",
+                "postalCode": "33805",
+                "streetAddress": "924 W Robson St"
+            },
+            "latitude": 28.083818,
+            "longitude": -81.968313
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Lakeland",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Lakeland, FL",
+                "postalCode": "33805",
+                "streetAddress": "US-98 & Pyramid Pkwy"
+            },
+            "latitude": 28.083924,
+            "longitude": -81.96842
+        }
+    ]
+}

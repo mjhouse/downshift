@@ -1,0 +1,93 @@
+{
+    "country": "US",
+    "id": 26951,
+    "language": "en-gl",
+    "location": {
+        "lat": 32.776665,
+        "lon": -96.79699
+    },
+    "name": "Dallas, TX",
+    "search_volume": 380400,
+    "slug": "dallas-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "54f13a66-59ee-41d4-b017-e4240add0403",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Dallas Market Center",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Dallas, TX",
+                "postalCode": "75219",
+                "streetAddress": "4500 Harry Hines Blvd"
+            },
+            "latitude": 32.807023,
+            "longitude": -96.829387
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Downtown Dallas / Deep Ellum",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Dallas, TX",
+                "postalCode": "75204",
+                "streetAddress": "2424 Swiss Ave"
+            },
+            "latitude": 32.784989,
+            "longitude": -96.79006
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Dallas/Fort Worth International Airport",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Dallas, TX",
+                "postalCode": "75261",
+                "streetAddress": "Crossunder #2"
+            },
+            "latitude": 32.908111,
+            "longitude": -97.040472
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Richardson",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Dallas, TX",
+                "postalCode": "75080",
+                "streetAddress": "507 W Belt Line Rd"
+            },
+            "latitude": 32.950517,
+            "longitude": -96.736319
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Dallas Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Dallas, TX",
+                "postalCode": "75202",
+                "streetAddress": "205 S Lamar St"
+            },
+            "latitude": 32.77837,
+            "longitude": -96.80426
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 113523,
+    "language": "en-gl",
+    "location": {
+        "lat": 34.51337,
+        "lon": -110.078445
+    },
+    "name": "Snowflake, AZ",
+    "search_volume": 100,
+    "slug": "snowflake-az",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "e9841fc2-9a11-4647-bcb4-b4c1c5e5633c",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "SNOWFLAKE NPC",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Snowflake, AZ",
+                "postalCode": "85937",
+                "streetAddress": "1611 S MAIN ST"
+            },
+            "latitude": 34.488061,
+            "longitude": -110.081619
+        }
+    ]
+}

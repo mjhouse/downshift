@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 53911,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.92557,
+        "lon": -116.87641
+    },
+    "name": "Banning, CA",
+    "search_volume": 2600,
+    "slug": "banning-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "f4621add-876a-49ad-883c-0d06d2597b65",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Banning Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Banning, CA",
+                "postalCode": "92220",
+                "streetAddress": "522 W Ramsey"
+            },
+            "latitude": 33.9254,
+            "longitude": -116.882448
+        }
+    ]
+}

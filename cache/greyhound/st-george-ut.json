@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 20458,
+    "language": "en-gl",
+    "location": {
+        "lat": 37.096527,
+        "lon": -113.56841
+    },
+    "name": "St. George, UT",
+    "search_volume": 8000,
+    "slug": "st-george-ut",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "741174ef-0933-4851-bb1f-7c2392ff0888",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "St. George (Ramada Hotel)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "St. George, UT",
+                "postalCode": "84790",
+                "streetAddress": "1440 E St George Blvd"
+            },
+            "latitude": 37.10972045201615,
+            "longitude": -113.55345789394553
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "St. George, Bluff/900 S (Salt Lake Express)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "St. George, UT",
+                "postalCode": "84770",
+                "streetAddress": "805 S Bluff St"
+            },
+            "latitude": 37.093662,
+            "longitude": -113.58435
+        }
+    ]
+}

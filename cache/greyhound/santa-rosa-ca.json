@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 20468,
+    "language": "en-gl",
+    "location": {
+        "lat": 38.44043,
+        "lon": -122.71406
+    },
+    "name": "Santa Rosa, CA",
+    "search_volume": 5800,
+    "slug": "santa-rosa-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "390d2df1-dd3b-4ce9-9513-8836d1d28ec2",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Santa Rosa Transit Center",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Santa Rosa, CA",
+                "postalCode": "95401",
+                "streetAddress": "555 1St St"
+            },
+            "latitude": 38.438376,
+            "longitude": -122.713675
+        }
+    ]
+}

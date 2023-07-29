@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 48051,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.916405,
+        "lon": -118.35258
+    },
+    "name": "Hawthorne, NV",
+    "search_volume": 600,
+    "slug": "hawthorne-nv",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "30c6e347-4117-4174-b487-2192eda7339a",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Hawthorne (El Capitan Casino)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Hawthorne, NV",
+                "postalCode": "89415",
+                "streetAddress": "540 F Street"
+            },
+            "latitude": 38.52539,
+            "longitude": -118.62344
+        }
+    ]
+}

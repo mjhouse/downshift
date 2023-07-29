@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69943,
+    "language": "en-gl",
+    "location": {
+        "lat": 36.90336,
+        "lon": -104.439156
+    },
+    "name": "Raton, NM",
+    "search_volume": 1000,
+    "slug": "raton-nm",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "4d2614bc-6b17-4b37-be9a-86da990db7d7",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Raton (Amtrak Station)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Raton, NM",
+                "postalCode": "87740",
+                "streetAddress": "201 S First St"
+            },
+            "latitude": 36.900986,
+            "longitude": -104.438423
+        }
+    ]
+}

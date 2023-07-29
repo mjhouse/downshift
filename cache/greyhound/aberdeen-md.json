@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 68243,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.509556,
+        "lon": -76.164116
+    },
+    "name": "Aberdeen, MD",
+    "search_volume": 1500,
+    "slug": "aberdeen-md",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "f9aacfc5-0dd6-45fb-a8fc-8be35201d577",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Aberdeen Marc Train Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Aberdeen, MD",
+                "postalCode": "21001",
+                "streetAddress": "18 E Bel Air Ave"
+            },
+            "latitude": 39.509583,
+            "longitude": -76.164524
+        }
+    ]
+}

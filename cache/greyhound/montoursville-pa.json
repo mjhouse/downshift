@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 117723,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.254246,
+        "lon": -76.92052
+    },
+    "name": "Montoursville, PA",
+    "search_volume": 100,
+    "slug": "montoursville-pa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "46eab43d-b478-4ec8-add0-d6e7ef2ab199",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Montoursville",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Montoursville, PA",
+                "postalCode": "17754",
+                "streetAddress": "500 Airport Road"
+            },
+            "latitude": 41.24563,
+            "longitude": -76.92192
+        }
+    ]
+}

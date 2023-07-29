@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106503,
+    "language": "en-gl",
+    "location": {
+        "lat": 45.011646,
+        "lon": -99.95567
+    },
+    "name": "Gettysburg, SD",
+    "search_volume": 200,
+    "slug": "gettysburg-sd",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "9b0006bc-70ff-418d-8a55-34dca015e0fa",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Gettysburg",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Gettysburg, SD",
+                "postalCode": "57442",
+                "streetAddress": "106 E Garfield Ave"
+            },
+            "latitude": 45.01336,
+            "longitude": -99.95525
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 54051,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.850914,
+        "lon": -72.55787
+    },
+    "name": "Brattleboro, VT",
+    "search_volume": 2200,
+    "slug": "brattleboro-vt",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "dfbd35fe-6a37-4582-8438-bc083608dc54",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Brattleboro (Shell Gas Station)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Brattleboro, VT",
+                "postalCode": "05301",
+                "streetAddress": "429 Canal St"
+            },
+            "latitude": 42.840377,
+            "longitude": -72.564743
+        }
+    ]
+}

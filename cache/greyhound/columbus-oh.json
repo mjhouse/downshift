@@ -1,0 +1,93 @@
+{
+    "country": "US",
+    "id": 36391,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.961174,
+        "lon": -82.998795
+    },
+    "name": "Columbus, OH",
+    "search_volume": 139100,
+    "slug": "columbus-oh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "889b5724-2551-4acc-9324-dff5dc351120",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Columbus (Airport)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Columbus, OH",
+                "postalCode": "43219",
+                "streetAddress": "4600 International Gateway"
+            },
+            "latitude": 39.9998058,
+            "longitude": -82.883811
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Columbus (Downtown)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Columbus, OH",
+                "postalCode": "43215",
+                "streetAddress": "100 E Rich Street"
+            },
+            "latitude": 39.957899,
+            "longitude": -82.996842
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Columbus (Ohio State University)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Columbus, OH",
+                "postalCode": "43210",
+                "streetAddress": "55 W 12th Ave"
+            },
+            "latitude": 39.996846,
+            "longitude": -83.008743
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Columbus (Ohio State)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Columbus, OH",
+                "postalCode": "43210",
+                "streetAddress": "1739 High St"
+            },
+            "latitude": 39.997879,
+            "longitude": -83.00772
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Columbus, OH (Bus Station)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Columbus, OH",
+                "postalCode": "43204",
+                "streetAddress": "845 N Wilson Rd"
+            },
+            "latitude": 39.97068,
+            "longitude": -83.09795
+        }
+    ]
+}

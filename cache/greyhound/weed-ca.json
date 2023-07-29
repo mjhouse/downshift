@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 70583,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.42265,
+        "lon": -122.38612
+    },
+    "name": "Weed, CA",
+    "search_volume": 2600,
+    "slug": "weed-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "cbe29eb3-275a-45d5-9de4-1c2e4e1f65d2",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Weed Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Weed, CA",
+                "postalCode": "96094",
+                "streetAddress": "175 E Vista Dr"
+            },
+            "latitude": 41.398251,
+            "longitude": -122.378173
+        }
+    ]
+}

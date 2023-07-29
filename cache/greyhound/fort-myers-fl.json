@@ -1,0 +1,63 @@
+{
+    "country": "US",
+    "id": 39861,
+    "language": "en-gl",
+    "location": {
+        "lat": 26.640629,
+        "lon": -81.87231
+    },
+    "name": "Fort Myers, FL",
+    "search_volume": 55800,
+    "slug": "fort-myers-fl",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "572df618-c462-4f63-b79f-88b7fa588a6d",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Ft Myers Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Fort Myers, FL",
+                "postalCode": "33901",
+                "streetAddress": "2250 Widman Way"
+            },
+            "latitude": 26.639095,
+            "longitude": -81.867209
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Ft Myers Daniels Pkwy",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Fort Myers, FL",
+                "postalCode": "33912",
+                "streetAddress": "13600 Indian Paint Ln"
+            },
+            "latitude": 26.546435,
+            "longitude": -81.800927
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Ft Myers-Cape Coral (Edison Mall)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Fort Myers, FL",
+                "postalCode": "33901",
+                "streetAddress": "4125 Cleveland Ave"
+            },
+            "latitude": 26.600593,
+            "longitude": -81.869193
+        }
+    ]
+}

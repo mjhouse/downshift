@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 111333,
+    "language": "en-gl",
+    "location": {
+        "lat": 43.620792,
+        "lon": -94.9886
+    },
+    "name": "Jackson, MN",
+    "search_volume": 400,
+    "slug": "jackson-mn",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "36a7315b-a1ea-43c0-8fd3-8bd1ac642b31",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Jackson",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Jackson, MN",
+                "postalCode": "56143",
+                "streetAddress": "2001 US Hwy 71 N"
+            },
+            "latitude": 43.641767,
+            "longitude": -94.993896
+        }
+    ]
+}

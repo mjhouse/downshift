@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 68513,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.03118,
+        "lon": -81.588455
+    },
+    "name": "Cambridge, OH",
+    "search_volume": 2400,
+    "slug": "cambridge-oh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "479c55b5-acd2-416b-a271-46b6ce246234",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Cambridge (Marathon Gas Station)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Cambridge, OH",
+                "postalCode": "43725",
+                "streetAddress": "2246 Southgate Pkwy"
+            },
+            "latitude": 40.002735,
+            "longitude": -81.577167
+        }
+    ]
+}

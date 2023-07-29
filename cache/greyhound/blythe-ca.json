@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 22508,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.61777,
+        "lon": -114.588264
+    },
+    "name": "Blythe, CA",
+    "search_volume": 3600,
+    "slug": "blythe-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "51a3b880-36d8-4129-b3be-3fe305667d5d",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Blythe (Rocket Gas)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Blythe, CA",
+                "postalCode": "92225",
+                "streetAddress": "400 S Lovekin Blvd"
+            },
+            "latitude": 33.603934,
+            "longitude": -114.60491
+        }
+    ]
+}

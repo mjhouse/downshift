@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 45791,
+    "language": "en-gl",
+    "location": {
+        "lat": 47.42136,
+        "lon": -120.3072
+    },
+    "name": "Wenatchee, WA",
+    "search_volume": 6400,
+    "slug": "wenatchee-wa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "19791c49-029c-496b-9188-f64cee3c00f3",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Wenatchee (Wenatchee Station)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Wenatchee, WA",
+                "postalCode": "98801",
+                "streetAddress": "300 S Columbia St"
+            },
+            "latitude": 47.421248,
+            "longitude": -120.30717
+        }
+    ]
+}

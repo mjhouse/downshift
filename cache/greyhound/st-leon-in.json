@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 118113,
+    "language": "en-gl",
+    "location": {
+        "lat": 39.291996,
+        "lon": -84.958015
+    },
+    "name": "St. Leon, IN",
+    "search_volume": 200,
+    "slug": "st-leon-in",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "1970b7ea-c08c-46cd-8b0c-326c4edddfc5",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "St. Leon (Shell)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "St. Leon, IN",
+                "postalCode": "47060",
+                "streetAddress": "28205 State Route 1"
+            },
+            "latitude": 39.280575,
+            "longitude": -84.960532
+        }
+    ]
+}

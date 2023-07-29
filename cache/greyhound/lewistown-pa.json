@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 69403,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.59924,
+        "lon": -77.57138
+    },
+    "name": "Lewistown, PA",
+    "search_volume": 800,
+    "slug": "lewistown-pa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "c3d746c5-ab1a-41cd-8e93-878b94d8e371",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Lewistown (The Square Cafe &Bakery)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Lewistown, PA",
+                "postalCode": "17044",
+                "streetAddress": "10 W Market St"
+            },
+            "latitude": 40.597203,
+            "longitude": -77.574507
+        }
+    ]
+}

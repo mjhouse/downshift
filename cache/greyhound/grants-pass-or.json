@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 54651,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.439007,
+        "lon": -123.32839
+    },
+    "name": "Grants Pass, OR",
+    "search_volume": 4300,
+    "slug": "grants-pass-or",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "a9679472-5376-4d60-8458-bf3d185448ac",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Grant's Pass Ann Basker",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Grants Pass, OR",
+                "postalCode": "97526",
+                "streetAddress": "500 Nw 6Th St"
+            },
+            "latitude": 42.442806,
+            "longitude": -123.324479
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Grants Pass (A-1 Market)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Grants Pass, OR",
+                "postalCode": "97526",
+                "streetAddress": "605 Ne 7Th St"
+            },
+            "latitude": 42.442598,
+            "longitude": -123.323307
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 70073,
+    "language": "en-gl",
+    "location": {
+        "lat": 43.216503,
+        "lon": -123.341736
+    },
+    "name": "Roseburg, OR",
+    "search_volume": 5500,
+    "slug": "roseburg-or",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "299520c7-0827-4f30-87b4-a2d6e53c6e8b",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Roseburg (U-Trans)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Roseburg, OR",
+                "postalCode": "97470",
+                "streetAddress": "400-498 Se Rose St"
+            },
+            "latitude": 43.21043,
+            "longitude": -123.344075
+        }
+    ]
+}

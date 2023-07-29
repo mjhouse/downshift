@@ -1,0 +1,108 @@
+{
+    "country": "US",
+    "id": 20208,
+    "language": "en-gl",
+    "location": {
+        "lat": 32.715736,
+        "lon": -117.16109
+    },
+    "name": "San Diego, CA",
+    "search_volume": 196400,
+    "slug": "san-diego-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "11347692-6eb9-4d05-b2b3-234d5b3a5e0e",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "San Diego (Old Town-FlixBus)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "San Diego, CA",
+                "postalCode": "92110",
+                "streetAddress": "2728 Congress St"
+            },
+            "latitude": 32.754186,
+            "longitude": -117.198717
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "San Diego (La Jolla - UC San Diego)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "San Diego, CA",
+                "postalCode": "92093",
+                "streetAddress": "UCSD Health La Jolla Station"
+            },
+            "latitude": 32.881757,
+            "longitude": -117.223695
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "San Diego (Balboa Park)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "San Diego, CA",
+                "postalCode": "92101",
+                "streetAddress": "Pan American Plaza and Presidents Way"
+            },
+            "latitude": 32.728388,
+            "longitude": -117.152372
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "San Diego (Downtown/Seaport Village)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "San Diego, CA",
+                "postalCode": "92101",
+                "streetAddress": "789 W Harbor Dr"
+            },
+            "latitude": 32.711333,
+            "longitude": -117.170306
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "San Diego State University (Hardy Ave)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "San Diego, CA",
+                "postalCode": "92115",
+                "streetAddress": "5716 Hardy Ave"
+            },
+            "latitude": 32.772647,
+            "longitude": -117.072251
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "San Diego Greyhound Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "San Diego, CA",
+                "postalCode": "92110",
+                "streetAddress": "4005 Taylor St"
+            },
+            "latitude": 32.754866,
+            "longitude": -117.198995
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 48201,
+    "language": "en-gl",
+    "location": {
+        "lat": 41.49932,
+        "lon": -81.69436
+    },
+    "name": "Cleveland, OH",
+    "search_volume": 120800,
+    "slug": "cleveland-oh",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "2ce81ba1-3113-4588-8a99-677f02e4ba46",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Cleveland Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Cleveland, OH",
+                "postalCode": "44114",
+                "streetAddress": "1465 Chester Ave"
+            },
+            "latitude": 41.50354,
+            "longitude": -81.682877
+        }
+    ]
+}

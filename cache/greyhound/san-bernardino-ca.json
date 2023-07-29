@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 20378,
+    "language": "en-gl",
+    "location": {
+        "lat": 34.108345,
+        "lon": -117.289764
+    },
+    "name": "San Bernardino, CA",
+    "search_volume": 54300,
+    "slug": "san-bernardino-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "24e9233a-ed49-4fd9-a892-8aa71e748029",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "San Bernardino Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "San Bernardino, CA",
+                "postalCode": "92410",
+                "streetAddress": "1170 W 3rd St"
+            },
+            "latitude": 34.104141,
+            "longitude": -117.31222
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "San Bernardino Downtown Transit Center",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "San Bernardino, CA",
+                "postalCode": "92410",
+                "streetAddress": "559 W Rialto Ave"
+            },
+            "latitude": 34.100784,
+            "longitude": -117.295351
+        }
+    ]
+}

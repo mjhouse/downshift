@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 113373,
+    "language": "en-gl",
+    "location": {
+        "lat": 45.520134,
+        "lon": -122.989815
+    },
+    "name": "Hillsboro, OR",
+    "search_volume": 500,
+    "slug": "hillsboro-or",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "d659117d-7037-447b-b0df-720b0a46e8c3",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "HILLSBORO NW 185 AVE",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Hillsboro, OR",
+                "postalCode": "97124",
+                "streetAddress": "HILLSBORO-TANASBOURNE TOWN CENTER"
+            },
+            "latitude": 45.539521,
+            "longitude": -122.866927
+        }
+    ]
+}

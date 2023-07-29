@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 105903,
+    "language": "en-gl",
+    "location": {
+        "lat": 38.16894,
+        "lon": -86.99
+    },
+    "name": "Dale",
+    "search_volume": 400,
+    "slug": "dale",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "58b43d83-8d94-456a-bd13-71774043859e",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Dale",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Dale",
+                "postalCode": "47523",
+                "streetAddress": "812 N Conner Crt"
+            },
+            "latitude": 38.0167,
+            "longitude": -86.0984
+        }
+    ]
+}

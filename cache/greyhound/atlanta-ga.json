@@ -1,0 +1,78 @@
+{
+    "country": "US",
+    "id": 37261,
+    "language": "en-gl",
+    "location": {
+        "lat": 33.748997,
+        "lon": -84.387985
+    },
+    "name": "Atlanta, GA",
+    "search_volume": 408900,
+    "slug": "atlanta-ga",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "2ff0f50f-381d-4b87-b2c9-9b8fa7795f1c",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Atlanta Downtown (Civic Center)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Atlanta, GA",
+                "postalCode": "30308",
+                "streetAddress": "435 W Peachtree St NW"
+            },
+            "latitude": 33.76667,
+            "longitude": -84.387502
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Atlanta (Peachtree St)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Atlanta, GA",
+                "postalCode": "30303",
+                "streetAddress": "211 Peachtree St"
+            },
+            "latitude": 33.74914561500905,
+            "longitude": -84.39492001185002
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Atlanta Airport",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Atlanta, GA",
+                "postalCode": "30296",
+                "streetAddress": "6000 N Terminal Dr"
+            },
+            "latitude": 33.640833,
+            "longitude": -84.446276
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Atlanta Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Atlanta, GA",
+                "postalCode": "30303",
+                "streetAddress": "232 Forsyth St"
+            },
+            "latitude": 33.748253,
+            "longitude": -84.3965703
+        }
+    ]
+}

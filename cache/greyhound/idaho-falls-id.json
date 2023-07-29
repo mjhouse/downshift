@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 48001,
+    "language": "en-gl",
+    "location": {
+        "lat": 43.49266,
+        "lon": -112.04076
+    },
+    "name": "Idaho Falls, ID",
+    "search_volume": 7700,
+    "slug": "idaho-falls-id",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "9fa39e54-e3d0-4ebe-9fb6-ae8ce1493222",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Idaho Falls (Shaka's Sinclair)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Idaho Falls, ID",
+                "postalCode": "83402",
+                "streetAddress": "1520 Grandview Dr"
+            },
+            "latitude": 43.504596,
+            "longitude": -112.059307
+        }
+    ]
+}

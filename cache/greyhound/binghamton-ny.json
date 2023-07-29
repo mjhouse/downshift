@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 39401,
+    "language": "en-gl",
+    "location": {
+        "lat": 42.098686,
+        "lon": -75.91798
+    },
+    "name": "Binghamton, NY",
+    "search_volume": 48500,
+    "slug": "binghamton-ny",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "f6368de4-a532-4caf-8564-d99e5138e5a7",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Binghamton",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Binghamton, NY",
+                "postalCode": "13901",
+                "streetAddress": "81 Chenango St"
+            },
+            "latitude": 42.101318,
+            "longitude": -75.910378
+        }
+    ]
+}

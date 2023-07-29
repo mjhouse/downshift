@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 51321,
+    "language": "en-gl",
+    "location": {
+        "lat": 38.989697,
+        "lon": -76.93776
+    },
+    "name": "College Park, MD",
+    "search_volume": 1200,
+    "slug": "college-park-md",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "6052e4c2-7251-4f0a-ae48-db479a6b3e6a",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "College Park (Metro)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "College Park, MD",
+                "postalCode": "20742",
+                "streetAddress": "4931 Calvert Rd"
+            },
+            "latitude": 38.978349,
+            "longitude": -76.929078
+        }
+    ]
+}

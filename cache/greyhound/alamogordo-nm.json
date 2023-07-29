@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 53711,
+    "language": "en-gl",
+    "location": {
+        "lat": 32.899532,
+        "lon": -105.960266
+    },
+    "name": "Alamogordo, NM",
+    "search_volume": 1700,
+    "slug": "alamogordo-nm",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "57837ca3-4c99-48ba-8d6a-4d1bf46a7eef",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Alamogordo Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Alamogordo, NM",
+                "postalCode": "88310",
+                "streetAddress": "3500 White Sands Blvd"
+            },
+            "latitude": 32.936013,
+            "longitude": -105.96443
+        }
+    ]
+}

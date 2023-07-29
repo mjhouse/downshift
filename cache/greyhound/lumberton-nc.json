@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 47591,
+    "language": "en-gl",
+    "location": {
+        "lat": 34.61822,
+        "lon": -79.008644
+    },
+    "name": "Lumberton, NC",
+    "search_volume": 4300,
+    "slug": "lumberton-nc",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "3d3a2921-8a5e-4fc2-9c5c-aa552b2aa9d7",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Lumberton Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Lumberton, NC",
+                "postalCode": "28358",
+                "streetAddress": "301 E 2Nd St"
+            },
+            "latitude": 34.61808,
+            "longitude": -79.005875
+        }
+    ]
+}

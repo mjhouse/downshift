@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 70533,
+    "language": "en-gl",
+    "location": {
+        "lat": 44.55201,
+        "lon": -69.631714
+    },
+    "name": "Waterville, ME",
+    "search_volume": 3000,
+    "slug": "waterville-me",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "9c18f2da-eaa2-41c5-bbfd-41be13a6dd66",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Waterville (J & S Oil)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Waterville, ME",
+                "postalCode": "04901",
+                "streetAddress": "320 Kennedy Memorial Dr"
+            },
+            "latitude": 44.54343,
+            "longitude": -69.6714
+        }
+    ]
+}

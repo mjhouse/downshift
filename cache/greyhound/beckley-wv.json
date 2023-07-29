@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 53961,
+    "language": "en-gl",
+    "location": {
+        "lat": 37.77817,
+        "lon": -81.188156
+    },
+    "name": "Beckley, WV",
+    "search_volume": 8900,
+    "slug": "beckley-wv",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "07ac03e2-ec49-415b-8e12-a2b762afd8fb",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Beckley (Intermodal Parking Garage)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Beckley, WV",
+                "postalCode": "25801",
+                "streetAddress": "360 Prince St"
+            },
+            "latitude": 37.776487,
+            "longitude": -81.192964
+        }
+    ]
+}

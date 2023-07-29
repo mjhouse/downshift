@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106663,
+    "language": "en-gl",
+    "location": {
+        "lat": 45.44746,
+        "lon": -98.09871
+    },
+    "name": "Groton, SD",
+    "search_volume": 100,
+    "slug": "groton-sd",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "86068757-727f-4a94-81bd-e9fb635ee128",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Groton",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Groton, SD",
+                "postalCode": "57445",
+                "streetAddress": "105 US Hwy 12"
+            },
+            "latitude": 45.458209,
+            "longitude": -98.101248
+        }
+    ]
+}

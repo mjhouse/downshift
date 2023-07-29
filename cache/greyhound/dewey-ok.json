@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106813,
+    "language": "en-gl",
+    "location": {
+        "lat": 36.795918,
+        "lon": -95.93554
+    },
+    "name": "Dewey, OK",
+    "search_volume": 1600,
+    "slug": "dewey-ok",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "78d20197-5c17-43c9-b694-d55c5731b61b",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Bartlesville",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Dewey, OK",
+                "postalCode": "74029",
+                "streetAddress": "2390 North Osage"
+            },
+            "latitude": 36.814816,
+            "longitude": -95.935324
+        }
+    ]
+}

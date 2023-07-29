@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 47811,
+    "language": "en-gl",
+    "location": {
+        "lat": 37.484795,
+        "lon": -122.22814
+    },
+    "name": "Redwood City, CA",
+    "search_volume": 4700,
+    "slug": "redwood-city-ca",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "51445ec5-6825-48aa-b708-63622b2c349f",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Redwood City Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Redwood City, CA",
+                "postalCode": "94063",
+                "streetAddress": "820 Winslow Street"
+            },
+            "latitude": 37.485694,
+            "longitude": -122.230988
+        }
+    ]
+}

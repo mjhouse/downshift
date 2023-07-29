@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 53881,
+    "language": "en-gl",
+    "location": {
+        "lat": 27.595867,
+        "lon": -81.50619
+    },
+    "name": "Avon Park, FL",
+    "search_volume": 400,
+    "slug": "avon-park-fl",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "5a8786a2-a1f7-4699-92f4-5388a11c283a",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Avon Park (Murphy Express)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Avon Park, FL",
+                "postalCode": "33825",
+                "streetAddress": "993 US Hwy 27"
+            },
+            "latitude": 27.606064,
+            "longitude": -81.515196
+        }
+    ]
+}

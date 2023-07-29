@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 106453,
+    "language": "en-gl",
+    "location": {
+        "lat": 45.783287,
+        "lon": -108.50069
+    },
+    "name": "Billings, MT",
+    "search_volume": 10000,
+    "slug": "billings-mt",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "5028f32c-eb71-4712-a68e-393f1e800bb5",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Arlee",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Billings, MT",
+                "postalCode": "59821",
+                "streetAddress": "92345 Hwy 93"
+            },
+            "latitude": 47.163456,
+            "longitude": -114.086806
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Billings",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Billings, MT",
+                "postalCode": "59101",
+                "streetAddress": "1830 4Th Ave North"
+            },
+            "latitude": 45.790222,
+            "longitude": -108.496266
+        }
+    ]
+}

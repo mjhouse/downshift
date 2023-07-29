@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 55051,
+    "language": "en-gl",
+    "location": {
+        "lat": 38.97167,
+        "lon": -95.23525
+    },
+    "name": "Lawrence, KS",
+    "search_volume": 4800,
+    "slug": "lawrence-ks",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "5d4e4d09-d86c-4f8d-9d1b-82f906d47a52",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Lawrence Bus Stop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Lawrence, KS",
+                "postalCode": "66044",
+                "streetAddress": "707 Vermont St"
+            },
+            "latitude": 38.970791,
+            "longitude": -95.237251
+        }
+    ]
+}

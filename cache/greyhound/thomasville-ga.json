@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 70353,
+    "language": "en-gl",
+    "location": {
+        "lat": 30.836582,
+        "lon": -83.97878
+    },
+    "name": "Thomasville, GA",
+    "search_volume": 3900,
+    "slug": "thomasville-ga",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "56192a01-6c34-44ec-8a59-f5a0f48fd608",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Thomasville Travel Center",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Thomasville, GA",
+                "postalCode": "31792",
+                "streetAddress": "2685 US 84 Bypass"
+            },
+            "latitude": 30.870001,
+            "longitude": -83.999275
+        }
+    ]
+}

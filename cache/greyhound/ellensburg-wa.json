@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 36551,
+    "language": "en-gl",
+    "location": {
+        "lat": 46.996513,
+        "lon": -120.547844
+    },
+    "name": "Ellensburg, WA",
+    "search_volume": 8100,
+    "slug": "ellensburg-wa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "ea9f78fd-ccfa-4ee0-9f08-2df979746e9c",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Ellensburg (Central Washington University)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Ellensburg, WA",
+                "postalCode": "98926",
+                "streetAddress": "900 E 10th Ave"
+            },
+            "latitude": 47.002072,
+            "longitude": -120.534764
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Ellensburg Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Ellensburg, WA",
+                "postalCode": "98926",
+                "streetAddress": "1512 Hwy 97"
+            },
+            "latitude": 47.007486,
+            "longitude": -120.586343
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 111063,
+    "language": "en-gl",
+    "location": {
+        "lat": 37.410885,
+        "lon": -94.70496
+    },
+    "name": "Pittsburg, KS",
+    "search_volume": 1000,
+    "slug": "pittsburg-ks",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "7ce404b2-c741-4bf1-b9b7-86cd5d44e344",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Pittsburg",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Pittsburg, KS",
+                "postalCode": "66762",
+                "streetAddress": "4002 N Broadway"
+            },
+            "latitude": 37.44118,
+            "longitude": -94.704583
+        }
+    ]
+}

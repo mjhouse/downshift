@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 36561,
+    "language": "en-gl",
+    "location": {
+        "lat": 47.978985,
+        "lon": -122.20208
+    },
+    "name": "Everett, WA",
+    "search_volume": 14300,
+    "slug": "everett-wa",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "2551ad13-f6e4-434a-a6b4-91841371b6aa",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Everett",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Everett, WA",
+                "postalCode": "98201",
+                "streetAddress": "3201 Smith Ave"
+            },
+            "latitude": 47.974986,
+            "longitude": -122.198314
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "EVERETT (E)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Everett, WA",
+                "postalCode": "98201",
+                "streetAddress": "3201 Smith Ave Ste 103"
+            },
+            "latitude": 47.975513,
+            "longitude": -122.19785
+        }
+    ]
+}

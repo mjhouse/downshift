@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 54941,
+    "language": "en-gl",
+    "location": {
+        "lat": 45.324577,
+        "lon": -118.087715
+    },
+    "name": "La Grande, OR",
+    "search_volume": 2000,
+    "slug": "la-grande-or",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "0fa28389-a699-4b3c-80bc-4eb06bb591fd",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "La Grande Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "La Grande, OR",
+                "postalCode": "97850",
+                "streetAddress": "2204 E Penn Ave"
+            },
+            "latitude": 45.326774,
+            "longitude": -118.077638
+        }
+    ]
+}

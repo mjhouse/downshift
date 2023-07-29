@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 110333,
+    "language": "en-gl",
+    "location": {
+        "lat": 43.19047,
+        "lon": -112.34498
+    },
+    "name": "Blackfoot, ID",
+    "search_volume": 1800,
+    "slug": "blackfoot-id",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "c2d75ffe-0b3c-4b4f-aade-fc984a75d81f",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Blackfoot",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Blackfoot, ID",
+                "postalCode": "83221",
+                "streetAddress": "1295 Parkway Dr"
+            },
+            "latitude": 43.19684,
+            "longitude": -112.361905
+        }
+    ]
+}

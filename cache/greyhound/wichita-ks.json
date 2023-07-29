@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 52631,
+    "language": "en-gl",
+    "location": {
+        "lat": 37.687176,
+        "lon": -97.330055
+    },
+    "name": "Wichita, KS",
+    "search_volume": 25300,
+    "slug": "wichita-ks",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "8b20ae0f-d8bc-48ab-9b98-8e9877906895",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Wichita (D & L Enterprises)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Wichita, KS",
+                "postalCode": "67202",
+                "streetAddress": "214 S Topeka St"
+            },
+            "latitude": 37.684528,
+            "longitude": -97.333839
+        }
+    ]
+}

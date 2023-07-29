@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 106073,
+    "language": "en-gl",
+    "location": {
+        "lat": 40.69365,
+        "lon": -89.58899
+    },
+    "name": "Peoria, IL",
+    "search_volume": 9300,
+    "slug": "peoria-il",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "4fe2d77d-6c30-4821-9d81-ad1d832f2f4e",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Peoria",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Peoria, IL",
+                "postalCode": "61602",
+                "streetAddress": "407 Sw Adams"
+            },
+            "latitude": 40.689297,
+            "longitude": -89.594376
+        }
+    ]
+}

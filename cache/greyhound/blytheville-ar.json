@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 54031,
+    "language": "en-gl",
+    "location": {
+        "lat": 35.927296,
+        "lon": -89.918976
+    },
+    "name": "Blytheville, AR",
+    "search_volume": 3200,
+    "slug": "blytheville-ar",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "dc4229c7-15d5-47aa-a97f-3dc2ad952c33",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Blytheville (Exxon)",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Blytheville, AR",
+                "postalCode": "72315",
+                "streetAddress": "3701 S Division St"
+            },
+            "latitude": 35.889033,
+            "longitude": -89.918853
+        }
+    ]
+}

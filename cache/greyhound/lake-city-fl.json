@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 67823,
+    "language": "en-gl",
+    "location": {
+        "lat": 30.189676,
+        "lon": -82.63929
+    },
+    "name": "Lake City, FL",
+    "search_volume": 8800,
+    "slug": "lake-city-fl",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "8fbb97a9-b0ad-420a-9c26-69a06006af9c",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Lake City Bus Station",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Lake City, FL",
+                "postalCode": "32025",
+                "streetAddress": "251 S Marion Ave"
+            },
+            "latitude": 30.187147,
+            "longitude": -82.636833
+        }
+    ]
+}

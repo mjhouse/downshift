@@ -1,0 +1,33 @@
+{
+    "country": "US",
+    "id": 112983,
+    "language": "en-gl",
+    "location": {
+        "lat": 30.110495,
+        "lon": -97.31527
+    },
+    "name": "Bastrop, TX",
+    "search_volume": 900,
+    "slug": "bastrop-tx",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "f9a791c9-5d73-48d3-be5f-c843d90306b1",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Bastrop",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Bastrop, TX",
+                "postalCode": "78602",
+                "streetAddress": "310 Hospital Dr"
+            },
+            "latitude": 30.106925,
+            "longitude": -97.329945
+        }
+    ]
+}

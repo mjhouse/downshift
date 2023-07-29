@@ -1,0 +1,48 @@
+{
+    "country": "US",
+    "id": 110303,
+    "language": "en-gl",
+    "location": {
+        "lat": 47.006054,
+        "lon": -112.06917
+    },
+    "name": "Wolf Creek, MT",
+    "search_volume": 100,
+    "slug": "wolf-creek-mt",
+    "transportation_category": [
+        "bus"
+    ],
+    "uuid": "f8db7244-e40e-4748-86ae-81f584e9c6ae",
+    "stations": [
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Craig Junction",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Wolf Creek, MT",
+                "postalCode": "59648",
+                "streetAddress": "275 Bridge St"
+            },
+            "latitude": 47.042,
+            "longitude": -112.063
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BusStop",
+            "name": "Wolf Creek",
+            "openingHours": "Mo-Su",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "United States",
+                "addressLocality": "Wolf Creek, MT",
+                "postalCode": "59648",
+                "streetAddress": "250 Recreation Rd"
+            },
+            "latitude": 47.004302,
+            "longitude": -112.068537
+        }
+    ]
+}
