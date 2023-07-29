@@ -1,30 +1,126 @@
+import json
+import os
+from bs4 import BeautifulSoup
+from ratelimit import sleep_and_retry, limits
+import requests
+from jsonschema import validate
+
+from pathlib import Path
+from downshift.common.source import Source
+from downshift.constants import GREYHOUND_CITY_SEARCH
+
+ADDRESSES_SCHEMA = {
+    "type": "array",
+    "properties": {
+        "country": {"type": "string"},
+        "id": {"type": "number"},
+        "language": {"type": "string"},
+        "location": {"type": "object"},
+        "name": {"type": "string"},
+        "search_volume": {"type": "number"},
+        "slug": {"type": "string"},
+        "stations": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "@context": {"type": "string"},
+                    "@type": {"type": "string"},
+                    "address": {"type": "object"},
+                    "latitude": {"type": "number"},
+                    "longitude": {"type": "number"},
+                    "name": {"type": "string"},
+                    "openingHours": {"type": "string"},
+                },
+                "required": ["@type","address"],
+            },
+        },
+        "transportation_category": {"type": "array"},
+        "uuid": {"type": "string"},
+    },
+    "required": ["slug","uuid"], 
+}
+
+class Greyhound(Source):
+
+    def __init__(self):
+        super(Source).__init__()
+
+    @sleep_and_retry
+    @limits(calls=1, period=1)
+    def __fetch_cities(self, url: str) -> dict:
+        page = requests.get(url)
+        result = {}
+
+        if page.status_code != 200:
+            return result
+
+        return json.loads(page.text)
+
+    @sleep_and_retry
+    @limits(calls=1, period=1)
+    def __fetch_stations(self, slug: str) -> list[dict]:
+        # fetch the city page of the given slug from flixbus
+        page = requests.get(f"https://www.flixbus.com/bus/{slug}")
+
+        # check that the page was found
+        if page.status_code != 200:
+            return []
+
+        # parse the html and find a section with the 'stops-location' id
+        soup = BeautifulSoup(page.text, features="html.parser")
+        block = soup.find(id="stops-location")
+
+        # check that the section was found
+        if not block:
+            return []
+        
+        # get the first script block from the section
+        script = block.script
+
+        # check that the script block was found
+        if not script:
+            return []
+
+        # try to parse the script contents as json
+        data = None
+        
+        try:
+            data = json.loads(script.text)
+        except:
+            return []
+
+        # verify that the data has the expected shape
+        validate(data,ADDRESSES_SCHEMA)
+
+        # return the parsed addresses
+        return data
 
 
-GREYHOUND_CITY_DETAIL_SEARCH: str = "https://global.api.flixbus.com/search/service/cities/details?locale=en_US&from_city_id=37261"
+    def data(self) -> list[dict]:
+        # get all of the cities serviced by greyhound
+        cities = self.__fetch_cities(GREYHOUND_CITY_SEARCH)
+        result = []
 
-# lon/lat returned are for city centers, not for bus stop locations
-GREYHOUND_CITY_SEARCH: str = "https://global.api.flixbus.com/cms/cities?language=en-gl&country=US&limit=9999"
+        # check that nothing went horribly wrong
+        if not cities or not 'result' in cities.keys():
+            return result
+        
+        # for each city, get all of the stations
+        for city in cities['result']:
+            stations = self.__fetch_stations(city['slug'])
 
-# scheme
-# 	https
-# host
-# 	global.api.flixbus.com
-# filename
-# 	/search/service/v4/search
-# from_city_id
-# 	2ff0f50f-381d-4b87-b2c9-9b8fa7795f1c
-# to_city_id
-# 	12de2012-89ac-40a3-a908-2308ecf3a4ed
-# departure_date
-# 	23.07.2023
-# products
-# 	{"adult":1}
-# currency
-# 	USD
-# locale
-# 	en_US
-# search_by
-# 	cities
-# include_after_midnight_rides
-# 	1
-GREYHOUND_PRICE_SEARCH: str = "https://global.api.flixbus.com/search/service/v4/search?from_city_id=2ff0f50f-381d-4b87-b2c9-9b8fa7795f1c&to_city_id=12de2012-89ac-40a3-a908-2308ecf3a4ed&departure_date=23.07.2023&products=%7B%22adult%22%3A1%7D&currency=USD&locale=en_US&search_by=cities&include_after_midnight_rides=1"
+            # check that stations where found
+            if not stations:
+                continue
+
+            # add the station data to the city data
+            result.append({
+                **city,
+                'stations': stations,
+            })
+
+            break
+
+        # return each city with all stations
+        return result

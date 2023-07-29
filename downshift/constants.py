@@ -1,5 +1,38 @@
 from enum import Enum
 
+# get the slug from the GREYHOUND_CITY_SEARCH response and append it here where `aberdeen-md` is to 
+# get a page. The page has the addresses of all the bus stops in a js array inside of the section with 
+# id=`stops-location`
+GREYHOUND_BUS_ADDRESS: str = "https://www.flixbus.com/bus/aberdeen-md"
+
+# lon/lat returned are for city centers, not for bus stop locations
+GREYHOUND_CITY_SEARCH: str = "https://global.api.flixbus.com/cms/cities?language=en-gl&country=US&limit=9999"
+
+# scheme
+# 	https
+# host
+# 	global.api.flixbus.com
+# filename
+# 	/search/service/v4/search
+# from_city_id
+# 	2ff0f50f-381d-4b87-b2c9-9b8fa7795f1c
+# to_city_id
+# 	12de2012-89ac-40a3-a908-2308ecf3a4ed
+# departure_date
+# 	23.07.2023
+# products
+# 	{"adult":1}
+# currency
+# 	USD
+# locale
+# 	en_US
+# search_by
+# 	cities
+# include_after_midnight_rides
+# 	1
+GREYHOUND_PRICE_SEARCH: str = "https://global.api.flixbus.com/search/service/v4/search?from_city_id=2ff0f50f-381d-4b87-b2c9-9b8fa7795f1c&to_city_id=12de2012-89ac-40a3-a908-2308ecf3a4ed&departure_date=23.07.2023&products=%7B%22adult%22%3A1%7D&currency=USD&locale=en_US&search_by=cities&include_after_midnight_rides=1"
+
+
 # endpoints used to fetch station and transport data
 AMTRAK_STATIONS_URL: str = "https://maps.amtrak.com/services/MapDataService/stations/allStations"
 AMTRAK_ROUTES_URL: str = "https://maps.amtrak.com/services/MapDataService/stations/nationalRoute"

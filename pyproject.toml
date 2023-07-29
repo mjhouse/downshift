@@ -7,12 +7,18 @@ authors = ["Michael House <mjhouse@protonmail.com>"]
 readme = "README.md"
 
 [tool.poetry.scripts]
-console = "downshift.console:run"
+# this command will fetch all remote data 
+# and update the database. It's very slow.
+fetch = "downshift.console:fetch"
 
 [tool.poetry.dependencies]
 python = "^3.10"
 requests = "^2.31.0"
 pycryptodome = "^3.18.0"
+beautifulsoup4 = "^4.12.2"
+peewee = "^3.16.2"
+ratelimit = "^2.2.1"
+jsonschema = "^4.18.4"
 
 [build-system]
 requires = ["poetry-core"]

@@ -1,6 +1,10 @@
-from downshift.amtrak.source import Amtrak
+import pprint
+from downshift import sources
+from downshift.greyhound.source import Greyhound
 
-def run():
-    source = Amtrak("cache/")
-    for route in source.routes():
-        print(route)
+def fetch():
+    source = Greyhound()
+    pp = pprint.PrettyPrinter(indent=4)
+    for station in source.data():
+        pp.pprint(station)
+    # print(sources.ALL)
