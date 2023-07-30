@@ -35,6 +35,10 @@ class Address(Model):
     def build(data: dict):
         validate(data,GREYHOUND_ADDRESS_SCHEMA)
 
+        # do not build addresses without a state
+        if ',' not in data['addressLocality']:
+            return None
+
         street = data['streetAddress']
         city = data['addressLocality'].split(',')[0].strip()
         state = data['addressLocality'].split(',')[1].strip()
