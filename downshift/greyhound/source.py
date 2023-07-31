@@ -15,9 +15,13 @@ from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
 from downshift.constants import GREYHOUND_CITY_SEARCH
 from downshift.models.address import Address
+from downshift.models.route import Route
 from downshift.models.station import Station
 from downshift.models.city import City
+from peewee import *
 from selenium.webdriver.firefox.service import Service
+
+db = SqliteDatabase('data.db')
 
 REQUEST_DATA = {
     "from": 0,
@@ -197,9 +201,7 @@ class Greyhound(Source):
                 "Sec-Fetch-Site": "cross-site",
                 "TE": "trailers"
             })
-        print(json.dumps(result.json(),indent=4))
-
-        return []
+        return result.json()['hits']['hits']
 
     def __fetch_version(self) -> bool:
         options = Options()
@@ -258,9 +260,12 @@ class Greyhound(Source):
         has_key = bool(self.__flixbus_key)
 
         # check to see if we have a version key for 
-        # the flixbux api
+        # the flixbus api
         if not has_key:
             has_key = self.__fetch_version()
+
+        if not has_key:
+            return
 
         # get all of the cities serviced by greyhound
         cities = self.__fetch_cities(GREYHOUND_CITY_SEARCH)
@@ -305,7 +310,18 @@ class Greyhound(Source):
                 except:
                     station = Station.get(Station.address == address)
 
+        routes = []
+
         print("fetching routes for each city:")
         for city in City.select():
-            reachable = self.__fetch_reachable(city.identifier)
-            # print(reachable)
+            result = self.__fetch_reachable(city.identifier)
+            ids = [ h['_source']['id'] for h in result ]
+            
+            print(f"  fetching reachable cities:")
+            cities = list(City.select().where(City.identifier.in_(ids)))
+
+            print(f"  found {len(cities)} hits:")
+            routes.extend(Route.build(city,other) for other in cities)
+
+        print(f"  creating {len(routes)} routes")
+        Route.bulk_create(routes)
