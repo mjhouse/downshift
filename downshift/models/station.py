@@ -1,5 +1,3 @@
-# from typing import Self
-import json
 from peewee import *
 from jsonschema import validate
 from downshift.constants import StationType
